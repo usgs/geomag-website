@@ -17,8 +17,11 @@ if (!isset($TEMPLATE)) {
         View <a href="http://www.youtube.com/watch?v=s9YGOUWpH8s">
             "Hazards: Geomagnetic Storms"</a> - a 7-minute introductory video
       </p>
-      <iframe class="ifram" src="//www.youtube.com/embed/s9YGOUWpH8s"
-          allowfullscreen></iframe>
+      <div class="iframe-container">
+        <iframe class="iframe" src="//www.youtube.com/embed/s9YGOUWpH8s"
+            allowfullscreen="" frameborder="0">
+        </iframe>
+      </div>
     </div>
   </div>
   <div class="one-of-two column">
