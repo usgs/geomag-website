@@ -19,7 +19,7 @@ if (!isset($TEMPLATE)) {
       </p>
       <div class="iframe-container">
         <iframe class="iframe" src="//www.youtube.com/embed/s9YGOUWpH8s"
-            allowfullscreen="" frameborder="0">
+            allowfullscreen="">
         </iframe>
       </div>
     </div>
