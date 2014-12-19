@@ -1,0 +1,36 @@
+.iframe-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 35px;
+  height: 0;
+  overflow: hidden;
+}
+
+.iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.column {
+  > ul {
+    list-style: none;
+    margin-top: 0;
+    padding: 0;
+
+    > li {
+      &:nth-child(2n+1) {
+        clear:left;
+      }
+      > div {
+        > p {
+          margin-top: 0;
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}
