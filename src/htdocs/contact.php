@@ -171,11 +171,11 @@
         <dd>
           USGS DFC<br/>
           Box 25046, MS 966<br/>
-          Denver, CO 80225-0046</br>
+          Denver, CO 80225-0046<br/>
         </dd>
       <dt>Physical/Delivery Address</dt>
         <dd>
-          USGS</br>
+          USGS<br/>
           1711 Illinois Street<br/>
           Golden, CO 80401-1865<br/>
         </dd>
