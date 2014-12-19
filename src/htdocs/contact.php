@@ -1,15 +1,16 @@
 <?php
-	if(!isset($TEMPLATE)) {
-		$TEMPLATE = 'onecolumn';
-		$TITLE = "Contact Us";
-		include 'template.inc.php';
-	}
+  if(!isset($TEMPLATE)) {
+    $TEMPLATE = 'onecolumn';
+    $TITLE = "Contact Us";
+    $HEAD = '<link rel="stylesheet" href="contact.css"/>';
+    include 'template.inc.php';
+  }
 ?>
 
 <div class="row">
   <div class="one-of-two column">
     <h2>Staff at Headquarters</h2>
-    <ul class="no-style">
+    <ul class="no-style separator">
       <li class="row">
         <img src="/images/staff/finn_a_sm.jpg" alt=""
             class="column mobile-one-of-four" />
@@ -20,7 +21,6 @@
           <a href="mailto:cafinn@usgs.gov">cafinn@usgs.gov</a>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/Love_Jeff.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -30,7 +30,6 @@
           <a href="mailto:jlove@usgs.gov">jlove@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/Caldwell_Jill.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -40,7 +39,6 @@
           <a href="mailto:jcaldwell@usgs.gov">jcaldwell@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/Jeff_Fox_sm.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -50,7 +48,6 @@
           <a href="mailto:jfox@usgs.gov">jfox@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/McWhirter_Eddie.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -60,7 +57,6 @@
           <a href="mailto:emcwhirter@usgs.gov">emcwhirter@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/Morris_Jake_small.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -70,7 +66,6 @@
           <a href="mailto:jakemor@usgs.gov">jakemor@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/Nelson_Mark.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -80,7 +75,6 @@
           <a href="mailto:mdnelson@usgs.gov">mdnelson@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/Rigler_Josh_small.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -90,7 +84,6 @@
           <a href="mailto:erigler@usgs.gov">erigler@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/Sauter_Ed.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -100,7 +93,6 @@
           <a href="mailto:esauter@usgs.gov">esauter@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/Simpson_Hal.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -109,7 +101,6 @@
           <a href="mailto:hasimpson@usgs.gov">hasimpson@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/Duff02.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -119,7 +110,6 @@
           <a href="mailto:dcstewart@usgs.gov">dcstewart@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/White_Tim.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
@@ -129,7 +119,6 @@
           <a href="mailto:ttwhite@usgs.gov">ttwhite@usgs.gov</a><br/>
         </div>
       </li>
-      <hr>
       <li class="row">
         <img src="/images/staff/bill2_sm.jpg" alt="" class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
