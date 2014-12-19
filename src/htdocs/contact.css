@@ -1,0 +1,6 @@
+.separator >li {
+  padding-bottom: 1em;
+}
+.separator >li ~ li {
+  padding: 1em 0;
+}
