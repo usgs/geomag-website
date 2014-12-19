@@ -22,7 +22,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/Love_Jeff.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/Love_Jeff.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           <a href="http://profile.usgs.gov/jlove">Jeffrey J. Love</a><br/>
           USGS Advisor for Geomagnetic Research<br/>
@@ -31,7 +32,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/Caldwell_Jill.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/Caldwell_Jill.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           Jill E. Caldwell<br/>
           Data Processing<br/>
@@ -40,7 +42,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/Jeff_Fox_sm.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/Jeff_Fox_sm.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           Jeffrey L. Fox<br/>
           Operations<br/>
@@ -49,7 +52,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/McWhirter_Eddie.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/McWhirter_Eddie.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           Edward A. McWhirter Jr.<br/>
           Software Development<br/>
@@ -58,7 +62,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/Morris_Jake_small.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/Morris_Jake_small.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           Jake R. Morris<br/>
           Operations<br/>
@@ -67,7 +72,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/Nelson_Mark.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/Nelson_Mark.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           Mark Nelson<br/>
           Facilities Manager<br/>
@@ -76,7 +82,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/Rigler_Josh_small.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/Rigler_Josh_small.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           E. Joshua 'Josh' Rigler<br/>
           Research and Development<br/>
@@ -85,7 +92,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/Sauter_Ed.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/Sauter_Ed.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           Edward A. Sauter<br/>
           Electronics<br/>
@@ -94,7 +102,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/Simpson_Hal.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/Simpson_Hal.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           Hal A. Simpson<br/>
           Software Development<br/>
@@ -102,7 +111,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/Duff02.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/Duff02.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           Duff C. Stewart<br/>
           Software Development<br/>
@@ -111,7 +121,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/White_Tim.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/White_Tim.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           Tim C. White<br/>
           Electronics<br/>
@@ -120,7 +131,8 @@
         </div>
       </li>
       <li class="row">
-        <img src="/images/staff/bill2_sm.jpg" alt="" class="column mobile-one-of-four" />
+        <img src="/images/staff/bill2_sm.jpg" alt=""
+            class="column mobile-one-of-four" />
         <div class="column mobile-three-of-four">
           E. William 'Bill' Worthington<br/>
           Operations<br/>
@@ -132,7 +144,8 @@
     <h2>Staff Outside of Headquarters</h2>
     <ul class="no-style">
     <li class="row">
-      <img src="/images/staff/Murray_Eric_small.jpg" alt="" class="column mobile-one-of-four" />
+      <img src="/images/staff/Murray_Eric_small.jpg" alt=""
+          class="column mobile-one-of-four" />
       <div class="column mobile-three-of-four">
         Eric V. Murray<br/>
         Fredericksburg Operations<br/>
