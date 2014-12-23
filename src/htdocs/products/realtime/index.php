@@ -1,7 +1,6 @@
 <?php
   if(!isset($TEMPLATE)) {
     $TITLE = 'Blended Real-Time Data - Preliminary';
-    $HEAD = '<link rel="stylesheet" href="index.css"/>';
     include 'template.inc.php';
   }
 ?>
