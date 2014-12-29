@@ -27,16 +27,16 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     Worthington, E. W., Sauter, E. A. & Love, J. J., 2009.
-    <a href="http://geomag.usgs.gov/downloads/publications/Proceedings_262-266.pdf">Analysis of USGS
-    one-second data</a>,
+    <a href="http://geomag.usgs.gov/downloads/publications/Proceedings_262-266.pdf">
+        Analysis of USGS one-second data</a>,
     <a href="http://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
     Golden, CO, Love, J. J. (ed.), pp. 262-266.
   </li>
   <li>
     Love, J. J., Tsai, V. C. & Gannon, J. L., 2010.
-    <a href="http://geomag.usgs.gov/downloads/publications/angeo-28-2079-2010.pdf">Averaging and
-    sampling for magnetic observatory hourly data</a>, Ann. Geophys., 28,
-    2079-2096.
+    <a href="http://geomag.usgs.gov/downloads/publications/angeo-28-2079-2010.pdf">
+        Averaging and sampling for magnetic observatory hourly data</a>,
+    Ann. Geophys., 28, 2079-2096.
   </li>
   <li>
     Love, J. J., 2011. <a href="http://geomag.usgs.gov/downloads/publications/angeo-29-1365-2011.pdf">
