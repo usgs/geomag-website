@@ -185,14 +185,18 @@
   </div>
   <div class="one-of-two column">
     <h2>Observatory Operations</h2>
-    Carol A. Finn<br/>
-    <a href="mailto:cafinn@usgs.gov">cafinn@usgs.gov</a>
+    <p>
+      Carol A. Finn<br/>
+      <a href="mailto:cafinn@usgs.gov">cafinn@usgs.gov</a>
+    </p>
 
     <h2>Website Issues</h2>
-    Eddie McWhirter<br/>
-    <a href="mailto:emcwhirter@usgs.gov?cc=lisa@usgs.gov">
-        emcwhirter@usgs.gov
-    </a>
+    <p>
+      Eddie McWhirter<br/>
+      <a href="mailto:emcwhirter@usgs.gov?cc=lisa@usgs.gov">
+          emcwhirter@usgs.gov
+      </a>
+    </p>
 
     <h2>Headquarters</h2>
     <dl>
