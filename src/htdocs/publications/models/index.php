@@ -14,7 +14,7 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Love, J. J. & Gannon, J. L., 2009.
+    Love, J. J. &amp; Gannon, J. L., 2009.
     <a href="/downloads/publications/angeo-27-3101-2009.pdf">
     Revised Dst and the epicycles of magnetic disturbance: 1958-2007</a>, Ann.
     Geophys., 27, 3101-3131.
