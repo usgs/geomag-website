@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JNLP File for Geomagnetic Field Calculator -->
+<jnlp
+   version="1.0"
+   spec="1.0+"
+   codebase="http://gldweb.cr.ugsg.gov:8080"
+   href="magcalc.jnlp"
+>
+<information>
+   <title>MagCalc</title>
+   <vendor>U.S. Geological Survey</vendor>
+   <homepage href="http://geomag.usgs.gov/models/models/index.html"/>
+   <description>Geomagnetic Field Calculator</description>
+   <description kind="short">Calculator geomagnetic field components by time and model.</description>
+   <icon href="Geomagnetic Field Calculator" width="165" height="72" />
+   <offline-allowed />
+</information>
+<resources>
+   <j2se version="1.4"/>
+   <jar href="magcalc.jar"/>
+   <jar href="models.zip"/>
+</resources>
+<application-desc>
+   <main-class>/gov/usgs/apps/magcalc/MagCalcApp<main-class>
+   <argument>jlove@usgs.gov</argument>
+</application-desc>
+</jnlp>
