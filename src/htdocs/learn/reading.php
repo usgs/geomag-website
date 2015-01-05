@@ -8,11 +8,13 @@ if (!isset($TEMPLATE)) {
 
 <h2>Quick Links</h2>
 
-<a class="jumplist" href="#aurora">Aurora</a>
-<a class="jumplist" href="#storms">Geomagnetic Storms</a>
-<a class="jumplist" href="#fields">Geomagnetism and Magnetic Fields</a><br /><br />
-<a class="jumplist" href="#magnetosphere">Magnetosphere and Ionosphere</a>
-<a class="jumplist" href="#space">Space Weather Impacts on Earth</a>
+<div class="jumplist">
+  <a href="#aurora">Aurora</a>
+  <a href="#storms">Geomagnetic Storms</a>
+  <a href="#fields">Geomagnetism and Magnetic Fields</a>
+  <a href="#magnetosphere">Magnetosphere and Ionosphere</a>
+  <a href="#space">Space Weather Impacts on Earth</a>
+</div>
 
 <a name="aurora"><h2>Aurora</h2></a>
 
@@ -128,7 +130,7 @@ if (!isset($TEMPLATE)) {
   </li>
 </ul>
 
-  <br clear="all">
+<br clear="all">
 
 <a name="magnetosphere"><h2>Magnetosphere and Ionosphere</h2></a>
 
