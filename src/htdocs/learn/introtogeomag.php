@@ -8,7 +8,7 @@ if (!isset($TEMPLATE)) {
 
 <p>
   View <a href="http://www.youtube.com/watch?v=s9YGOUWpH8s">"Hazards:
-      Geomagnetic Storms"</a> - a 7-minute introductory video
+  Geomagnetic Storms"</a> - a 7-minute introductory video
 </p>
 
 <div class="iframe-container">
@@ -94,26 +94,22 @@ if (!isset($TEMPLATE)) {
   <li>
     Love, J. J., 2011.
     <a href="/downloads/publications/Magnetic-Observatory-McGraw-Hill-Encyclopedia.pdf">
-      Magnetic observatory</a>,
-    McGraw-Hill Encyclopedia of Science &amp; Technology, 10, 307-310.
+    Magnetic observatory</a>, McGraw-Hill Encyclopedia of Science &amp;
+    Technology, 10, 307-310.
   </li>
   <li>
     Love, J. J. &amp; Finn, C. A., 2011.
     <a href="/downloads/publications/2011SW000684.pdf">The USGS Geomagnetism
-        Program and its role in space
-        weather monitoring</a>,
-    Space Weather, 9, S07001, doi:10.1029/2011SW000684.
+    Program and its role in space weather monitoring</a>, Space Weather, 9,
+    S07001, doi:10.1029/2011SW000684.
   </li>
   <li>
-    Love, J. J., Feb. 2008.
-    <a href="/downloads/publications/pt_love0208.pdf">Magnetic monitoring of
-        Earth and space</a>,
-    Physics Today, 61, 31-37.
+    Love, J. J., Feb. 2008. <a href="/downloads/publications/pt_love0208.pdf">
+    Magnetic monitoring of Earth and space</a>, Physics Today, 61, 31-37.
   </li>
   <li>
     Love, J. J., Applegate, D. &amp; Townshend, J .B., 2008.
     <a href="http://pubs.usgs.gov/fs/2007/3092/">Monitoring the Earth's Dynamic
-        Magnetic Field</a>,
-    USGS Fact Sheet, 2007-3092.
+    Magnetic Field</a>, USGS Fact Sheet, 2007-3092.
   </li>
 </ul>
