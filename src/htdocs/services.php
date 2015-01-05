@@ -10,8 +10,10 @@ if (!isset($TEMPLATE)) {
       alt="Bill Worthington conducting a magnetic survey of an airport." />
 </figure>
 
-The Geomagnetism Group provides services to governmental, academic, and private
-communities.
+<p>
+  The Geomagnetism Group provides services to governmental, academic, and
+  private communities.
+</p>
 
 <h3>Calibration</h3>
 
