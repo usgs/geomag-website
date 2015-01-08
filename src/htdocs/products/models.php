@@ -6,9 +6,9 @@
 ?>
 
 <p>
-  For main-field models and calculators for declination and other field
-  components, please visit
-      <a href='http://www.ngdc.noaa.gov/geomag/magfield.shtml'>NOAA</a>.
+  <a href="http://www.ngdc.noaa.gov/geomag/magfield.shtml">
+  NOAA main-field models and calculators for declination and other field
+  components</a>
 </p>
 
 <p>
@@ -20,6 +20,6 @@
 </p>
 
 <p>
-  <a href="movies/index.php?type=declination&format=gif">
+  <a href="movies/index.php?type=declination&amp;format=gif">
       Declination of the Earth 1590-1990</a>
 </p>
