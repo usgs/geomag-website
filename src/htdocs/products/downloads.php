@@ -18,7 +18,9 @@ if (!isset($TEMPLATE)) {
     <dl>
       <dt>Data Types:</dt>
         <dd>
-          <a href="http://magweb.cr.usgs.gov/data/indices/">Indices</a><br />
+          <a href="http://magweb.cr.usgs.gov/data/indices/">Indices</a>
+        </dd>
+        <dd>
           <a href="http://magweb.cr.usgs.gov/data/magnetometer/">
             Magnetometer Data</a>
         </dd>
@@ -53,9 +55,13 @@ if (!isset($TEMPLATE)) {
       <dt>Definitive Dst</dt>
         <dd>
           <a href="ftp://ftpext.usgs.gov/pub/cr/co/golden/jlove/models/5807-4SH">
-            1-hour USGS Dst</a><br />
+            1-hour USGS Dst</a>
+        </dd>
+        <dd>
           <a href="ftp://hazards.cr.usgs.gov/minDst_definitive">
-            1-minute USGS Dst</a><br />
+            1-minute USGS Dst</a>
+        </dd>
+        <dd>
           <a href="ftp://hazards.cr.usgs.gov/minDst">
             Near Real-Time USGS Dst</a>
         </dd>
