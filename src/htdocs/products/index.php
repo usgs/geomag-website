@@ -12,10 +12,10 @@
 		<div class="row">
 			<img src="/images/realtime_final.png" alt=""
 					class="column mobile-one-of-four" />
-			<p class="column mobile-three-of-four">
+			<div class="column mobile-three-of-four">
 				Real-time HEZF index display from USGS geomagnetic observatories
 				internet feeds without filling gaps with satellite data.
-			</p>
+			</div>
 		</div>
 	</li>
 	<li class="column">
@@ -24,9 +24,9 @@
 		<div class="row">
 			<img src="/images/lobby_final.png" alt=""
 					class="column mobile-one-of-four" />
-			<p class="column mobile-three-of-four">
+			<div class="column mobile-three-of-four">
 				Real-time H index data as displayed above but sorted by latitude.
-			</p>
+			</div>
 		</div>
 	</li>
 	<li class="column">
@@ -34,10 +34,10 @@
 		<div class="row">
 			<img src="/images/blended_final.png" alt=""
 					class="column mobile-one-of-four" />
-			<p class="column mobile-three-of-four">
+			<div class="column mobile-three-of-four">
 				Real-time HEZF data from USGS geomagnetic observatories with
 				satellite data used to fill gaps.
-			</p>
+			</div>
 		</div>
 	</li>
 	<li class="column">
@@ -45,10 +45,10 @@
 		<div class="row">
 			<img src="/images/download.png" alt=""
 					class="column mobile-one-of-four" />
-			<p class="column mobile-three-of-four">
+			<div class="column mobile-three-of-four">
 				Download real-time and definitive data and indices from USGS
 				geomagnetic observatories.
-			</p>
+			</div>
 		</div>
 	</li>
 	<li class="column">
@@ -56,9 +56,9 @@
 		<div class="row">
 			<img src="/images/storms_final.png" alt=""
 					class="column mobile-one-of-four" />
-			<p class="column mobile-three-of-four">
+			<div class="column mobile-three-of-four">
 				View reports on magnetic disturbance events.
-			</p>
+			</div>
 		</div>
 	</li>
 	<li class="column">
@@ -66,9 +66,9 @@
 		<div class="row">
 			<img src="/images/models_final.png" alt=""
 					class="column mobile-one-of-four" />
-			<p class="column mobile-three-of-four">
+			<div class="column mobile-three-of-four">
 				View and download model results from magnetic studies.
-			</p>
+			</div>
 		</div>
 	</li>
 	<li class="column">
@@ -76,9 +76,9 @@
 		<div class="row">
 			<img src="/images/map_final.png" alt=""
 					class="column mobile-one-of-four" />
-			<p class="column mobile-three-of-four">
+			<div class="column mobile-three-of-four">
 				Real-time data map display from USGS geomagnetic observatories.
-			</p>
+			</div>
 		</div>
 	</li>
 	<li class="column">
@@ -86,19 +86,19 @@
 		<div class="row">
 			<img src="/images/dst_final.png" alt=""
 					class="column mobile-one-of-four" />
-			<p class="column mobile-three-of-four">
+			<div class="column mobile-three-of-four">
 				Real-time Dst data from USGS observatories as well as other world
 				partners.
-			</p>
+			</div>
 		</div>
 	</li>
 	<li class="column">
 		<h2><a href="beta.php">Beta Products</a></h2>
 		<div class="row">
-			<p class="column mobile-three-of-four">
+			<div class="column mobile-three-of-four">
 				These products are in development and are offered "as-is" with no
 				guarantee of availability, accuracy, or support.
-			</p>
+			</div>
 		</div>
 	</li>
 	<li class="column">
