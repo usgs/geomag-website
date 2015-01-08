@@ -5,23 +5,18 @@
   }
 ?>
 
-<ul class="row no-style">
-  <li class="column">
-    <div class="row">
-      <a href="/monitoring/observatories/">
-        <img src="/images/observatory_map_2012_05.jpg"
-            alt="USGS Geomagnetic Observatories"
-            class="column mobile-one-of-four" />
-      </a>
-      <p class="column mobile-three-of-four">
-        Blended data is preliminary data that contains all of the same
-        information as the <a href="/products/">Real-Time Data Display</a> with
-        the addition of Satellite data used to fill in any gaps in the
-        transmitted data.
-      </p>
-    </div>
-  </li>
-</ul>
+<div class="row">
+  <a href="/monitoring/observatories/">
+      <img src="/images/observatory_map_2012_05.jpg"
+      alt="USGS Geomagnetic Observatories" class="column mobile-one-of-four" />
+  </a>
+  <p class="column mobile-three-of-four">
+    Blended data is preliminary data that contains all of the same
+    information as the <a href="/products/">Real-Time Data Display</a> with
+    the addition of Satellite data used to fill in any gaps in the
+    transmitted data.
+  </p>
+</div>
 
 <h3>View Preliminary Data</h3>
 <p>
@@ -70,9 +65,7 @@
   more ways to get USGS data.
 </p>
 
-<p>
-  USGS Geomagnetism Program Data, Inquiries and Specialized Data Requests
-</p>
+<h3>USGS Geomagnetism Program Data, Inquiries and Specialized Data Requests</h3>
 
 <p>
   Duff C Stewart<br/>
