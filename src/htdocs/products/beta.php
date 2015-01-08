@@ -11,15 +11,27 @@
   from this page.
 </p>
 
-<dl class="no-style">
+<dl>
   <dt>Beta Data Graphs</dt>
     <dd>
-      <a href="/realtime/adj/">Adjusted data</a><br />
-      <a href="/realtime/ae/">AE-Index</a><br />
-      <a href="/realtime/k/">Real-Time Local K Index</a><br />
-      <a href="/realtime/dist/">Real-Time Local Disturbance Display</a><br />
-      <a href="/realtime/SQ/">Real-Time Solar Quiet Display</a><br/>
-      <a href="/realtime/Pulsation/">Pulsation</a><br />
-      <a href="/realtime/xy/">XY-component data</a><br />
+      <a href="/realtime/adj/">Adjusted data</a>
+    </dd>
+    <dd>
+      <a href="/realtime/ae/">AE-Index</a>
+    </dd>
+    <dd>
+      <a href="/realtime/k/">Real-Time Local K Index</a>
+    </dd>
+    <dd>
+      <a href="/realtime/dist/">Real-Time Local Disturbance Display</a>
+    </dd>
+    <dd>
+      <a href="/realtime/SQ/">Real-Time Solar Quiet Display</a>
+    </dd>
+    <dd>
+      <a href="/realtime/Pulsation/">Pulsation</a>
+    </dd>
+    <dd>
+      <a href="/realtime/xy/">XY-component data</a>
     </dd>
 </dl>
