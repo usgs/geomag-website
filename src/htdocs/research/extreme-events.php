@@ -6,7 +6,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <img src="/images/Lisbon-earthquake.jpg"
-    alt="Depiction of the Great Lisbon earthquake of 1755">
+    alt="Depiction of the Great Lisbon earthquake of 1755" />
 
 <p>
   Extremely large earthquakes, volcanic eruptions, magnetic storms, and other
@@ -20,14 +20,18 @@ if (!isset($TEMPLATE)) {
 <p>
   Examples of extreme-event work published by USGS scientists include:
 </p>
+
 <ul class="referencelist">
   <li>
     Love, J. J., 2012.
-    <a href="http://geomag.usgs.gov/downloads/publications/2012GL051431.pdf">
+    <a href="/downloads/publications/2012GL051431.pdf">
     Credible occurrence probabilities for extreme geophysical events:
     Earthquakes, volcanic eruptions, magnetic storms</a>, Geophys. Res. Lett.,
     39, L10301, doi:10.1029/2012GL051431
   </li>
 </ul>
-Primary USGS contact:
-    <a href="https://profile.usgs.gov/jlove">Jeffrey J. Love</a>
+
+<p>
+  Primary USGS contact: <a href="https://profile.usgs.gov/jlove">Jeffrey J.
+  Love</a>
+<p>
