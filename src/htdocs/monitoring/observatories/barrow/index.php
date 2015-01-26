@@ -1,8 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Barrow (BRW)';
-  $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
-          <meta name="viewport" content="width=device-width">';
+  $HEAD = '<link rel="stylesheet" href="index.css" />';
   include 'template.inc.php';
 }
 ?>
@@ -155,12 +154,49 @@ if (!isset($TEMPLATE)) {
       <h2>Photos</h2>
     </header>
     <p>
-      <div id="slideshow">
-        <embed width="608" height="404"
-        flashvars="file=http://gallery.usgs.gov/rss/imagerotator.rss?tag=BRW&amp;transition=fade&amp;width=608&amp;height=404&amp;rotatetime=5&amp;linktarget=_blank&amp;linkfromdisplay=true&amp;autostart=true&amp;shuffle=false&amp;logo=/images/logos/usgs_small.png"
-        allowfullscreen="true" allowscriptaccess="always"
-        src="http://gallery.usgs.gov/shell/player/imagerotator.swf">
-      </div>
+      <figure class="center">
+        <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Barrow.jpg"
+        alt="" />
+        <figcaption>
+          The Barrow magnetic observatory. New combo building is on the left.
+          Old absolutes building in the center.
+        </figcaption>
+      </figure>
+      <figure class="center">
+        <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Geomagnetic_Crew.jpg"
+        alt="" />
+        <figcaption>
+          The Golden Geomagnetic crew in Barrow, Alaska.
+        </figcaption>
+      </figure>
+      <figure class="center">
+        <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/magnetometer.jpg"
+        alt="" />
+        <figcaption>
+          A field magnetometer.
+        </figcaption>
+      </figure>
+      <figure class="center">
+        <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow1.jpg"
+        alt="" />
+        <figcaption>
+          Absolute instrument pier cross-section from Barrow, AK.
+        </figcaption>
+      </figure>
+      <figure class="center">
+        <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow2.jpg"
+        alt="" />
+        <figcaption>
+          Photo from Barrow, AK geomagentic observatory.
+        </figcaption>
+      </figure>
+      <figure class="center">
+        <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow3.jpg"
+        alt="" />
+        <figcaption>
+          Photo from Barrow, AK geomagentic observatory.
+        </figcaption>
+      </figure>
     </p>
   </section>
 </div>
