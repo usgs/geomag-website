@@ -6,7 +6,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <img src="/images/Loma-Prieta-042sr.jpg"
-    alt="Building damaged during the Loma Prieta earthquake">
+    alt="Building damaged during the Loma Prieta earthquake" />
 
 <p>
   Reliable earthquake prediction is a worthwhile goal that, if ever attained,
@@ -36,20 +36,20 @@ if (!isset($TEMPLATE)) {
   <li>
     Thomas, J. N., Love, J. J., Komjathy, A., Verkhoglyadova, O. P., Butala,
         M. &amp; Rivera, N., 2012.
-    <a href="http://geomag.usgs.gov/downloads/publications/2012GL051022.pdf">On
+    <a href="/downloads/publications/2012GL051022.pdf">On
         the reported ionospheric precursor of the 1999 Hector Mine, California
         earthquake</a>,
       Geophys. Res. Lett., 39, L06302, doi:10.1029/2012GL051022.
   </li>
   <li>
     Thomas, J. N., Love, J. J., Johnston, M. J. S. &amp; Yumoto, K., 2009.
-    <a href="http://geomag.usgs.gov/downloads/publications/Thomas_et_al_Guam_GRL_2009.pdf">
+    <a href="/downloads/publications/Thomas_et_al_Guam_GRL_2009.pdf">
         On the reported magnetic precursor of the 1993 Guam earthquake</a>,
       Geophys. Res. Lett., 36, L16301, doi:10.1029/2009GL039020.
   </li>
   <li>
     Thomas, J. N., Love, J. J. &amp; Johnston, M. J. S., 2009.
-    <a href="http://geomag.usgs.gov/downloads/publications/Thomas_et_al_Loma_Prieta_PEPI_2009.pdf">
+    <a href="/downloads/publications/Thomas_et_al_Loma_Prieta_PEPI_2009.pdf">
         On the reported magnetic precursor of the 1989 Loma Prieta
         earthquake</a>,
       Phys. Earth Planet. Int., 173, 207-215, doi:10.1016/j.pepi.2008.11.014.
