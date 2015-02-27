@@ -65,7 +65,7 @@
     <figure>
       <img src="/images/MagSensors4.jpg" alt="Observatory sensor package." />
       <figcaption>
-        bservatory Sensor Package. The basic sensor package installed at each
+        Observatory Sensor Package. The basic sensor package installed at each
         observatory: (bottom) fluxgate magnetometer, (top left) proton
         magnetometer, (top right) theodolite with fluxgate coupled to the
         telescope.
