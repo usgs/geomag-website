@@ -1,15 +1,16 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Geomagnetically Induced Currents';
+  //$CONTACT = 'Questions about our research';
   include 'template.inc.php';
 }
 ?>
 
 <figure class="right">
-  <img src="/images/GIC.png" alt="Thumbnails of regional conductivity graphs.">
-  <p>
+  <img src="/images/GIC.png" alt="Thumbnails of regional conductivity graphs."/>
+  <figcaption>
     (Fernberg et al. 2013, in prep.)
-  </p>
+  </figcaption>
 </figure>
 
 <p>
@@ -65,7 +66,7 @@ if (!isset($TEMPLATE)) {
     2266-2274, doi:10.1002/2014GL059568.
   </li>
 </ul>
-
+<!--
 <p>Questions about our research?
   <a href="mailto:geomag_research@usgs.gov">E-mail us</a>
-</p>
+</p> -->
