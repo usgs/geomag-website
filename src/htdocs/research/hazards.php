@@ -32,7 +32,3 @@ if (!isset($TEMPLATE)) {
 <br />
 
 <img src="/images/hazard.gif" alt="Hazard Map">
-
-<p>
-  Questions about our research? <a href="mailto:geomag_research">E-mail us</a>
-</p>
