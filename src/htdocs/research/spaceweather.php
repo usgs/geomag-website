@@ -1,6 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Space Weather Applications';
+  $CONTACT = 'geomag_research';
   include 'template.inc.php';
 }
 ?>
@@ -91,9 +92,4 @@ if (!isset($TEMPLATE)) {
   indices are real-time specifications of Pc3, Pc4, and Pc5 waves. These
   indices require 1 second data to fully resolve the high frequency
   components.
-</p>
-
-<p>
-  Questions about our research? <a href="mailto:geomag_research@usgs.gov">
-  E-mail us</a>
 </p>
