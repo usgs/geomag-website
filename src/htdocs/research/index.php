@@ -3,6 +3,7 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Research';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
+  $CONTACT = 'geomag_research';
   include 'template.inc.php';
 }
 

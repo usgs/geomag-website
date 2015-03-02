@@ -1,6 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Space Climatology';
+  $CONTACT = 'geomag_research';
   include 'template.inc.php';
 }
 ?>

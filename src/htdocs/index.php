@@ -3,6 +3,7 @@
 if (!isset($TEMPLATE)) {
 	$TITLE = 'USGS Geomagnetism Program';
 	$HEAD = '<link rel="stylesheet" href="index.css"/>';
+	$CONTACT = 'geomag_research';
 	include 'template.inc.php';
 }
 

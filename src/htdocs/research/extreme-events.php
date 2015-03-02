@@ -1,6 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Extreme Events';
+  $CONTACT = 'geomag_research';
   include 'template.inc.php';
 }
 ?>
