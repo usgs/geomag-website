@@ -24,9 +24,9 @@ if (!isset($TEMPLATE)) {
 
 <h3>Hazard Mapping Products</h3>
 
-<p>
-  <a class="jumplist" href="/map/">Real-Time Data Mapping</a>
-  <a class="jumplist" href="/conductivity/">Regional Conductivity Maps</a>
+<p class="jumplist">
+  <a href="/map/">Real-Time Data Mapping</a>
+  <a href="/conductivity/">Regional Conductivity Maps</a>
 </p>
 
 <br />
