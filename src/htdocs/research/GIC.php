@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Geomagnetically Induced Currents';
-  //$CONTACT = 'Questions about our research';
+  $CONTACT = 'geomag_research';
   include 'template.inc.php';
 }
 ?>
@@ -66,7 +66,3 @@ if (!isset($TEMPLATE)) {
     2266-2274, doi:10.1002/2014GL059568.
   </li>
 </ul>
-<!--
-<p>Questions about our research?
-  <a href="mailto:geomag_research@usgs.gov">E-mail us</a>
-</p> -->
