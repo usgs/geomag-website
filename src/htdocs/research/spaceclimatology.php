@@ -7,7 +7,7 @@ if (!isset($TEMPLATE)) {
 
 <figure class="right">
   <img src="/images/Sun-Earth-3.jpg"
-      alt="Solar activity's effect on the Earth's magnetic field">
+      alt="Solar activity's effect on the Earth's magnetic field" />
 </figure>
 
 <p>
@@ -39,27 +39,27 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     Love, J. J., Rigler, E. J. &amp; Gibson, S. E., 2012.
-    <a href="http://geomag.usgs.gov/downloads/publications/2011GL050702.pdf">
+    <a href="/downloads/publications/2011GL050702.pdf">
         Geomagnetic detection of the sectorial solar magnetic field and the
         historical peculiarity of minimum 23-24</a>,
     Geophys. Res. Lett., 39, L04102, doi:10.1029/2012GL050702.
   </li>
   <li>
     Love, J. J. &amp; Rigler, E. J., 2012.
-    <a href="http://geomag.usgs.gov/downloads/publications/2012GL051818.pdf">
+    <a href="/downloads/publications/2012GL051818.pdf">
         Sunspot random walk and 22-year variation</a>,
     Geophys. Res. Lett., 39, L10103, doi:10.1029/2012GL051818.
   </li>
   <li>
     Love, J. J., Mursula, K., Tsai, V. C. &amp; Perkins, D. M., 2011.
-    <a href="http://geomag.usgs.gov/downloads/publications/2011GL049380.pdf">
+    <a href="/downloads/publications/2011GL049380.pdf">
         Are secular correlations between sunspots, geomagnetic activity, and
         global temperature significant?</a>,
     Geophys. Res. Lett., 38, L21703, doi:10.1029/2011GL049380.
   </li>
   <li>
     Love, J. J., 2011.
-    <a href="http://geomag.usgs.gov/downloads/publications/angeo-29-251-2011.pdf">
+    <a href="/downloads/publications/angeo-29-251-2011.pdf">
       Secular trends in storm-level geomagnetic activity</a>,
     Ann. Geophys., 29, 251-262.
   </li>
