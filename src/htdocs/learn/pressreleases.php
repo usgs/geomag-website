@@ -1,6 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Press Releases';
+  $CONTACT = 'geomag_research';
   include 'template.inc.php';
 }
 ?>
