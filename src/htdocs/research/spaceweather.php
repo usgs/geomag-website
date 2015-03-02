@@ -69,7 +69,8 @@ if (!isset($TEMPLATE)) {
 </p>
 
 <p>
-  <a href="/realtime/dist/">Local Disturbance (beta)</a><br />
+  <a href="/realtime/dist/">Local Disturbance (beta)</a>
+  <br />
   <a href="/realtime/SQ/">Solar-Quiet (beta)</a>
 </p>
 
