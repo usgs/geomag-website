@@ -1,6 +1,7 @@
 <?php
   if(!isset($TEMPLATE)) {
     $TITLE = 'Other Sources of Data';
+    $CONTACT = 'geomagdata';
     include 'template.inc.php';
   }
 ?>

@@ -1,6 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Downloads';
+  $CONTACT = 'geomagdata';
   include 'template.inc.php';
 }
 
@@ -78,4 +79,3 @@ if (!isset($TEMPLATE)) {
     </p>
   </div>
 </div>
-

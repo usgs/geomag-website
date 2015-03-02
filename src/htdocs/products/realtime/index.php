@@ -1,6 +1,7 @@
 <?php
   if(!isset($TEMPLATE)) {
     $TITLE = 'Blended Real-Time Data - Preliminary';
+    $CONTACT = 'geomagdata';
     include 'template.inc.php';
   }
 ?>
@@ -72,4 +73,3 @@
   Data Management: Software Developer<br/>
   <a href="mailto:dcstewart@usgs.gov">dcstewart@usgs.gov</a>
 </p>
-
