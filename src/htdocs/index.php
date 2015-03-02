@@ -39,7 +39,7 @@ if (!isset($TEMPLATE)) {
         </div>
       </li>
       <li class="column">
-        <h2><a href="/products/">Data & Products</a></h2>
+        <h2><a href="/products/">Data &amp; Products</a></h2>
         <div class="row">
           <img src="/images/ring_current2_index.gif" alt=""
               class="column mobile-one-of-four" />
@@ -82,7 +82,7 @@ if (!isset($TEMPLATE)) {
         </div>
       </li>
       <li class="column">
-        <h2><a href="/partners.php">Partners & Customers</a></h2>
+        <h2><a href="/partners.php">Partners &amp; Customers</a></h2>
         <div class="row">
           <img src ="/images/partners.gif" alt=""
               class="column mobile-one-of-four" />
