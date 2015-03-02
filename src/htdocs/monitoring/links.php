@@ -1,6 +1,7 @@
 <?php
   if (!isset($TEMPLATE)) {
     $TITLE = 'International Observatory Programs';
+    $CONTACT = 'geomagdata';
     include 'template.inc.php';
   }
 ?>

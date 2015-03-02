@@ -3,6 +3,7 @@ if (!isset($TEMPLATE)) {
   $TITLE = 'Boulder (BOU)';
   $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
           <meta name="viewport" content="width=device-width">';
+          $CONTACT = 'geomagdata';
   include 'template.inc.php';
 }
 ?>

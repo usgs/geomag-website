@@ -2,6 +2,7 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Barrow (BRW)';
   $HEAD = '<link rel="stylesheet" href="index.css" />';
+  $CONTACT = 'geomagdata';
   include 'template.inc.php';
 }
 ?>
