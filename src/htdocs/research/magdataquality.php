@@ -10,14 +10,14 @@ if (!isset($TEMPLATE)) {
   observatories, including those operated by the USGS, data processing methods,
   and magnetic indices derived from observatory data.
 </p>
-
-<img src="/images/Data.jpg"
+<figure>
+  <img src="/images/Data.jpg"
     alt="Observatory time series from the Halloween storm of 2003">
-
-<p>
-  Example analyses of magnetic data quality published by USGS scientists
-  include:
-</p>
+  <figcaption>
+    Example analyses of magnetic data quality published by USGS scientists
+    include:
+  </figcaption>
+</figure>
 
 <ul class="referencelist">
   <li>
