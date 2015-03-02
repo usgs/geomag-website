@@ -22,8 +22,9 @@ if (!isset($TEMPLATE)) {
   Force Research Lab.
 </p>
 
-<br />
-<a href="/realtime/dst/">Real-time Dst</a>
+<p>
+  <a href="/realtime/dst/">Real-time Dst</a>
+</p>
 
 <h3>AE Index</h3>
 
@@ -36,8 +37,9 @@ if (!isset($TEMPLATE)) {
   more complete picture of high latitude disturbance.
 </p>
 
-<br />
-<a href="/realtime/ae/">AE Index (beta)</a>
+<p>
+  <a href="/realtime/ae/">AE Index (beta)</a>
+</p>
 
 <h3>K Index</h3>
 
@@ -50,8 +52,9 @@ if (!isset($TEMPLATE)) {
   disturbance, respectively.
 </p>
 
-<br />
-<a href="/realtime/k/">K Index (beta)</a>
+<p>
+  <a href="/realtime/k/">K Index (beta)</a>
+</p>
 
 <h3>Local Disturbance (Dist) and Solar-Quiet (SQ) Variation</h3>
 
@@ -65,9 +68,10 @@ if (!isset($TEMPLATE)) {
   disturbance is very asymmetric.
 </p>
 
-<br />
-<a href="/realtime/dist/">Local Disturbance (beta)</a><br />
-<a href="/realtime/SQ/">Solar-Quiet (beta)</a>
+<p>
+  <a href="/realtime/dist/">Local Disturbance (beta)</a><br />
+  <a href="/realtime/SQ/">Solar-Quiet (beta)</a>
+</p>
 
 <h3>Electric Field Estimates</h3>
 
