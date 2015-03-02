@@ -2,7 +2,7 @@
 
 if (!isset($TEMPLATE)) {
   $TITLE = 'Research';
-  $HEAD = '<link rel="stylesheet" href="index.scss"/>';
+  $HEAD = '<link rel="stylesheet" href="index.css"/>';
   include 'template.inc.php';
 }
 
@@ -27,7 +27,8 @@ if (!isset($TEMPLATE)) {
   <li class="column">
     <h2><a href="GIC.php">Geomagnetically Induced Currents</a></h2>
     <div class="row">
-      <img src="/images/dreamstime_l_4671381_small.jpg" alt="Used with permission from dreamstime.com"
+      <img src="/images/dreamstime_l_4671381_small.jpg"
+          alt="Used with permission from dreamstime.com"
           class="column mobile-one-of-four" />
     </div>
   </li>
@@ -64,9 +65,6 @@ if (!isset($TEMPLATE)) {
     <div class="row">
       <img src="/images/Aurora.jpg" alt=""
           class="column mobile-one-of-four" />
-      <!-- <p class="column mobile-three-of-four">
-
-      </p> -->
     </div>
   </li>
   <li class="column">
@@ -79,7 +77,8 @@ if (!isset($TEMPLATE)) {
   <li class="column">
     <h2><a href="/publications/movies/">Movies</a></h2>
     <div class="row">
-      <img src="/images/dreamstime_xs_10405769_small.jpg" alt="Used with permission from dreamstime.com"
+      <img src="/images/dreamstime_xs_10405769_small.jpg"
+          alt="Used with permission from dreamstime.com"
           class="column mobile-one-of-four" />
     </div>
   </li>
