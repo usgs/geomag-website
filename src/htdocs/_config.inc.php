@@ -6,8 +6,8 @@ $SITE_URL = 'http://geomag.usgs.gov';
 // navigation above search, below section navigation
 $SITE_SITENAV =
 	navItem('/monitoring/', 'Monitoring') .
-	navItem('/products/', 'Hazards') .
-	navItem('/research/', 'Data &amp; Products') .
+	navItem('/products/', 'Data &amp; Products') .
+	navItem('/research/', 'Research') .
 	navItem('/learn/', 'Learn') .
 	navItem('/services.php', 'Services') .
 	navItem('/partners.php', 'Partners');
