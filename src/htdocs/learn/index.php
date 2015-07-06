@@ -9,39 +9,34 @@ if (!isset($TEMPLATE)) {
 
 <div class="row">
   <div class="one-of-two column">
-    <ul class="row no-style">
-      <li class="column">
-        <h2><a href="introtogeomag.php">Introduction to Geomagnetism</a></h2>
-        <div class="row">
-          <img src="/images/intro.png" alt=""
-              class="column mobile-one-of-four" />
-        </div>
+    <ul class="linklist">
+      <li>
+        <a href="introtogeomag.php">
+          <h2>Introduction to Geomagnetism</h2>
+          <img src="/images/intro.png" alt=""/>
+        </a>
       </li>
-      <li class="column">
-        <h2><a href="reading.php">Further Reading</a></h2>
-        <div class="row">
-          <img src="/images/furtherreading.jpeg" alt=""
-              class="column mobile-one-of-four" />
-        </div>
+      <li>
+        <a href="reading.php">
+          <h2>Further Reading</h2>
+          <img src="/images/furtherreading.jpeg" alt=""/>
+        </a>
       </li>
     </ul>
   </div>
   <div class="one-of-two column">
-    <ul class="row no-style">
-      <li class="column">
-        <h2><a href="pressreleases.php">Press Releases</a></h2>
-        <div class="row">
-          <img src="/images/pressrelease.png" alt=""
-              class="column mobile-one-of-four" />
-        </div>
+    <ul class="linklist">
+      <li>
+        <a href="pressreleases.php">
+          <h2>Press Releases</h2>
+          <img src="/images/pressrelease.png" alt=""/>
+        </a>
       </li>
-      <li class="column">
-        <h2><a href="http://www.usgs.gov/faq/?q=taxonomy/term/9782">
-            FAQ's</a></h2>
-        <div class="row">
-          <img src="/images/faq.gif" alt=""
-              class="column mobile-one-of-four" />
-        </div>
+      <li>
+        <a href="http://www.usgs.gov/faq/?q=taxonomy/term/9782">
+          <h2>FAQ's</h2>
+          <img src="/images/faq.gif" alt=""/>
+        </a>
       </li>
     </ul>
   </div>
