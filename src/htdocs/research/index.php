@@ -49,79 +49,75 @@ if (!isset($TEMPLATE)) {
   geomagnetically-induced currents in the lithosphere in order to assess and
   mitigate hazards for the power-grid industry.
 </p>
-
-<ul class="row two-up no-style">
-  <li class="column">
-    <h2><a href="/publications/papers.php">Publications</a></h2>
-    <div class="row">
-      <img src="/images/publications.jpg" alt=""
-          class="column mobile-one-of-four" />
-    </div>
-  </li>
-  <li class="column">
-    <h2><a href="geomagnetism-earthquakes.php">Earthquake Prediction</a>
-        </h2>
-    <div class="row">
-      <img src="/images/earthquake-icon.jpg" alt=""
-          class="column mobile-one-of-four" />
-    </div>
-  </li>
-  <li class="column">
-    <h2><a href="GIC.php">Geomagnetically Induced Currents</a></h2>
-    <div class="row">
-      <img src="/images/dreamstime_l_4671381_small.jpg"
-          alt="Used with permission from dreamstime.com"
-          class="column mobile-one-of-four" />
-    </div>
-  </li>
-  <li class="column">
-    <h2><a href="hazards.php">Hazard Mapping</a></h2>
-    <div class="row">
-      <img src="/images/hazardmapping_150_100.png" alt=""
-          class="column mobile-one-of-four" />
-    </div>
-  </li>
-  <li class="column">
-    <h2><a href="magdataquality.php">Magnetic Data Quality</a></h2>
-    <div class="row">
-      <img src="/images/Data-icon.jpg" alt=""
-          class="column mobile-one-of-four" />
-    </div>
-  </li>
-  <li class="column">
-    <h2><a href="extreme-events.php">Extreme Events</a></h2>
-    <div class="row">
-      <img src="/images/Extreme-icon-2.jpg" alt=""
-          class="column mobile-one-of-four" />
-    </div>
-  </li>
-  <li class="column">
-    <h2><a href="/conductivity/">Regional Conductivity Map</a></h2>
-    <div class="row">
-      <img src="/images/locations2_150_100.png" alt=""
-          class="column mobile-one-of-four" />
-    </div>
-  </li>
-  <li class="column">
-    <h2><a href="spaceweather.php">Space Weather Applications</a></h2>
-    <div class="row">
-      <img src="/images/Aurora.jpg" alt=""
-          class="column mobile-one-of-four" />
-    </div>
-  </li>
-  <li class="column">
-    <h2><a href="spaceclimatology.php">Space Climatology</a></h2>
-    <div class="row">
-      <img src="/images/Climatology-icon.jpg" alt=""
-          class="column mobile-one-of-four" />
-    </div>
-  </li>
-  <li class="column">
-    <h2><a href="/publications/movies/">Movies</a></h2>
-    <div class="row">
-      <img src="/images/dreamstime_xs_10405769_small.jpg"
-          alt="Used with permission from dreamstime.com"
-          class="column mobile-one-of-four" />
-    </div>
-  </li>
-</ul>
+<div class="row">
+  <div class="one-of-two column">
+    <ul class="linklist">
+      <li>
+        <a href="/publications/papers.php">
+          <h2>Publications</h2>
+          <img src="/images/publications.jpg" alt=""/>
+        </a>
+      </li>
+      <li>
+        <a href="geomagnetism-earthquakes.php">
+          <h2>Earthquake Prediction</h2>
+          <img src="/images/earthquake-icon.jpg" alt=""/>
+        </a>
+      </li>
+      <li>
+        <a href="GIC.php">
+          <h2>Geomagnetically Induced Currents</h2>
+          <img src="/images/dreamstime_l_4671381_small.jpg"
+              alt="Used with permission from dreamstime.com"/>
+        </a>
+      </li>
+      <li>
+        <a href="hazards.php">
+          <h2>Hazard Mapping</h2>
+          <img src="/images/hazardmapping_150_100.png" alt=""/>
+        </a>
+      </li>
+      <li>
+        <a href="magdataquality.php">
+          <h2>Magnetic Data Quality</h2>
+          <img src="/images/Data-icon.jpg" alt=""/>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="one-of-two column">
+    <ul class="linklist">
+      <li>
+        <a href="extreme-events.php">
+          <h2>Extreme Event</h2>
+          <img src="/images/Extreme-icon-2.jpg" alt=""/>
+        </a>
+      </li>
+      <li>
+        <a href="/conductivity/">
+          <h2>Regional Conductivity Map</h2>
+          <img src="/images/locations2_150_100.png" alt=""/>
+        </a>
+      </li>
+      <li>
+        <a href="spaceweather.php">
+          <h2>Space Weather Applications</h2>
+          <img src="/images/Aurora.jpg" alt=""/>
+        </a>
+      </li>
+      <li>
+        <a href="spaceclimatology.php">
+          <h2>Space Climatology</h2>
+          <img src="/images/Climatology-icon.jpg" alt=""/>
+        </a>
+      </li>
+      <li>
+        <a href="/publications/movies/">
+          <h2>Movies</h2>
+          <img src="/images/dreamstime_xs_10405769_small.jpg"
+              alt="Used with permission from dreamstime.com"/>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
