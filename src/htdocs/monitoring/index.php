@@ -36,6 +36,10 @@
       by the USGS and partners of the USGS geomagnetism program.
     </p>
   </li>
-  <h2><a href="links.php">International Observatory Programs</a></h2>
-  <p>Links to our international observatory partners' programs</p>
+  <li>
+    <a href="links.php">
+      <h2>International Observatory Programs</h2>
+    </a>
+    <p>Links to our international observatory partners' programs</p>
+  </li>
 </ul>
