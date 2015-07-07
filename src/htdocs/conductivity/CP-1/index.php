@@ -4,7 +4,6 @@
 		$TITLE = "Coastal Plain (South Carolina)";
 	}
 
-	include_once($_SERVER['DOCUMENT_ROOT'].'/template/template.inc.php');
 ?>
 
 <div class="column container contains-twelve">

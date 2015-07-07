@@ -4,7 +4,6 @@
 		$TITLE = "Interior Plains (North American Conductive Anomaly)";
 	}
 
-	include_once($_SERVER['DOCUMENT_ROOT'].'/template/template.inc.php');
 ?>
 
 <div class="column container contains-twelve">
