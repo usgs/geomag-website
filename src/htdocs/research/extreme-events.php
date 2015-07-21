@@ -5,10 +5,10 @@ if (!isset($TEMPLATE)) {
   include 'template.inc.php';
 }
 ?>
-
-<img src="/images/Lisbon-earthquake.jpg"
-    alt="Depiction of the Great Lisbon earthquake of 1755" />
-
+<figure class="right">
+  <img src="/images/Lisbon-earthquake.jpg"
+      alt="Depiction of the Great Lisbon earthquake of 1755" />
+</figure>
 <p>
   Extremely large earthquakes, volcanic eruptions, magnetic storms, and other
   hazardous geophysical events are rare. And yet their occurrence can be
