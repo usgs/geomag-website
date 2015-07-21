@@ -40,47 +40,46 @@
   <div class="one-of-two column">
     <ul class="no-style">
       <li>
-        <a href="/monitoring/observatories/guam/">Guam (GUA)</a>
+        <a href="/monitoring/observatories/boulder/">(BOU) - Boulder</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/honolulu/">Honolulu (HON)</a>
+        <a href="/monitoring/observatories/barrow/">(BRW) - Barrow</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/fresno/">Fresno (FRN)</a>
+        <a href="/monitoring/observatories/stennis/">(BSL) - Stennis</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/tucson/">Tucson (TUC)</a>
+        <a href="/monitoring/observatories/college/">(CMO) - College</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/deadhorse/">Deadhorse (DED)</a>
+        <a href="/monitoring/observatories/deadhorse/">(DED) - Deadhorse</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/stennis/">Stennis (BSL)</a>
+        <a href="/monitoring/observatories/fredericksburg/">(FRD) - Fredericksburg</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/sanjuan/">San Juan (SJG)</a>
+        <a href="/monitoring/observatories/fresno/">(FRN) - Fresno</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/fredericksburg/">Fredericksburg
-        (FRD)</a>
+        <a href="/monitoring/observatories/guam/">(GUA) - Guam</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/boulder/">Boulder (BOU)</a>
+        <a href="/monitoring/observatories/honolulu/">(HON) - Honolulu</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/shumagin/">Shumagin (SHU)</a>
+        <a href="/monitoring/observatories/newport/">(NEW) - Newport</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/newport/">Newport (NEW)</a>
+        <a href="/monitoring/observatories/sanjuan/">(SJG) - San Juan</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/sitka/">Sitka (SIT)</a>
+        <a href="/monitoring/observatories/shumagin/">(SHU) - Shumagin</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/college/">College (CMO)</a>
+        <a href="/monitoring/observatories/sitka/">(SIT) - Sitka</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/barrow/">Barrow (BRW)</a>
+        <a href="/monitoring/observatories/tucson/">(TUC) - Tucson</a>
       </li>
     </ul>
   </div>
