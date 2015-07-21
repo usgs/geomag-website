@@ -51,7 +51,7 @@ if (!isset($TEMPLATE)) {
       </li>
       <li>
         <a href="/conductivity/">
-          <h2>Regional Conductivity Map</h2>
+          <h2>Regional Conductivity Maps</h2>
           <img src="/images/locations2_150_100.png" alt=""/>
         </a>
       </li>
