@@ -69,7 +69,7 @@ if (!isset($TEMPLATE)) {
       </li>
       <li>
         <a href="/publications/movies/">
-          <h2>Movies</h2>
+          <h2>Magnetic Disturbance Movies</h2>
           <img src="/images/dreamstime_xs_10405769_small.jpg"
               alt="Used with permission from dreamstime.com"/>
         </a>
