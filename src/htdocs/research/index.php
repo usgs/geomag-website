@@ -45,7 +45,7 @@ if (!isset($TEMPLATE)) {
       </li>
       <li>
         <a href="extreme-events.php">
-          <h2>Extreme Event</h2>
+          <h2>Extreme Events</h2>
           <img src="/images/Extreme-icon-2.jpg" alt=""/>
         </a>
       </li>
