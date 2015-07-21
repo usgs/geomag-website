@@ -6,9 +6,10 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<img src="/images/Loma-Prieta-042sr.jpg"
-    alt="Building damaged during the Loma Prieta earthquake" />
-
+<figure class="right">
+  <img src="/images/Loma-Prieta-042sr.jpg"
+      alt="Building damaged during the Loma Prieta earthquake" />
+</figure>
 <p>
   Reliable earthquake prediction is a worthwhile goal that, if ever attained,
   would reduce the loss of life and property. Unfortunately, it is not at all
