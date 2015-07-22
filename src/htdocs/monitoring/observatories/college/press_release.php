@@ -1,5 +1,6 @@
 <?php
 	$title="College (CMO)";
+	$NAVIGATION = true;
 ?>
 
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/head.inc.php" ?>
@@ -11,15 +12,15 @@
 <div id="content">
 	<div id="wrapper1"><div id="wrapper2"><div id="wrapper3">
 	<?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/sidenav.inc.php"; ?>
-	
+
 	<a name="startcontent" id="startcontent"></a>
 	<div id="main">
-	
+
 	<h2>College (CMO) Geomagnetic Observatory</h2>
-	
+
 	<!--<img src="cigo1003web.jpg" alt="The sign outside the College International Geophysical Observatory." class="topright" />-->
     <!--<a href="CIGO_JackTownshend_Sign_original.jpg"><img src="CIGO_JackTownshend_Sign2.jpg" alt="Jack Townshend standing by the sign outside the College International Geophysical Observatory." class="topright" /></a>-->
-	
+
 	<style>
 	<!--
 		.obsnfo b {
@@ -29,7 +30,7 @@
 		}
 	-->
 	</style>
-	
+
 	</p><a name="press_release"></a>
 	<h3>
 	Press Release
@@ -40,7 +41,7 @@
 		For Immediate Release<br/>
 		July 20, 2009
 		<br/><br/>
-		FAIRBANKS, Alaska‹The University of Alaska Fairbanks has renamed a 46-acre
+		FAIRBANKS, Alaskaï¿½The University of Alaska Fairbanks has renamed a 46-acre
 		research site in honor of its visionary and developer, Jack Townshend. The
 		Jack Townshend College International Geophysical Observatory is a network of
 		eight state-of-the-art facilities that collect geomagnetic, seismic and
@@ -54,11 +55,11 @@
 		university research community for 46 years. He designed and developed CIGO,
 		a project that took 10 years to complete, with encouragement from GI
 		Director Roger Smith and Syun-Ichi Akasofu, former director of both the GI
-		and IARC. 
+		and IARC.
 	</p>
 	<p>
-		³Jack Townshend is a world leader as a creator of excellent observatories,²
-		Roger Smith said. 
+		ï¿½Jack Townshend is a world leader as a creator of excellent observatories,ï¿½
+		Roger Smith said.
 	</p>
 	<p>
 		The research site was completed in 1996. It is one of five scientific
@@ -99,9 +100,9 @@
 			Institute and International Arctic Research Center.
 		</p></font>
 		<br/>
-	</div>	
+	</div>
 	</p>
-	
+
 	<p>
 		FOR MORE INFORMATION:<br/>
 		http://www.gi.alaska.edu/admin/operations/CIGO/CIGO.html<br/>
@@ -115,7 +116,7 @@
 	</p>
 
 	<!--  -->
-	
+
     </div>
   </div></div></div>
 </div>

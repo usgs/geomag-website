@@ -4,6 +4,7 @@ if (!isset($TEMPLATE)) {
   $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
           <meta name="viewport" content="width=device-width">';
   $CONTACT = 'geomagdata';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>
