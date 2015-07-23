@@ -3,6 +3,7 @@
     $TITLE = 'Data & Products';
     $HEAD = '<link rel="stylesheet" href="index.css"/>';
     $CONTACT = 'geomagdata';
+    $NAVIGATION = true;
     include 'template.inc.php';
   }
 ?>
@@ -10,7 +11,7 @@
   <div class="one-of-two column">
     <ul class="linklist">
       <li>
-        <a href="/realtime/">
+        <a href="/realtime">
           <h2>Real-Time HEZF Display</h2>
           <img src="/images/realtime_final.png" alt=""/>
         </a>
@@ -40,7 +41,7 @@
       </li>
       <li>
         <a href="downloads.php">
-          <h2>Download</h2>
+          <h2>Downloads</h2>
           <img src="/images/download.png" alt=""/>
         </a>
         <p>

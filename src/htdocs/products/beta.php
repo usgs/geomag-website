@@ -1,6 +1,7 @@
 <?php
   if(!isset($TEMPLATE)) {
     $TITLE = 'Beta Products';
+    $NAVIGATION = true;
     include 'template.inc.php';
   }
 ?>

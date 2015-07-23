@@ -2,6 +2,7 @@
   if(!isset($TEMPLATE)) {
     $TITLE = 'Blended Real-Time Data - Preliminary';
     $CONTACT = 'geomagdata';
+    $NAVIGATION = true;
     include 'template.inc.php';
   }
 ?>
