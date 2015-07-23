@@ -2,6 +2,7 @@
   if(!isset($TEMPLATE)) {
     $TITLE = 'Instrumentation';
     $CONTACT = 'geomagdata';
+    $NAVIGATION = true;
     include 'template.inc.php';
   }
 ?>
