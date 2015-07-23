@@ -3,6 +3,7 @@
     $TEMPLATE = 'onecolumn';
     $TITLE = "Contact Us";
     $HEAD = '<link rel="stylesheet" href="contact.css"/>';
+    $CONTACT = 'geomag_research';
     include 'template.inc.php';
   }
 ?>
@@ -44,18 +45,6 @@
             Data Processing<br/>
             Ph: (303) 273-8486<br/>
             <a href="mailto:jcaldwell@usgs.gov">jcaldwell@usgs.gov</a>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="row">
-          <img src="/images/staff/Jeff_Fox_sm.jpg" alt=""
-              class="column mobile-one-of-four" />
-          <div class="column mobile-three-of-four">
-            Jeffrey L. Fox<br/>
-            Operations<br/>
-            Ph: (303) 273-8659<br/>
-            <a href="mailto:jfox@usgs.gov">jfox@usgs.gov</a>
           </div>
         </div>
       </li>
@@ -166,21 +155,6 @@
           </div>
         </div>
       </li>
-    </ul>
-    <h2>Staff Outside of Headquarters</h2>
-    <ul class="no-style">
-    <li>
-      <div class="row">
-        <img src="/images/staff/Murray_Eric_small.jpg" alt=""
-            class="column mobile-one-of-four" />
-        <div class="column mobile-three-of-four">
-          Eric V. Murray<br/>
-          Fredericksburg Operations<br/>
-          Ph: (540) 373-7601<br/>
-          <a href="mailto:emurray@usgs.gov">emurray@usgs.gov</a>
-        </div>
-      </div>
-    </li>
     </ul>
   </div>
   <div class="one-of-two column">

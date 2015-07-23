@@ -1,6 +1,7 @@
 <?php
   if(!isset($TEMPLATE)) {
     $TITLE = "About Us";
+    $CONTACT = 'geomag_research';
     include 'template.inc.php';
   }
 ?>
