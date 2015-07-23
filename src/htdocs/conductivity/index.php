@@ -1,8 +1,8 @@
 <?php
 	if(!isset($TEMPLATE)) {
-		$TEMPLATE = 'two';
 		$TITLE = 'Regional Conductivity Maps';
 		$CONTACT = 'geomag_research';
+		include 'template.inc.php';
 	}
 
 ?>

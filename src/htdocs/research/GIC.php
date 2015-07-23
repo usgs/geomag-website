@@ -2,6 +2,7 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Geomagnetically Induced Currents';
   $CONTACT = 'geomag_research';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>

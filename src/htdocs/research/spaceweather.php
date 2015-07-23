@@ -2,6 +2,7 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Space Weather Applications';
   $CONTACT = 'geomag_research';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>

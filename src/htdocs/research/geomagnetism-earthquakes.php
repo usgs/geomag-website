@@ -2,6 +2,7 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Geomagnetism and Earthquake Prediction';
   $CONTACT = 'geomag_research';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>
