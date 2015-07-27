@@ -33,7 +33,7 @@
     <dd>
       <form action="/monitoring/observatories/preliminary_data2.php"
           method="post" name="display" target="_blank" id="display">
-        <select name="day" alt="day">
+        <select name="day">
           <option value="0" selected="selected">Today</option>
           <option value="1">Yesterday</option>
 <?php
