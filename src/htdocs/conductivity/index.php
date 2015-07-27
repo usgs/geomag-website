@@ -1,10 +1,10 @@
 <?php
-	if(!isset($TEMPLATE)) {
-		$TITLE = 'Regional Conductivity Maps';
-		$CONTACT = 'geomag_research';
-		$NAVIGATION = true;
-		include 'template.inc.php';
-	}
+  if(!isset($TEMPLATE)) {
+    $TITLE = 'Regional Conductivity Maps';
+    $CONTACT = 'geomag_research';
+    $NAVIGATION = true;
+    include 'template.inc.php';
+  }
 
 ?>
 
@@ -34,7 +34,7 @@ coords="552,347,582,339,593,358,596,367,600,374,604,379,605,384,609,389,609,403,
 href="/conductivity/FL-1/" />
 </map>
 
-	<h2>Regional Resistivity Models</h2>
+  <h2>Regional Resistivity Models</h2>
 <p>Geomagnetically induced currents (GIC) flowing along electric
 power-transmission systems are produced as a result of electromagnetic
 induction produced in the Earth by geomagnetic disturbances.  The
@@ -53,42 +53,42 @@ Alaska</a>, EPRI Technical Update 1026430, Palo Alto, CA.)</p>
 
 <h2>Regional Resistivity Models</h2>
 <div class="row">
-	<div class="column one-of-two">
-		<ul class="no-style">
-			<li><a href="AK-1/">AK-1 - Adirondack Mountains</a></li>
-			<li><a href="AP-1/">AP-1 - Appalachan Plateaus</a></li>
-			<li><a href="AP-2/">AP-2 - Northern Appalachan Plateaus</a></li>
-			<li><a href="BR-1/">BR-1 - Northwest Basin and Range</a></li>
-			<li><a href="CL-1/">CL-1 - Colorado Plateau</a></li>
-			<li><a href="CO-1/">CO-1 - Columbia Plateau</a></li>
-			<li><a href="CP-1/">CP-1 - Coastal Plain (South Carolina)</a></li>
-			<li><a href="CP-2/">CP-2 - Coastal Plain (Georgia)</a></li>
-			<li><a href="CS-1/">CS-1 - Cascade-Sierra Mountains</a></li>
-			<li><a href="FL-1/">FL-1 - Florida Peninsula</a></li>
-		</ul>
-	</div>
-	<div class="column one-of-two">
-		<ul class="no-style">
-		  <li><a href="IP-1/">IP-1 - Interior Plains (North Dakota)</a></li>
-			<li><a href="IP-2/">IP-2 - Interior Plains</a></li>
-			<li><a href="IP-3/">IP-3 - Interior Plains (Michigan)</a></li>
-			<li><a href="IP-4/">IP-4 - Interior Plains (Great Plains)</a></li>
-			<li><a href="NE-1/">NE-1 - New England</a></li>
-			<li><a href="PB-1/">PB-1 - Pacific Border (Willamette Valley)</a></li>
-			<li><a href="PB-2/">PB-2 - Pacific Border (Puget Lowlands)</a></li>
-			<li><a href="PT-1/">PT-1 - Piedmont</a></li>
-			<li><a href="SL-1/">SL-1 - St. Lawrence Lowlands</a></li>
-			<li><a href="SU-1/">SU-1 - Superior Upland</a></li>
-		</ul>
-	</div>
+  <div class="column one-of-two">
+    <ul class="no-style">
+      <li><a href="AK-1/">AK-1 - Adirondack Mountains</a></li>
+      <li><a href="AP-1/">AP-1 - Appalachan Plateaus</a></li>
+      <li><a href="AP-2/">AP-2 - Northern Appalachan Plateaus</a></li>
+      <li><a href="BR-1/">BR-1 - Northwest Basin and Range</a></li>
+      <li><a href="CL-1/">CL-1 - Colorado Plateau</a></li>
+      <li><a href="CO-1/">CO-1 - Columbia Plateau</a></li>
+      <li><a href="CP-1/">CP-1 - Coastal Plain (South Carolina)</a></li>
+      <li><a href="CP-2/">CP-2 - Coastal Plain (Georgia)</a></li>
+      <li><a href="CS-1/">CS-1 - Cascade-Sierra Mountains</a></li>
+      <li><a href="FL-1/">FL-1 - Florida Peninsula</a></li>
+    </ul>
+  </div>
+  <div class="column one-of-two">
+    <ul class="no-style">
+      <li><a href="IP-1/">IP-1 - Interior Plains (North Dakota)</a></li>
+      <li><a href="IP-2/">IP-2 - Interior Plains</a></li>
+      <li><a href="IP-3/">IP-3 - Interior Plains (Michigan)</a></li>
+      <li><a href="IP-4/">IP-4 - Interior Plains (Great Plains)</a></li>
+      <li><a href="NE-1/">NE-1 - New England</a></li>
+      <li><a href="PB-1/">PB-1 - Pacific Border (Willamette Valley)</a></li>
+      <li><a href="PB-2/">PB-2 - Pacific Border (Puget Lowlands)</a></li>
+      <li><a href="PT-1/">PT-1 - Piedmont</a></li>
+      <li><a href="SL-1/">SL-1 - St. Lawrence Lowlands</a></li>
+      <li><a href="SU-1/">SU-1 - Superior Upland</a></li>
+    </ul>
+  </div>
 </div>
 
 <h2>Downloads</h2>
 <div>
-	<ul class="no-style">
-		<li><a href="ConductivityPoints.kmz" download="ConductivityPoints.kmz">Conductivity Points.kmz</a></li>
-		<li><a href="ConductivityRegions.kmz" download="ConductivityRegions.kmz">Conductivity Regions.kmz</a></li>
-		<li><a href="PhysiographicProvinces.kmz" download="PhysiographicProvinces.kmz">Physiographic Provinces.kmz</a></li>
-		<li><a href="RegionalConductivity.pdf" download="RegionalConductivity.pdf">Regional Conductivity.pdf</a></li>
-	</ul>
+  <ul class="no-style">
+    <li><a href="ConductivityPoints.kmz" download="ConductivityPoints.kmz">Conductivity Points.kmz</a></li>
+    <li><a href="ConductivityRegions.kmz" download="ConductivityRegions.kmz">Conductivity Regions.kmz</a></li>
+    <li><a href="PhysiographicProvinces.kmz" download="PhysiographicProvinces.kmz">Physiographic Provinces.kmz</a></li>
+    <li><a href="RegionalConductivity.pdf" download="RegionalConductivity.pdf">Regional Conductivity.pdf</a></li>
+  </ul>
 </div>

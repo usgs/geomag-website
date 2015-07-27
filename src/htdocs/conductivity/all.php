@@ -1,9 +1,7 @@
 <?php
   if(!isset($TEMPLATE))
     $TEMPLATE='onecolumn';
-
-
-  $TITLE = 'All regional conductivity';
+    $TITLE = 'All regional conductivity';
 ?>
 
 

@@ -1,34 +1,34 @@
 <?php
-	if(!isset($TEMPLATE)) {
-		$TITLE = "Interior Plains (Michigan)";
-		$NAVIGATION = true;
+  if(!isset($TEMPLATE)) {
+    $TITLE = "Interior Plains (Michigan)";
+    $NAVIGATION = true;
     include 'template.inc.php';
-	}
+  }
 
 ?>
 
 <map name="map">
-	<!-- #$-:Image map file created by GIMP Image Map plug-in -->
-	<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
-	<!-- #$-:Please do not edit lines starting with "#$" -->
-	<!-- #$VERSION:2.3 -->
-	<!-- #$AUTHOR:afurze -->
-	<area shape="poly" alt="SU-1" coords="27,26,27,37,8,37,8,50,28,50,32,75,68,76,82,63,81,46,59,31" href="/conductivity/SU-1" />
-	<area shape="poly" alt="AP-2" coords="146,127,180,145,190,118,200,107,222,108,223,78,209,78,201,87,183,90,169,100" href="/conductivity/AP-2" />
-	<area shape="poly" alt="AP-1" coords="145,130,144,147,136,170,169,170,179,147" href="/conductivity/AP-1" />
-	<area shape="poly" alt="SL-1" coords="223,48,200,52,177,53,177,67,201,67,201,77,195,81,175,83,176,92,185,88,200,86,208,77,221,75,206,61" href="/conductivity/SL-1" />
-	<area shape="poly" alt="IP-1" coords="150,115,142,124,142,146,132,155,124,152,114,163,106,152,91,169,63,170,60,164,34,159,24,170,0,169,0,18,7,18,9,12,10,20,25,25,25,36,7,36,7,52,26,52,31,77,66,78,67,101,88,127" href="/conductivity/IP-1" />
+  <!-- #$-:Image map file created by GIMP Image Map plug-in -->
+  <!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+  <!-- #$-:Please do not edit lines starting with "#$" -->
+  <!-- #$VERSION:2.3 -->
+  <!-- #$AUTHOR:afurze -->
+  <area shape="poly" alt="SU-1" coords="27,26,27,37,8,37,8,50,28,50,32,75,68,76,82,63,81,46,59,31" href="/conductivity/SU-1" />
+  <area shape="poly" alt="AP-2" coords="146,127,180,145,190,118,200,107,222,108,223,78,209,78,201,87,183,90,169,100" href="/conductivity/AP-2" />
+  <area shape="poly" alt="AP-1" coords="145,130,144,147,136,170,169,170,179,147" href="/conductivity/AP-1" />
+  <area shape="poly" alt="SL-1" coords="223,48,200,52,177,53,177,67,201,67,201,77,195,81,175,83,176,92,185,88,200,86,208,77,221,75,206,61" href="/conductivity/SL-1" />
+  <area shape="poly" alt="IP-1" coords="150,115,142,124,142,146,132,155,124,152,114,163,106,152,91,169,63,170,60,164,34,159,24,170,0,169,0,18,7,18,9,12,10,20,25,25,25,36,7,36,7,52,26,52,31,77,66,78,67,101,88,127" href="/conductivity/IP-1" />
 </map>
 <figure class="right">
-	<!-- <h2>Location</h2> -->
-	<img src="locationsIP3.png" width="224" height="170" alt="Location of IP-3"
-			usemap="#map">
+  <!-- <h2>Location</h2> -->
+  <img src="locationsIP3.png" width="224" height="170" alt="Location of IP-3"
+      usemap="#map">
 </figure>
 <p>
-	Model IP-3 represents the lower Michigan portion of the Interior Plains
-	geophysical province. encompassing much of the state in addition to the
-	eastern margin of Wisconsin. IP-3 does not include the Upper Peninsula.
-	[Fernberg, EPRI 2012]
+  Model IP-3 represents the lower Michigan portion of the Interior Plains
+  geophysical province. encompassing much of the state in addition to the
+  eastern margin of Wisconsin. IP-3 does not include the Upper Peninsula.
+  [Fernberg, EPRI 2012]
 </p>
 
 <center><h3>1D Resistivity Model for Central Lowland-East Lake Section Model IP-3</h3></center>
@@ -37,9 +37,9 @@
 from published geological reports and maps, and may differ from actual
 conditions measured by a geophysical survey and/or borehole.</p>
 <p>
-	Model data:
-	<a target="_blank"
-		href="ftp://hazards.cr.usgs.gov/Rigler/Conductivity_Latest/earth_model_IP3.txt">
-		earth_model_IP-3.txt
-	</a>
+  Model data:
+  <a target="_blank"
+    href="ftp://hazards.cr.usgs.gov/Rigler/Conductivity_Latest/earth_model_IP3.txt">
+    earth_model_IP-3.txt
+  </a>
 </p>

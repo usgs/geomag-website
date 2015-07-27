@@ -1,9 +1,9 @@
 <?php
-	if(!isset($TEMPLATE)) {
-		$TITLE = "Appalachian Plateaus";
-		$NAVIGATION = true;
+  if(!isset($TEMPLATE)) {
+    $TITLE = "Appalachian Plateaus";
+    $NAVIGATION = true;
     include 'template.inc.php';
-	}
+  }
 
 ?>
 
@@ -19,32 +19,32 @@
 <area shape="poly" alt="AP-2" coords="111,76,148,95,158,65,169,55,192,54,204,34,203,23,195,19,164,29,127,53" href="/conductivity/AP-2" />
 </map>
 <figure class="right">
-	<!-- <h2>Location</h2> -->
-	<img src="locationsAP1.png" width="224" height="215" alt="Location of AP-1"
-			usemap="#map" />
+  <!-- <h2>Location</h2> -->
+  <img src="locationsAP1.png" width="224" height="215" alt="Location of AP-1"
+      usemap="#map" />
 </figure>
 
 <p>
-	Model AP-1 represents the southern portion of the Appalachian Plateau
-	physiographic region. [Fernberg, EPRI 2012]
+  Model AP-1 represents the southern portion of the Appalachian Plateau
+  physiographic region. [Fernberg, EPRI 2012]
 </p>
 
 <center>
-	<h3>
-		1D Resistivity Model for Appalachian Plateau (SE Appalachians) Model AP-1
-	</h3>
+  <h3>
+    1D Resistivity Model for Appalachian Plateau (SE Appalachians) Model AP-1
+  </h3>
 </center>
 <a href="AP-1.png">
-	<img src="AP-1_browser.png" alt=" " width="650" height="450">
+  <img src="AP-1_browser.png" alt=" " width="650" height="450">
 </a>
 <p class="disclaimer">
-	Resistivity values and depths have been interpreted from published
-	geological reports and maps, and may differ from actual conditions measured
-	by a geophysical survey and/or borehole.
+  Resistivity values and depths have been interpreted from published
+  geological reports and maps, and may differ from actual conditions measured
+  by a geophysical survey and/or borehole.
 </p>
 <p>
-	Source data:
-	<a target="_blank" href="ftp://hazards.cr.usgs.gov/Rigler/Conductivity_Latest/earth_model_AP1.txt">
-		earth_model_AP1.txt
-	</a>
+  Source data:
+  <a target="_blank" href="ftp://hazards.cr.usgs.gov/Rigler/Conductivity_Latest/earth_model_AP1.txt">
+    earth_model_AP1.txt
+  </a>
 </p>
