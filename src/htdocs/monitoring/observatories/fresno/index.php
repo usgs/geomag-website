@@ -104,13 +104,11 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Photos</h2>
     </header>
-    <p>
-      <figure class="center">
-        <img src="images/Fresno_third_size.jpg" alt="Fresno magnetic observatory." width="940" height="393" />
-          <figcaption>
-            Fresno magnetic observatory.
-          </figcaption>
-      </figure>
-    </p>
+    <figure class="center">
+      <img src="images/Fresno_third_size.jpg" alt="Fresno magnetic observatory." width="940" height="393" />
+        <figcaption>
+          Fresno magnetic observatory.
+        </figcaption>
+    </figure>
   </section>
 </div>

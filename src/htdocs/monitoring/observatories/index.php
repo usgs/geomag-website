@@ -31,8 +31,7 @@
   <div class="one-of-two column">
     <figure>
       <img src="/images/observatory_map_2012_05.jpg"
-      alt="Map of USGS Magnetic observatory locations." usemap="#ObservatoryMap"
-      border="0" />
+      alt="Map of USGS Magnetic observatory locations." />
       <figcaption>
         Map of USGS Magnetic observatory locations.
       </figcaption>

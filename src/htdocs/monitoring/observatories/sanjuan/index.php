@@ -103,51 +103,46 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Other Operations</h2>
     </header>
-    <p>
-      <ul>
-        <li>
-          A seismometer for the <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&station=SJG">
-          USGS Global Seismic Network</a>.
-        </li>
-        <li>
-          A seismometer for the <a href="http://redsismica.uprm.edu/english/">
-          Puerto Rican Seismic Network</a>.
-        </li>
-        <li>
-          <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=184&cHash=64d70f964b">
-          CTBTO IMS Auxiliary Seismic Station</a>
-        </li>
-        <li>
-          <a href="http://www.ngdc.noaa.gov/stp/IONO">NOAA National Geophysical
-          Data Center (NGDC) ionosonde</a>
-        </li>
-      </ul>
-    </p>
+    <ul>
+      <li>
+        A seismometer for the <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&station=SJG">
+        USGS Global Seismic Network</a>.
+      </li>
+      <li>
+        A seismometer for the <a href="http://redsismica.uprm.edu/english/">
+        Puerto Rican Seismic Network</a>.
+      </li>
+      <li>
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=184&cHash=64d70f964b">
+        CTBTO IMS Auxiliary Seismic Station</a>
+      </li>
+      <li>
+        <a href="http://www.ngdc.noaa.gov/stp/IONO">NOAA National Geophysical
+        Data Center (NGDC) ionosonde</a>
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Photos">
     <header>
       <h2>Photos</h2>
     </header>
-    <p>
-      <figure class="center">
-        <img src="images/Cayey_third_size.jpg"
-        alt="Cayey, PR magnetic observatory."
-        title="San Juan magnetic observatory." />
-        <figcaption>
-          San Juan magnetic observatory.
-        </figcaption>
-      </figure>
-      <figure class="center">
-        <img src="images/Cayey2_third_size.jpg" alt="" />
-        <figcaption>
-          Absolutes, variations and proton buildings (left to right) at San Juan
-          magnetic observatory, Cayey, Puerto Rico.
-        </figcaption>
-        <figcaption>
-          * Pictures courtesy of Jeff Fox
-        </figcaption>
-      </figure>
-    </p>
+    <figure class="center">
+      <img src="images/Cayey_third_size.jpg"
+      alt="Cayey, PR magnetic observatory."
+      title="San Juan magnetic observatory." />
+      <figcaption>
+        San Juan magnetic observatory.
+      </figcaption>
+    </figure>
+    <figure class="center">
+      <img src="images/Cayey2_third_size.jpg" alt="" />
+      <figcaption>
+        Absolutes, variations and proton buildings (left to right) at San Juan
+        magnetic observatory, Cayey, Puerto Rico.
+        <br/>
+        * Pictures courtesy of Jeff Fox
+      </figcaption>
+    </figure>
   </section>
 </div>

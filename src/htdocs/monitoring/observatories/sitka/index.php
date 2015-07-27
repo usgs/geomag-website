@@ -109,22 +109,20 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Other Operations</h2>
     </header>
-    <p>
-      <ul>
-        <li>
-          A seismometer for the <a href="http://wcatwc.arh.noaa.gov/">Alaskan
-          Tsunami Warning Center</a> of NOAA.
-        </li>
-        <li>
-          <a href="http://www.ncdc.noaa.gov/crn/">US Climate Reference Network
-          </a> (USCRN)
-        </li>
-        <li>
-          <a href="http://fire.ak.blm.gov/afs/">BLM Alaska lightning detection
-          system</a>
-        </li>
-      </ul>
-    </p>
+    <ul>
+      <li>
+        A seismometer for the <a href="http://wcatwc.arh.noaa.gov/">Alaskan
+        Tsunami Warning Center</a> of NOAA.
+      </li>
+      <li>
+        <a href="http://www.ncdc.noaa.gov/crn/">US Climate Reference Network
+        </a> (USCRN)
+      </li>
+      <li>
+        <a href="http://fire.ak.blm.gov/afs/">BLM Alaska lightning detection
+        system</a>
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Photos">
@@ -165,8 +163,7 @@ if (!isset($TEMPLATE)) {
       alt="Magnetic observations being made by F. P. Ulrich at Sitka in 1929."/>
       <figcaption>
         Magnetic Observations being made by F. P. Ulrich at Sitka in 1929.
-      </figcaption>
-      <figcaption>
+        <br/>
         * Pictures courtesy of Jeff Fox
       </figcaption>
     </figure>
