@@ -2,6 +2,7 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Press Releases';
   $CONTACT = 'geomag_research';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>
