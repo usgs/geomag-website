@@ -31,7 +31,8 @@
   [Fernberg, EPRI 2012]
 </p>
 
-<center><h3>1D Resistivity Model for Central Lowland-East Lake Section Model IP-3</h3></center>
+<h3>1D Resistivity Model for Central Lowland-East Lake Section Model IP-3</h3>
+
 <a href="IP-3.png"><img src="IP-3_browser.png" alt=" " width="650" height="448"></a>
 <p class="disclaimer">Resistivity values and depths have been interpreted
 from published geological reports and maps, and may differ from actual

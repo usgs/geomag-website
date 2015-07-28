@@ -27,11 +27,10 @@
   [Fernberg, EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for New England Province (Maine) Model NE-1
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for New England Province (Maine) Model NE-1
+</h3>
+
 <a href="NE-1.png">
   <img src="NE-1_browser.png" alt=" " width="650" height="454" />
 </a>

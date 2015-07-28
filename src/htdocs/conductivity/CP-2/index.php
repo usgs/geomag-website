@@ -29,11 +29,11 @@
   resistivities differ from his figures; models posted by USGS have been
   corrected to match the body of his report. [Fernberg, EPRI 2012]
 </p>
-<center>
-  <h3>
-    1D Resistivity Model for Atlantic Coastal Plain (Georgia) Model CP-2
-  </h3>
-</center>
+
+<h3>
+  1D Resistivity Model for Atlantic Coastal Plain (Georgia) Model CP-2
+</h3>
+
 <a href="CP-2.png">
   <img src="CP-2_browser.png" alt=" " width="650" height="448" />
 </a>

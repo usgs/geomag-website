@@ -29,11 +29,10 @@
   extending southward into California. [Fernberg, EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for Cascade-Sierra Mountains Model CS-1
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for Cascade-Sierra Mountains Model CS-1
+</h3>
+
 <a href="CS-1.png">
   <img src="CS-1_browser.png" alt=" " width="650" height="468" />
 </a>

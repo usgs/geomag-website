@@ -22,9 +22,8 @@
   layer. [Love and Blum, USGS 2014 - in preparation]
 </p>
 
-<center>
-  <h3>1D Resistivity Model for Florida Peninsula Model FL-1</h3>
-</center>
+<h3>1D Resistivity Model for Florida Peninsula Model FL-1</h3>
+
 <img src="Depth_vs_Resistivity-FL1.png" alt=" " width="650" height="448" />
 <p class="disclaimer">
   Resistivity values and depths have been interpreted from published

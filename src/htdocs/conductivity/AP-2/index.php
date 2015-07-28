@@ -28,11 +28,11 @@
   encompassing the northern portion of the Appalachian Plateau
   physiographic province. [Fernberg, EPRI 2012]
 </p>
-<center>
-  <h3>
-    1D Resistivity Model for Appalachian Plateau (northern portion) Model AP-2
-  </h3>
-</center>
+
+<h3>
+  1D Resistivity Model for Appalachian Plateau (northern portion) Model AP-2
+</h3>
+
 <a href="AP-2.png"><img src="AP-2.png" alt=" " width="650" height="450"></a>
 <p class="disclaimer">
   Resistivity values and depths have been interpreted from published

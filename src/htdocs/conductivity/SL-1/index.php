@@ -28,11 +28,10 @@
   [Fernberg, EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for St. Lawrence Lowlands Model SL-1
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for St. Lawrence Lowlands Model SL-1
+</h3>
+
 <a href="SL-1.png">
   <img src="SL-1_browser.png" alt=" " width="650" height="447" />
 </a>

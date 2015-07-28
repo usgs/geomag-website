@@ -29,11 +29,10 @@
   south-easterly to the Texas panhandle. [Fernberg, EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for Interior Plains (Great Plains) Model IP-4
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for Interior Plains (Great Plains) Model IP-4
+</h3>
+
 <a href="IP-4.png">
   <img src="IP-4_browser.png" alt=" " width="650" height="442" />
 </a>

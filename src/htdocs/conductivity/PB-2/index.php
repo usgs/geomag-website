@@ -23,7 +23,7 @@
   <img src="locationsPB2.png" width="224" height="200" alt="Location of PB-2"
       usemap="#map" />
 </figure>
-  
+
 <p>
   Model PB-2 represents the Puget Lowlands portion of the Pacific Border
   physiographic province, including the Seattle metropolitan area. Note
@@ -32,11 +32,10 @@
   or volcanic upper crust. [Fernberg, EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for Pacific Border Model PB-2 (upper Washington)
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for Pacific Border Model PB-2 (upper Washington)
+</h3>
+
 <a href="PB-2.png">
   <img src="PB-2_browser.png" alt=" " width="650" height="446" />
 </a>

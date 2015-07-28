@@ -29,11 +29,10 @@
   Upper Peninsula. [Fernberg, EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for Superior Uplands Model SU-1
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for Superior Uplands Model SU-1
+</h3>
+
 <a href="SU-1.png">
   <img src="SU-1_browser.png" alt=" " width="650" height="445" />
 </a>

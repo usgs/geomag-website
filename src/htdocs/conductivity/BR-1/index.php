@@ -28,11 +28,10 @@
   EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for Northwest Basin &amp; Range Model BR-1
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for Northwest Basin &amp; Range Model BR-1
+</h3>
+
 <a href="BR-1.png">
   <img src="BR-1_browser.png" alt=" "
     width="650" height="468" class="left" />

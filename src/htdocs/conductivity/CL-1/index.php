@@ -30,11 +30,10 @@
   2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for Colorado Plateau Model CL-1
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for Colorado Plateau Model CL-1
+</h3>
+
 <a href="CL-1.png">
   <img src="CL-1_browser.png" alt=" " width="650" height="463" />
 </a>

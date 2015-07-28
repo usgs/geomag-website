@@ -29,11 +29,10 @@
   physiographic region. [Fernberg, EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for Appalachian Plateau (SE Appalachians) Model AP-1
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for Appalachian Plateau (SE Appalachians) Model AP-1
+</h3>
+
 <a href="AP-1.png">
   <img src="AP-1_browser.png" alt=" " width="650" height="450">
 </a>

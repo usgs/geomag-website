@@ -31,11 +31,10 @@
   southwestern Idaho. [Fernberg, EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for Columbia Pleateau Model CO-1
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for Columbia Pleateau Model CO-1
+</h3>
+
 <a href="CO-1.png">
   <img src="CO-1_browser.png" alt=" " width="650" height="465" />
 </a>

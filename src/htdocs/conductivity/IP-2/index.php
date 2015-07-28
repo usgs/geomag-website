@@ -31,10 +31,10 @@
   resistivities differ from his figures; models posted by USGS have been
   corrected to match the body of his report. [Fernberg, EPRI 2012]
 </p>
-<center>
-	<h3>1D Resistivity Model for Interior Plains (North Dakota) Model IP-2 </h3>
-	<h6 class="disclaimer">Specific to North American Central Plains conductive anomaly</h6>
-</center>
+
+<h3>1D Resistivity Model for Interior Plains (North Dakota) Model IP-2 </h3>
+<h6 class="disclaimer">Specific to North American Central Plains conductive anomaly</h6>
+
 <a href="IP-2.png"><img src="IP-2_browser.png" alt=" " width="650" height="441"></a>
 <p class="disclaimer">Resistivity values and depths have been interpreted
 from published geological reports and maps, and may differ from actual

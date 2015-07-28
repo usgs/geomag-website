@@ -34,7 +34,8 @@
   been corrected to match the body of his report. [Fernberg, EPRI 2012]
 </p>
 
-<center><h3>1D Resistivity Model for Interior Plains (North Dakota) Model IP-1</h3></center>
+<h3>1D Resistivity Model for Interior Plains (North Dakota) Model IP-1</h3>
+
 <a href="IP-1.png"><img src="IP-1_browser.png" alt=" " width="650" height="460"></a>
 <p class="disclaimer">Resistivity values and depths have been interpreted
 from published geological reports and maps, and may differ from actual

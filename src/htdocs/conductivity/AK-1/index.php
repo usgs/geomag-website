@@ -34,34 +34,35 @@
 </P>
 
 
-<center>
-  <h3>1D Resistivity Model for Adirondack Mountains Model AK-1A</h3>
-</center>
+
+<h3>1D Resistivity Model for Adirondack Mountains Model AK-1A</h3>
+
 <a href="AK-1A.png">
-  <img src="AK-1A_browser.png" width="464" height="332" />
+  <img src="AK-1A_browser.png" width="464" height="332"
+      alt="1D Resistivity Model for Adirondack Mountains Model AK-1A"/>
 </a>
-<center>
-  <h3>1D Resistivity Model for Adirondack Mountains Model AK-1B</h3>
-</center>
+
+<h3>1D Resistivity Model for Adirondack Mountains Model AK-1B</h3>
+
 <a href="AK-1B.png">
-  <img src="AK-1B_browser.png" width="464" height="328">
+  <img src="AK-1B_browser.png" width="464" height="328"
+      alt="1D Resistivity Model for Adirondack Mountains Model AK-1B">
 </a>
 <p class="disclaimer">
   Resistivity values and depths have been interpreted from published
   geological reports and maps, and may differ from actual conditions measured
   by a geophysical survey and/or borehole.
 </p>
-<p>Source data:
-  <ul>
-    <li>
-      <a taget="_blank" href="ftp://hazards.cr.usgs.gov/Rigler/Conductivity_Latest/earth_model_AK1A.txt">
-        earth_model_AK1A.txt
-      </a>
-    </li>
-    <li>
-      <a target="_blank" href="ftp://hazards.cr.usgs.gov/Rigler/Conductivity_Latest/earth_model_AK1B.txt">
-        earth_model_AK1B.txt
-      </a>
-    </li>
-  </ul>
-</p>
+<h3>Source data:</h3>
+<ul>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/Rigler/Conductivity_Latest/earth_model_AK1A.txt">
+      earth_model_AK1A.txt
+    </a>
+  </li>
+  <li>
+    <a href="ftp://hazards.cr.usgs.gov/Rigler/Conductivity_Latest/earth_model_AK1B.txt">
+      earth_model_AK1B.txt
+    </a>
+  </li>
+</ul>

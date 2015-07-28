@@ -30,11 +30,11 @@
   western California. [Fernberg, EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for Pacific Border Model PB-1 (Oregon)
-  </h3>
-</center>
+
+<h3>
+  1D Resistivity Model for Pacific Border Model PB-1 (Oregon)
+</h3>
+
 <a href="PB-1.png">
   <img src="PB-1_browser.png" alt=" " width="650" height="446" />
 </a>

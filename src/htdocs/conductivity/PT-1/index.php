@@ -32,11 +32,10 @@
   body of his report. [Fernberg, EPRI 2012]
 </p>
 
-<center>
-  <h3>
-    1D Resistivity Model for Piedmont (SE Appalachians) Model PT-1
-  </h3>
-</center>
+<h3>
+  1D Resistivity Model for Piedmont (SE Appalachians) Model PT-1
+</h3>
+
 <a href="PT-1.png">
   <img src="PT-1_browser.png" alt=" " width="650" height="447" />
 </a>
