@@ -3,6 +3,7 @@ if (!isset($TEMPLATE)) {
   $TITLE = 'Further Reading';
   $HEAD = '<link rel="stylesheet" href="reading.css"/>';
   $CONTACT = 'geomag_research';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>
