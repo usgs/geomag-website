@@ -100,11 +100,11 @@ if (!isset($TEMPLATE)) {
     </p>
     <ul>
       <li>
-        A seismometer for the <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&station=GUMO">
+        A seismometer for the <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&amp;station=GUMO">
         USGS Global Seismic Network</a>.
       </li>
       <li>
-        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=173&cHash=2e2d5151b2">
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=173&amp;cHash=2e2d5151b2">
         CTBTO IMS Auxiliary Seismic Station</a>
       </li>
       <li>

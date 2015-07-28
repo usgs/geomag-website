@@ -148,8 +148,7 @@ if (!isset($TEMPLATE)) {
       alt="The prefabricated building, prior to deployment onsite." />
       <figcaption>
         The prefabricated building, prior to deployment onsite.
-      </figcaption>
-      <figcaption>
+        <br/>
         * Pictures courtesy of CH2M Hill.
       </figcaption>
     </figure>

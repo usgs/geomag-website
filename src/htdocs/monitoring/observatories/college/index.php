@@ -168,8 +168,7 @@ if (!isset($TEMPLATE)) {
       <figcaption>
         Magnetic observatory buildings at the College International
         Geophysical Observatory (CIGO) Fairbanks, AK.
-      </figcaption>
-      <figcaption>
+        <br/>
         * Pictures courtesy of Jeff Fox
       </figcaption>
     </figure>

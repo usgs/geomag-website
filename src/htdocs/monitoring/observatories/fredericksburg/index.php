@@ -186,8 +186,7 @@ if (!isset($TEMPLATE)) {
         Adjustment of magnetic variometers at the old Cheltenham observatory
         by S. G. Townshend (left) and A. K. Ludy (right). Photo taken November
         1930.
-      </figcaption>
-      <figcaption>
+        <br/>
         * Pictures courtesy of Jeff Fox
       </figcaption>
     </figure>

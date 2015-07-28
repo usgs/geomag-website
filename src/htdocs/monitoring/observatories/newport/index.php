@@ -111,11 +111,11 @@ if (!isset($TEMPLATE)) {
         Advanced National Seismic System Program</a>.
       </li>
       <li>
-        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=183&cHash=d639b7b197">
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=183&amp;cHash=d639b7b197">
         CTBTO IMS Auxiliary Seismic Station</a>
       </li>
       <li>
-        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=272&cHash=9f9ace0e41">
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=272&amp;cHash=9f9ace0e41">
         CTBTO IMS Infrasound array</a>
       </li>
     </ul>

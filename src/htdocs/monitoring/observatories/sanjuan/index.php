@@ -105,7 +105,7 @@ if (!isset($TEMPLATE)) {
     </header>
     <ul>
       <li>
-        A seismometer for the <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&station=SJG">
+        A seismometer for the <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&amp;station=SJG">
         USGS Global Seismic Network</a>.
       </li>
       <li>
@@ -113,7 +113,7 @@ if (!isset($TEMPLATE)) {
         Puerto Rican Seismic Network</a>.
       </li>
       <li>
-        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=184&cHash=64d70f964b">
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=184&amp;cHash=64d70f964b">
         CTBTO IMS Auxiliary Seismic Station</a>
       </li>
       <li>
