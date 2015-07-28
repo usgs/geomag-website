@@ -102,6 +102,14 @@ if (!isset($TEMPLATE)) {
       <a href="http://www.prh.noaa.gov/pr/ptwc/">Pacific Tsunami Warning
       Center</a> of NOAA.
     </p>
+    <ul>
+      <li>
+        <a href="./images/EwaBeachMagneticObservatory1959.pdf"
+            download="EwaBeachMagneticObservatory1959.pdf">
+          Hon-Land. C&amp;GS for Ewa Beach Magnetic Observatory 1959.pdf
+        </a>
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Other Operations">
