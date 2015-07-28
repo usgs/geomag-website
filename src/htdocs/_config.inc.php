@@ -17,7 +17,7 @@ $SITE_COMMONNAV =
   navItem(($SITE_URL), 'Home') .
   navItem('/about.php', 'About Us') .
   navItem('/contact.php', 'Contact Us') .
-  navItem('http://www.usgs.gov/legal/', 'Legal');
+  navItem('/legal.php', 'Legal');
 
 $HEAD =
 // site theme, should use a site root-relative URL
