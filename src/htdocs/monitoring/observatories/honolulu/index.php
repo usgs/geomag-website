@@ -106,7 +106,7 @@ if (!isset($TEMPLATE)) {
       <li>
         <a href="./images/EwaBeachMagneticObservatory1959.pdf"
             download="EwaBeachMagneticObservatory1959.pdf">
-          Hon-Land. C&amp;GS for Ewa Beach Magnetic Observatory 1959.pdf
+          New Magnetic Observatory at Ewa
         </a>
       </li>
     </ul>
