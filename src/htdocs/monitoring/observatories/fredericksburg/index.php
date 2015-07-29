@@ -160,35 +160,53 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Photos</h2>
     </header>
-    <figure class="center">
-      <a href="images/Fredericksburg_third_size.jpg"><img
-        src="images/Fredericksburg_small.jpg"
-        alt="Fredericksburg magnetic observatory." /></a>
-      <figcaption>
-        Fredericksburg magnetic observatory.*
-      </figcaption>
-    </figure>
-    <figure class="center">
-      <a href="images/piers_third_size.jpg"><img
-        src="images/piers_third_size.jpg"
-        alt="Main and auxiliary absolutes piers with Zeiss-Jena 010B
-        Theodolites." /></a>
-      <figcaption>
-        Main and auxiliary absolutes piers with Zeiss-Jena 010B Theodolites.*
-      </figcaption>
-    </figure>
-    <figure class="center">
-      <a href="images/Fredericksburg-men.jpg"><img
-        src="images/Fredericksburg-men.jpg"
-        alt="Townshend and Hartnell working in the variometer building at
-        Cheltenham in 1930." /></a>
-      <figcaption>
-        Adjustment of magnetic variometers at the old Cheltenham observatory
-        by S. G. Townshend (left) and A. K. Ludy (right). Photo taken November
-        1930.
-        <br/>
-        * Pictures courtesy of Jeff Fox
-      </figcaption>
-    </figure>
+    <p>
+      <figure class="center">
+        <a href="images/Fredericksburg_third_size.jpg"><img
+          src="images/Fredericksburg_small.jpg"
+          alt="Fredericksburg magnetic observatory." /></a>
+        <figcaption>
+          Fredericksburg magnetic observatory.*
+        </figcaptioin>
+      </figure>
+      <figure class="center">
+        <a href="images/piers_third_size.jpg"><img
+          src="images/piers_third_size.jpg"
+          alt="Main and auxiliary absolutes piers with Zeiss-Jena 010B
+          Theodolites." /></a>
+        <figcaption>
+          Main and auxiliary absolutes piers with Zeiss-Jena 010B Theodolites.*
+        </figcaption>
+      </figure>
+      <figure class="center">
+        <a href="images/Fredericksburg-men.jpg"><img
+          src="images/Fredericksburg-men.jpg"
+          alt="Townshend and Hartnell working in the variometer building at
+          Cheltenham in 1930." /></a>
+        <figcaption>
+          Adjustment of magnetic variometers at the old Cheltenham observatory
+          by S. G. Townshend (left) and A. K. Ludy (right). Photo taken November
+          1930.
+        </figcaption>
+        <figcaption>
+          * Pictures courtesy of Jeff Fox
+        </figcaption>
+      </figure>
+      <figure class="center">
+        <a href="images/usgswall.jpg">
+          <img src="images/usgswall.jpg" alt="USGS Wall" />
+        </a>
+      </figure>
+      <figure class="center">
+        <a href="images/USGSNOAAAlum.jpg">
+          <img src="images/USGSNOAAAlum.jpg" alt="USGS NOAA alum" />
+        </a>
+      </figure>
+      <figure class="center">
+        <a href="images/USGSNOAAAlum2.jpg">
+          <img src="images/USGSNOAAAlum2.jpg" alt="USGS NOAA alum" />
+        </a>
+      </figure>
+    </p>
   </section>
 </div>
