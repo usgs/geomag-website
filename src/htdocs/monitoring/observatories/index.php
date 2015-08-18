@@ -70,13 +70,13 @@
         <a href="/monitoring/observatories/newport/">(NEW) - Newport</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/sanjuan/">(SJG) - San Juan</a>
-      </li>
-      <li>
         <a href="/monitoring/observatories/shumagin/">(SHU) - Shumagin</a>
       </li>
       <li>
         <a href="/monitoring/observatories/sitka/">(SIT) - Sitka</a>
+      </li>
+      <li>
+        <a href="/monitoring/observatories/sanjuan/">(SJG) - San Juan</a>
       </li>
       <li>
         <a href="/monitoring/observatories/tucson/">(TUC) - Tucson</a>
