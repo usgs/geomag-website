@@ -114,46 +114,43 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Photos</h2>
     </header>
-    <p>
-      <figure class="class">
-        <img src="images/deadhorse_observatory_main_building.jpg"
-        alt="Main observatory building." />
-        <figcaption>
-          Main observatory building.
-        </figcaption>
-      </figure>
-      <figure class="class">
-        <img src="images/deadhorse_observatory_communications_building.jpg"
-        alt="Communications building." />
-        <figcaption>
-          Communications building.
-        </figcaption>
-      </figure>
-      <figure class="class">
-        <img src="images/deadhorse_observatory_building_interior.jpg"
-        alt="Interior of building with two sensor piers." />
-        <figcaption>
-          Interior of building with two sensor piers.
-        </figccaption>
-      </figure>
-      <figure class="class">
-        <img src="images/deadhorse_observatory_installation.jpg"
-        alt="Installing the building over the instument piers and onto pilings."
-        />
-        <figcaption>
-          Installing the building over the instrument piers and onto pilings.
-        </figcaption>
-      </figure>
-      <figure class="class">
-        <img src="images/deadhorse_observatory_prefabricated_building.jpg"
-        alt="The prefabricated building, prior to deployment onsite." />
-        <figcaption>
-          The prefabricated building, prior to deployment onsite.
-        </figcaption>
-        <figcaption>
-          * Pictures courtesy of CH2M Hill.
-        </figcaption>
-      </figure>
-    </p>
+    <figure class="class">
+      <img src="images/deadhorse_observatory_main_building.jpg"
+      alt="Main observatory building." />
+      <figcaption>
+        Main observatory building.
+      </figcaption>
+    </figure>
+    <figure class="class">
+      <img src="images/deadhorse_observatory_communications_building.jpg"
+      alt="Communications building." />
+      <figcaption>
+        Communications building.
+      </figcaption>
+    </figure>
+    <figure class="class">
+      <img src="images/deadhorse_observatory_building_interior.jpg"
+      alt="Interior of building with two sensor piers." />
+      <figcaption>
+        Interior of building with two sensor piers.
+      </figcaption>
+    </figure>
+    <figure class="class">
+      <img src="images/deadhorse_observatory_installation.jpg"
+      alt="Installing the building over the instument piers and onto pilings."
+      />
+      <figcaption>
+        Installing the building over the instrument piers and onto pilings.
+      </figcaption>
+    </figure>
+    <figure class="class">
+      <img src="images/deadhorse_observatory_prefabricated_building.jpg"
+      alt="The prefabricated building, prior to deployment onsite." />
+      <figcaption>
+        The prefabricated building, prior to deployment onsite.
+        <br/>
+        * Pictures courtesy of CH2M Hill.
+      </figcaption>
+    </figure>
   </section>
 </div>

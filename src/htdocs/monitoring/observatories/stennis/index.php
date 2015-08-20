@@ -126,8 +126,7 @@ if (!isset($TEMPLATE)) {
       <figcaption>
         Combo variations, proton and absolutes building at Stennis Space Center
         magnetic observatory, Mississippi.
-      </figcaption>
-      <figcaption>
+        <br/>
         * Pictures courtesy of Jeff Fox
       </figcaption>
     </figure>

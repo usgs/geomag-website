@@ -108,40 +108,36 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Other Operations</h2>
     </header>
-    <p>
-      <ul>
-        <li>
-          The Honolulu observatory is part of the
-          <a href="http://stdb2.stelab.nagoya-u.ac.jp/mm210/index.html">210
-          Magnetic Meridian Array</a>.
-        </li>
-      </ul>
-    </p>
+    <ul>
+      <li>
+        The Honolulu observatory is part of the
+        <a href="http://stdb2.stelab.nagoya-u.ac.jp/mm210/index.html">210
+        Magnetic Meridian Array</a>.
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Photos">
     <header>
       <h2>Photos</h2>
     </header>
-    <p>
-      <figure class="center">
-        <img src="images/HON_022_half_size.jpg"
-        alt="Ewa Beach Hawaii magnetic observatory located at the NOAA Pacific
-        Tsunami Warning Center, PTWC." />
-        <figcaption>
-          Ewa Beach Hawaii magnetic observatory located at the NOAA Pacific
-          Tsunami Warning Center, PTWC.
-        </figcaptioin>
-      <figure class="center">
-        <img src="images/Hon_electronics_third_size.jpg"
-        alt="Electronics building at Ewa Beach, HI magnetic observatory." />
-        <figcaption>
-          Electronics building at Ewa Beach, HI magnetic observatory.
-        </figcaption>
-        <figcaption>
-          * Pictures courtesy of Jeff Fox
-        </figcaption>
-      <figure>
-    </p>
+    <figure class="center">
+      <img src="images/HON_022_half_size.jpg"
+      alt="Ewa Beach Hawaii magnetic observatory located at the NOAA Pacific
+      Tsunami Warning Center, PTWC." />
+      <figcaption>
+        Ewa Beach Hawaii magnetic observatory located at the NOAA Pacific
+        Tsunami Warning Center, PTWC.
+      </figcaption>
+    </figure>
+    <figure class="center">
+      <img src="images/Hon_electronics_third_size.jpg"
+      alt="Electronics building at Ewa Beach, HI magnetic observatory." />
+      <figcaption>
+        Electronics building at Ewa Beach, HI magnetic observatory.
+      <br/>
+        * Pictures courtesy of Jeff Fox
+      </figcaption>
+    </figure>
   </section>
 </div>

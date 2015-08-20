@@ -119,8 +119,7 @@ if (!isset($TEMPLATE)) {
       <img src="images/tucson3.jpg" alt="The absolutes building at Tucson." />
       <figcaption>
         The Absolutes Building at Tucson.
-      </figcaption>
-      <figcaption>
+        <br/>
         * Pictures courtesy of Jeff Fox
       </figcaption>
     </figure>

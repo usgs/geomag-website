@@ -108,14 +108,12 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Other Operations</h2>
     </header>
-    <p>
-      <ul>
-        <li>
-          <a href="http://www.ncdc.noaa.gov/crn/">US Climate Reference Network
-          (USCRN)</a>
-        </li>
-      </ul>
-    </p>
+    <ul>
+      <li>
+        <a href="http://www.ncdc.noaa.gov/crn/">US Climate Reference Network
+        (USCRN)</a>
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Photos">
@@ -136,10 +134,9 @@ if (!isset($TEMPLATE)) {
       alt="Bald eagle fly-by at Sand Point, AK magnetic observatory." />
       <figcaption>
         Bald eagle fly-by at Sand Point, AK magnetic observatory.
-      </figcaption>
-      <figcaption>
+        <br/>
         * Pictures courtesy of Jeff Fox
-      </figcaptioin>
+      </figcaption>
     </figure>
   </section>
 </div>

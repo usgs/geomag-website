@@ -118,66 +118,62 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Other Operations</h2>
     </header>
-    <p>
-      <ul>
-        <li>
-          <a href="http://webflash.ess.washington.edu/">World-Wide Lightning
-          Location Network</a> (WWLLN)
-        </li>
-      </ul>
-    </p>
+    <ul>
+      <li>
+        <a href="http://webflash.ess.washington.edu/">World-Wide Lightning
+        Location Network</a> (WWLLN)
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Photos">
     <header>
       <h2>Photos</h2>
     </header>
-    <p>
-      <figure class="center">
-        <a href="images/Boulder_half_size.jpg"><img
-          src="images/Boulder_small.jpg"
-          alt="The Boulder magnetic observatory."
-          title="The Boulder magnetic observatory."
-           /></a>
-        <figcaption>
-          The Boulder magnetic observatory. Variations and Proton Sensor
-          buildings at the lower right.
-        </figcaption>
-      </figure>
-      <figure>
-        <a href="images/Boulder02_half_size.jpg"><img
-          src="images/Boulder02_small.jpg"
-          alt="Azimuth mark, Absolutes building and Coil building at Boulder
-            magnetic observatory."
-          title="Azimuth mark, Absolutes building and Coil building at Boulder
-            magnetic observatory."
-          /></a>
-        <figcaption>
-          Azimuth mark, Absolutes building and Coil building at Boulder magnetic
-          observatory.
-        </figcaption>
-      </figure>
-      <figure>
-        <a href="images/theodolite_half_size.jpg"><img
-          src="images/theodolite_quarter_size.jpg"
-          alt="Theodolite for making absolute measurements at Boulder."
-          title="Theodolite for making absolute measurements at Boulder."
-           /></a>
-        <figcaption>
-          Zeiss Jena 010B Theodolite for making absolute measurements at Boulder
-          magnetic observatory.
-        </figcaption>
-      </figure>
-      <figure>
-        <a href="images/Boulder Historical Map.jpg"><img
-        src="images/Boulder Historical Map_small.jpg"
-        alt="Historic topographic map of Boulder Magnetic Observatory location."
-        title="Historic topographic map of Boulder Magnetic Observatory location."
+    <figure class="center">
+      <a href="images/Boulder_half_size.jpg"><img
+        src="images/Boulder_small.jpg"
+        alt="The Boulder magnetic observatory."
+        title="The Boulder magnetic observatory."
          /></a>
-        <figcaption>
-          Historic topographic map of Boulder Magnetic Observatory location.
-        </figcaption>
-      </figure>
-    </p>
+      <figcaption>
+        The Boulder magnetic observatory. Variations and Proton Sensor
+        buildings at the lower right.
+      </figcaption>
+    </figure>
+    <figure>
+      <a href="images/Boulder02_half_size.jpg"><img
+        src="images/Boulder02_small.jpg"
+        alt="Azimuth mark, Absolutes building and Coil building at Boulder
+          magnetic observatory."
+        title="Azimuth mark, Absolutes building and Coil building at Boulder
+          magnetic observatory."
+        /></a>
+      <figcaption>
+        Azimuth mark, Absolutes building and Coil building at Boulder magnetic
+        observatory.
+      </figcaption>
+    </figure>
+    <figure>
+      <a href="images/theodolite_half_size.jpg"><img
+        src="images/theodolite_quarter_size.jpg"
+        alt="Theodolite for making absolute measurements at Boulder."
+        title="Theodolite for making absolute measurements at Boulder."
+         /></a>
+      <figcaption>
+        Zeiss Jena 010B Theodolite for making absolute measurements at Boulder
+        magnetic observatory.
+      </figcaption>
+    </figure>
+    <figure>
+      <a href="images/Boulder Historical Map.jpg"><img
+      src="images/Boulder Historical Map_small.jpg"
+      alt="Historic topographic map of Boulder Magnetic Observatory location."
+      title="Historic topographic map of Boulder Magnetic Observatory location."
+       /></a>
+      <figcaption>
+        Historic topographic map of Boulder Magnetic Observatory location.
+      </figcaption>
+    </figure>
   </section>
 </div>

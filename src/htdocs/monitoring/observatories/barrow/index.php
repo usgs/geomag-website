@@ -115,90 +115,84 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Other Operations</h2>
     </header>
-    <p>
-      <ul>
-        <li>
-          <a href="http://www.esrl.noaa.gov/gmd/obop/brw/index.html ">NOAA
-          Barrow Observatory</a>
-        </li>
-        <li>
-          <a href="http://www.arm.gov/sites/nsa/C1/ ">DOE ARM Program</a>
-        </li>
-      </ul>
-    </p>
+    <ul>
+      <li>
+        <a href="http://www.esrl.noaa.gov/gmd/obop/brw/index.html ">NOAA
+        Barrow Observatory</a>
+      </li>
+      <li>
+        <a href="http://www.arm.gov/sites/nsa/C1/ ">DOE ARM Program</a>
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Publications">
     <header>
       <h2>Publications</h2>
     </header>
-    <p>
-      <ul>
-        <li>
-          Townshend, J., 2001. Fifty years of monitoring geophysical data at
-          Barrow, Alaska, <em>Fifty more years below zero</em>, Ed: Norton, D.
-          W., The Arctic Institute of North America, University of Alaska
-          Press, Fairbanks, 61-64.
-        </li>
-        <li>
-          Worthington, E. W. &amp; Love, J. J., 2002.
-          <a href="/downloads/publications/Barrow.pdf">Geomagnetic field
-          monitoring at Barrow, Alaska</a>, <em>Climate Monitoring and
-          Diagnostics Laboratory</em>, NOAA, US Dept. Commerce, <strong>26
-          </strong>, 166-170.
-        </li>
-      </ul>
-    </p>
+    <ul>
+      <li>
+        Townshend, J., 2001. Fifty years of monitoring geophysical data at
+        Barrow, Alaska, <em>Fifty more years below zero</em>, Ed: Norton, D.
+        W., The Arctic Institute of North America, University of Alaska
+        Press, Fairbanks, 61-64.
+      </li>
+      <li>
+        Worthington, E. W. &amp; Love, J. J., 2002.
+        <a href="/downloads/publications/Barrow.pdf">Geomagnetic field
+        monitoring at Barrow, Alaska</a>, <em>Climate Monitoring and
+        Diagnostics Laboratory</em>, NOAA, US Dept. Commerce, <strong>26
+        </strong>, 166-170.
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Photos">
     <header>
       <h2>Photos</h2>
     </header>
-    <p>
-      <figure class="center">
-        <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Barrow.jpg"
-        alt="" />
-        <figcaption>
-          The Barrow magnetic observatory. New combo building is on the left.
-          Old absolutes building in the center.
-        </figcaption>
-      </figure>
-      <figure class="center">
-        <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Geomagnetic_Crew.jpg"
-        alt="" />
-        <figcaption>
-          The Golden Geomagnetic crew in Barrow, Alaska.
-        </figcaption>
-      </figure>
-      <figure class="center">
-        <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/magnetometer.jpg"
-        alt="" />
-        <figcaption>
-          A field magnetometer.
-        </figcaption>
-      </figure>
-      <figure class="center">
-        <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow1.jpg"
-        alt="" />
-        <figcaption>
-          Absolute instrument pier cross-section from Barrow, AK.
-        </figcaption>
-      </figure>
-      <figure class="center">
-        <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow2.jpg"
-        alt="" />
-        <figcaption>
-          Photo from Barrow, AK geomagentic observatory.
-        </figcaption>
-      </figure>
-      <figure class="center">
-        <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow3.jpg"
-        alt="" />
-        <figcaption>
-          Photo from Barrow, AK geomagentic observatory.
-        </figcaption>
-      </figure>
-    </p>
+    <figure class="center">
+      <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Barrow.jpg"
+      alt="" />
+      <figcaption>
+        The Barrow magnetic observatory. New combo building is on the left.
+        Old absolutes building in the center.
+      </figcaption>
+    </figure>
+    <figure class="center">
+      <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Geomagnetic_Crew.jpg"
+      alt="" />
+      <figcaption>
+        The Golden Geomagnetic crew in Barrow, Alaska.
+      </figcaption>
+    </figure>
+    <figure class="center">
+      <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/magnetometer.jpg"
+      alt="" />
+      <figcaption>
+        A field magnetometer.
+      </figcaption>
+    </figure>
+    <figure class="center">
+      <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow1.jpg"
+      alt="" />
+      <figcaption>
+        Absolute instrument pier cross-section from Barrow, AK.
+      </figcaption>
+    </figure>
+    <figure class="center">
+      <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow2.jpg"
+      alt="" />
+      <figcaption>
+        Photo from Barrow, AK geomagentic observatory.
+      </figcaption>
+    </figure>
+    <figure class="center">
+      <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow3.jpg"
+      alt="" />
+      <figcaption>
+        Photo from Barrow, AK geomagentic observatory.
+      </figcaption>
+    </figure>
   </section>
 </div>

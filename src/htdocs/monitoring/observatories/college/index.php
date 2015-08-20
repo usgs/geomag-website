@@ -117,65 +117,60 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Other Operations</h2>
     </header>
-    <p>
-      <ul>
-        <li>
-          A borehole seismometer for the USGS
-          <a href='http://earthquake.usgs.gov/regional/asl/'>Global Seismic
-          Network</a>
-        </li>
-        <li>
-          A seismometer for the <a href='http://wcatwc.arh.noaa.gov/'>Alaskan
-          Tsunami Warning Center</a>
-        </li>
-        <li>
-          A small coil-caliboration facility developed in collaboration with
-          the University and the USGS
-        </li>
-        <li>
-          A magnetometer operated for the <a href='http://magnet.gi.alaska.edu'>
-          Geophysical Institute Magnetometer Array</a>
-        </li>
-        <li>
-          An infrasound array operated by the
-          <a href='http://www2.gi.alaska.edu/infrasound/'>Infrasound Research
-          Group</a> of the UAF/GI
-        </li>
-        <li>
-          <a href='http://webflash.ess.washington.edu'>World-Wide Lightning
-          Location Network</a> (WWLLN)
-        </li>
-      </ul>
-    </p>
+    <ul>
+      <li>
+        A borehole seismometer for the USGS
+        <a href='http://earthquake.usgs.gov/regional/asl/'>Global Seismic
+        Network</a>
+      </li>
+      <li>
+        A seismometer for the <a href='http://wcatwc.arh.noaa.gov/'>Alaskan
+        Tsunami Warning Center</a>
+      </li>
+      <li>
+        A small coil-caliboration facility developed in collaboration with
+        the University and the USGS
+      </li>
+      <li>
+        A magnetometer operated for the <a href='http://magnet.gi.alaska.edu'>
+        Geophysical Institute Magnetometer Array</a>
+      </li>
+      <li>
+        An infrasound array operated by the
+        <a href='http://www2.gi.alaska.edu/infrasound/'>Infrasound Research
+        Group</a> of the UAF/GI
+      </li>
+      <li>
+        <a href='http://webflash.ess.washington.edu'>World-Wide Lightning
+        Location Network</a> (WWLLN)
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Photos">
     <header>
       <h2>Photos</h2>
     </header>
-    <p>
-      <figure class="center">
-        <img src="images/CIGO_aerial_low.jpg"
-        alt="An aerial view of College International Geophysical Observatory."
-        />
-        <figcaption>
-          An aerial view of College International Geophysical Observatory
-          (CIGO).
-        </figcaption>
-      </figure>
+    <figure class="center">
+      <img src="images/CIGO_aerial_low.jpg"
+      alt="An aerial view of College International Geophysical Observatory."
+      />
+      <figcaption>
+        An aerial view of College International Geophysical Observatory
+        (CIGO).
+      </figcaption>
+    </figure>
 
-      <figure class="center">
-        <img src="images/College.jpg"
-        alt="Magnetic observatory buildings at the CIGO magnetic observatory,
-        Fairbanks, AK." />
-        <figcaption>
-          Magnetic observatory buildings at the College International
-          Geophysical Observatory (CIGO) Fairbanks, AK.
-        </figcaption>
-        <figcaption>
-          * Pictures courtesy of Jeff Fox
-        </figcaption>
-      </figure>
-    </p>
+    <figure class="center">
+      <img src="images/College.jpg"
+      alt="Magnetic observatory buildings at the CIGO magnetic observatory,
+      Fairbanks, AK." />
+      <figcaption>
+        Magnetic observatory buildings at the College International
+        Geophysical Observatory (CIGO) Fairbanks, AK.
+        <br/>
+        * Pictures courtesy of Jeff Fox
+      </figcaption>
+    </figure>
   </section>
 </div>

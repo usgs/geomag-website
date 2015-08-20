@@ -93,50 +93,48 @@ if (!isset($TEMPLATE)) {
       <h2>Background</h2>
     </header>
     <p>
-      <p>
-        The Guam observatory was established in 1957.  The observatory is situated on property owned by the <a href="http://www.andersen.af.mil/">U.S. Air Force</a> according to terms of an agreement with the USGS and the Geomagnetism Program.
-      </p>
-      <ul>
-        <li>
-          A seismometer for the <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&station=GUMO">
-          USGS Global Seismic Network</a>.
-        </li>
-        <li>
-          <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=173&cHash=2e2d5151b2">
-          CTBTO IMS Auxiliary Seismic Station</a>
-        </li>
-        <li>
-          The Guam observatory is part of the
-          <a href="http://stdb2.stelab.nagoya-u.ac.jp/mm210/index.html">210
-          Magnetic Meridian Array</a>.
-        </li>
-      </ul>
+      The Guam observatory was established in 1957.  The observatory is situated
+      on property owned by the <a href="http://www.andersen.af.mil/">
+      U.S. Air Force</a> according to terms of an agreement with the USGS and
+      the Geomagnetism Program.
     </p>
+    <ul>
+      <li>
+        A seismometer for the <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&amp;station=GUMO">
+        USGS Global Seismic Network</a>.
+      </li>
+      <li>
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=173&amp;cHash=2e2d5151b2">
+        CTBTO IMS Auxiliary Seismic Station</a>
+      </li>
+      <li>
+        The Guam observatory is part of the
+        <a href="http://stdb2.stelab.nagoya-u.ac.jp/mm210/index.html">210
+        Magnetic Meridian Array</a>.
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Photos">
     <header>
       <h2>Photos</h2>
     </header>
-    <p>
-      <figure class="center">
-        <img src="images/Guam02_third_size.jpg"
-        alt="Guam magnetic observatory." title="Guam magnetic observatory." />
-        <figcaption>
-          Guam magnetic observatory.
-        </figcaption>
-      </figure>
-      <figure class="center">
-        <img src="images/Guam_variations_third_size.jpg"
-        alt="Variations building at Guam." title="Variations building at Guam."
-        />
-        <figcaption>
-          Variations building at Guam.
-        </figcaption>
-        <figcaption>
-          * Pictures courtesy of Jeff Fox
-        </figcaption>
-      </figure>
-    </p>
+    <figure class="center">
+      <img src="images/Guam02_third_size.jpg"
+      alt="Guam magnetic observatory." title="Guam magnetic observatory." />
+      <figcaption>
+        Guam magnetic observatory.
+      </figcaption>
+    </figure>
+    <figure class="center">
+      <img src="images/Guam_variations_third_size.jpg"
+      alt="Variations building at Guam." title="Variations building at Guam."
+      />
+      <figcaption>
+        Variations building at Guam.
+      <br/>
+        * Pictures courtesy of Jeff Fox
+      </figcaption>
+    </figure>
   </section>
 </div>

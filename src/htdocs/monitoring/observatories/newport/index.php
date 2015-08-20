@@ -105,59 +105,54 @@ if (!isset($TEMPLATE)) {
     <header>
       <h2>Other Operations</h2>
     </header>
-    <p>
-      <ul>
-        <li>
-          A seismometer for the USGS <a href="http://earthquake.usgs.gov/anss">
-          Advanced National Seismic System Program</a>.
-        </li>
-        <li>
-          <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=183&cHash=d639b7b197">
-          CTBTO IMS Auxiliary Seismic Station</a>
-        </li>
-        <li>
-          <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=272&cHash=9f9ace0e41">
-          CTBTO IMS Infrasound array</a>
-        </li>
-      </ul>
-    </p>
+    <ul>
+      <li>
+        A seismometer for the USGS <a href="http://earthquake.usgs.gov/anss">
+        Advanced National Seismic System Program</a>.
+      </li>
+      <li>
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=183&amp;cHash=d639b7b197">
+        CTBTO IMS Auxiliary Seismic Station</a>
+      </li>
+      <li>
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=272&amp;cHash=9f9ace0e41">
+        CTBTO IMS Infrasound array</a>
+      </li>
+    </ul>
   </section>
 
   <section class="panel" data-title="Photos">
     <header>
       <h2>Photos</h2>
     </header>
-    <p>
-      <figure class="center">
-        <img src="images/NewportMagBldgs.jpg" alt="Newport buildings" />
-        <figcaption>
-          The variations building housing the flux-gate magnetometer.*
-        </figcaption>
-      </figure>
-      <figure class="center">
-        <img src="images/Newport_threequarter_size.jpg"
-        alt="Absolutes and electronics buildings at Newport, WA magnetic
-        observatory." />
-        <figcaption>
-          Absolutes and electronics buildings at Newport, WA magnetic
-          observatory.*
-        </figcaption>
-      </figure>
-      <figure class="center">
-        <img src="images/Newport_dedication.jpg"
-        alt="The Newport observatory dedication, 11 June 1966." />
-        <figcaption>
-          The Newport observatory dedication, 11 June 1966. Left to right: V.
-          Adm H. Arnold Karo, Dep Adm. ESSA (Environmental Science Services
-          Administration); US Senator Henry M. Jackson, Washington State; Mayor
-          David Sherman, Newport, Washington; US Congressman Thomas S. Foley,
-          5th Dist., Washington; R. Adm. James C. Tison, Jr., Director Coast and
-          Geodetic Survey.
-        </figcaption>
-        <figcaption>
-          * Pictures courtesy of Jeff Fox.
-        </figcaption>
-      </figure>
-    </p>
+    <figure class="center">
+      <img src="images/NewportMagBldgs.jpg" alt="Newport buildings" />
+      <figcaption>
+        The variations building housing the flux-gate magnetometer.*
+      </figcaption>
+    </figure>
+    <figure class="center">
+      <img src="images/Newport_threequarter_size.jpg"
+      alt="Absolutes and electronics buildings at Newport, WA magnetic
+      observatory." />
+      <figcaption>
+        Absolutes and electronics buildings at Newport, WA magnetic
+        observatory.*
+      </figcaption>
+    </figure>
+    <figure class="center">
+      <img src="images/Newport_dedication.jpg"
+      alt="The Newport observatory dedication, 11 June 1966." />
+      <figcaption>
+        The Newport observatory dedication, 11 June 1966. Left to right: V.
+        Adm H. Arnold Karo, Dep Adm. ESSA (Environmental Science Services
+        Administration); US Senator Henry M. Jackson, Washington State; Mayor
+        David Sherman, Newport, Washington; US Congressman Thomas S. Foley,
+        5th Dist., Washington; R. Adm. James C. Tison, Jr., Director Coast and
+        Geodetic Survey.
+        <br/>
+        * Pictures courtesy of Jeff Fox.
+      </figcaption>
+    </figure>
   </section>
 </div>
