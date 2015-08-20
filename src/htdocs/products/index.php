@@ -21,15 +21,6 @@
         </p>
       </li>
       <li>
-        <a href="/realtime/basic.html">
-          <h2>Real-Time H Display (by latitude)</h2>
-          <img src="/images/lobby_final.png" alt=""/>
-        </a>
-        <p>
-          Real-time H index data as displayed above but sorted by latitude.
-        </p>
-      </li>
-      <li>
         <a href="realtime/">
           <h2>Blended Real-Time HEZF Display</h2>
           <img src="/images/blended_final.png" alt=""/>
