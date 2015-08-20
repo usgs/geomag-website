@@ -1,6 +1,6 @@
 <?php
 echo navGroup(navItem('/research/index.php', 'Research'),
-  navItem('/research/papers.php', 'Publications') .
+  navItem('/publications/papers.php', 'Publications') .
   navItem('/research/geomagnetism-earthquakes.php', 'Earhquake Prediction') .
   navItem('/research/GIC.php', 'Geomagnetically Induced Currents') .
   navItem('/research/hazards.php', 'Hazard Mapping') .
