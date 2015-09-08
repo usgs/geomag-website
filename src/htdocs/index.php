@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($TEMPLATE)) {
-  $TITLE = 'USGS Geomag Program';
+  $TITLE = 'USGS Geomagnetism Program';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
   include 'template.inc.php';
 }
