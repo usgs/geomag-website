@@ -9,7 +9,8 @@ if (!isset($TEMPLATE)) {
 <h3>Quick Links</h3>
 
 <div class="jumplist">
-  <a href="#2013">2014</a>
+  <a href="#2015">2015</a>
+  <a href="#2014">2014</a>
   <a href="#2013">2013</a>
   <a href="#2012">2012</a>
   <a href="#2011">2011</a>
@@ -28,9 +29,32 @@ if (!isset($TEMPLATE)) {
   <a href="#1998">1998</a>
 </div>
 
+<a id="2015"><h3>2015</h3></a>
+<ul class="referencelist">
+  <li>
+    Love, J.J., Finn, C.A., Pedrie, K.L., &amp; Blum, C.C., 2015.
+    <a href="http://pubs.er.usgs.gov/publication/ofr20151125">The Boulder
+    magnetic observatory</a>, USGS Open-File Report, 2015–1125, 8 p.,
+    doi:10.3133/ofr20151125.
+  </li>
+</ul>
+
 <a id="2014"><h3>2014</h3></a>
 
 <ul class="referencelist">
+  <li>
+    Kelbert, A., Kuvshinov, A., Velimsky, J., Koyama, T., Ribaudo, J., Sun, J.,
+    Martinec Z. &amp; Weiss, C. J., 2014.
+    <a href="/downloads/publications/Geophys. J. Int.-2014-Kelbert-785-814.pdf">
+      Global 3-D electromagnetic forward modeling: a benchmark study</a>,
+      Geophys. J. Int., 197, 785-814, doi:10.1093/gji/ggu028.
+  </li>
+  <li>
+    Kelbert, A. , Meqbel, N., Egbert, G. D. &amp; Tandon, K., 2014.
+    <a href="/downloads/publications/1-s2.0-S0098300414000211-main.pdf">
+    ModEM: A modular system for inversion of electromagnetic geophysical data,
+    Computers &amp; Geosciences</a>, 66, 40-53, doi:10.1016/j.cageo.2014.01.010.
+  </li>
   <li>
     Love, J. J., 2014.
     <a href="/downloads/publications/Love2014Auroralomens.pdf">
@@ -48,6 +72,14 @@ if (!isset($TEMPLATE)) {
     operational estimation of electric fields induced in the Earth's
     lithosphere during magnetic storms</a>, Geophys. Res. Lett., 41,
     2266-2274, doi:10.1002/2014GL059568.
+  </li>
+  <li>
+    Meqbel, N., Egbert, G. D., Wannamaker, P. E., Kelbert, A., &amp; Schultz,
+    A., 2014.
+    <a href="/downloads/publications/1-s2.0-S0012821X13007413-main.pdf">Deep
+    electrical resistivity structure of the Pacific Northwestern U.S. derived
+    from 3-D inversion of USArray magnetotelluric data, Earth Planet.</a> Sci.
+    Lett., doi:10.1016/j.epsl.2013.12.026.
   </li>
   <li>White, T. C., Sauter, E. A. &amp; Stewart, D. C., 2014.
     <a href="http://dx.doi.org/10.3133/sir20145045">Discovery and analysis of
@@ -125,10 +157,16 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Gannon, J. L., 2012. <a href="http://pubs.usgs.gov/of/2012/1167/">
-    Superposed epoch analysis and storm statistics from 25 years of the global
-    geomagnetic disturbance index, USGS-Dst</a>: USGS Open-File Report,
-    2012-1167, 15 p.
+    Egbert, G. D. &amp; Kelbert, A., 2012.
+    <a href="/downloads/publications/Geophys. J. Int.-2012-Egbert-251-67.pdf">
+    Computational recipes for electromagnetic inverse problems</a>, Geophys. J.
+    Int., 189, 251-267, doi:10.1111/j.1365-246X.2011.05347.x.
+  </li>
+  <li>
+    Love, J.J., Finn, C.A., Pedrie, K.L., &amp; Blum, C.C., 2015.
+    <a href="http://pubs.usgs.gov/of/2012/1167/">The Boulder magnetic
+    observatory</a>, USGS Open-File Report, 2015–1125, 8 p.,
+    doi:10.3133/ofr20151125.
   </li>
   <li>
     Gannon, J. L., 2012. <a href="/downloads/publications/2011SW000731.pdf">
@@ -141,6 +179,12 @@ if (!isset($TEMPLATE)) {
     <a href="/downloads/publications/2012JA017543.pdf">Uncovering the
     nonadiabatic response of geosynchronous electrons to geomagnetic
     disturbance</a>, J. Geophys. Res., 117, A10215, doi:10.1029/2012JA017543.
+  </li>
+  <li>
+    Kelbert A., Egbert, G. D. &amp; de Groot-Hedlin, C., 2012.
+    <a href="/downloads/publications/Kelbert_et_al_2012_Geology.pdf">Crust and
+    upper mantle electrical conductivity beneath the Yellowstone Hotspot
+    Track</a>, Geology, 40(5), 447-450, doi:10.1130/G32655.1.
   </li>
   <li>
     Love, J. J., 2012.  <a href="/downloads/publications/2012GL051431.pdf">
@@ -288,6 +332,12 @@ if (!isset($TEMPLATE)) {
     Workshop</a>, Golden, CO, Love, J. J. (ed.), pp. 1-8.
   </li>
   <li>
+    Kelbert A., Schultz, A. &amp; Egbert, G. D., 2009.
+    <a href="/downloads/publications/Nature, August 20, 2009, Vol. 460 - Kelbert, Schultz, Egbert.pdf">
+    Global electromagnetic induction constraints on transition-zone water
+    content variations</a>, Nature, 460, 1003-1006, doi:10.1038/nature08257.
+  </li>
+  <li>
     Love, J. J. &amp; Gannon, J. L., 2009.
     <a href="/downloads/publications/angeo-27-3101-2009.pdf">Revised Dst and
     the epicycles of magnetic disturbance: 1958-2007</a>, Ann. Geophys., 27,
@@ -370,6 +420,13 @@ if (!isset($TEMPLATE)) {
 <a id="2008"><h3>2008</h3></a>
 
 <ul class="referencelist">
+  <li>
+    Kelbert A., Egbert, G. D. &amp; Schultz, A., 2008.
+    <a href="/downloads/publications/Geophys. J. Int.-2008-Kelbert-365-81.pdf">
+    Non-linear conjugate gradient inversion for global EM induction: resolution
+    studies</a>, Geophys. J. Int., 173, 365-381,
+    doi:10.1111/j.1365-246X.2008.03717.x.
+  </li>
   <li>
     Love, J. J., Feb. 2008. <a href="/downloads/publications/pt_love0208.pdf">
     Magnetic monitoring of Earth and space</a>, Physics Today, 61, 31-37.
