@@ -3,6 +3,8 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'USGS Geomagnetism Program';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
+  $FOOT = '<script src="/lib/hazdev-webutils.js"></script>' .
+      '<script src="index.js"></script>';
   include 'template.inc.php';
 }
 
