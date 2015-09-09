@@ -122,55 +122,53 @@ if (!isset($TEMPLATE)) {
   <h2 style="clear:right">Observatory Partners</h2>
 </div>
 
-<div>
-  <p>
-    <a href="http://www.noaa.gov">
-      <img src="images/partners/noaa_130.gif"
-          alt="National Oceanic and Atmospheric Administration (NOAA)" width='130'
-          height='130' />
-    </a>
+<div class="logo">
+  <a href="http://www.noaa.gov">
+    <img src="images/partners/noaa_130.gif"
+        alt="National Oceanic and Atmospheric Administration (NOAA)" width='130'
+        height='130' />
+  </a>
 
-    <a href="http://www.fs.fed.us">
-      <img src="images/partners/usfs_doa_130.jpg"
-          alt="United States Forest Service (USFS)" width='124' height='130' />
-    </a>
+  <a href="http://www.fs.fed.us">
+    <img src="images/partners/usfs_doa_130.jpg"
+        alt="United States Forest Service (USFS)" width='124' height='130' />
+  </a>
 
-    <a href="http://www.gi.alaska.edu">
-      <img src="images/partners/geophysical_institute_130.png"
-          alt="University of Alaska Geophysics" width='130' height='130' />
-    </a>
+  <a href="http://www.gi.alaska.edu">
+    <img src="images/partners/geophysical_institute_130.png"
+        alt="University of Alaska Geophysics" width='130' height='130' />
+  </a>
 
-    <a href="http://www.nps.gov/index.htm">
-      <img src="images/partners/nps_130.png" width='99' height='130'
-          alt="National Park Service (NPS)" />
-    </a>
+  <a href="http://www.nps.gov/index.htm">
+    <img src="images/partners/nps_130.png" width='99' height='130'
+        alt="National Park Service (NPS)" />
+  </a>
 
-    <a href="http://www.nasa.gov">
-      <img src="images/partners/nasa_130.gif"
-          alt="National Atmospheric and Space Administration" width='153'
-          height='130' />
-    </a>
+  <a href="http://www.nasa.gov">
+    <img src="images/partners/nasa_130.gif"
+        alt="National Atmospheric and Space Administration" width='153'
+        height='130' />
+  </a>
 
-    <a href="http://www.af.mil">
-      <img src="images/partners/doaf_130.gif"
-          alt="United States Air Force" width='130' height='130' />
-    </a>
+  <a href="http://www.af.mil">
+    <img src="images/partners/doaf_130.gif"
+        alt="United States Air Force" width='130' height='130' />
+  </a>
 
-    <a href="http://www.shumagin.com">
-      <img src="images/partners/sitka_130.jpg" alt="Shumagin"
-          width='162' height='130' />
-    </a>
+  <a href="http://www.shumagin.com">
+    <img src="images/partners/sitka_130.jpg" alt="Shumagin"
+        width='162' height='130' />
+  </a>
 
-    <a href="http://www.ntia.doc.gov">
-      <img src="images/partners/ntia_130.png"
-          alt="National Telecommunications and Information Administration (NTIA)"
-          width='130' height='130' />
-    </a>
+  <a href="http://www.ntia.doc.gov">
+    <img src="images/partners/ntia_130.png"
+        alt="National Telecommunications and Information Administration (NTIA)"
+        width='130' height='130' />
+  </a>
 
-    <a href="http://www.ctbto.org">
-      <img src="images/partners/ctbto.gif"
-          alt="Preparatory Commission For The Comprehensive Nuclear-Test-Ban
-          Treaty Organization (CTBTO)" width='130' height='130' />
-    </a>
-  </p>
+  <a href="http://www.ctbto.org">
+    <img src="images/partners/ctbto.gif"
+        alt="Preparatory Commission For The Comprehensive Nuclear-Test-Ban
+        Treaty Organization (CTBTO)" width='130' height='130' />
+  </a>
 </div>

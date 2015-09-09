@@ -15,8 +15,9 @@
   border: none;
 }
 
-.logo {
-  text-align: right;
+.logo > a {
+  display: inline-block;
+  margin: 0 1em 1em;
 }
 
 .info-text {
