@@ -1,8 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Boulder (BOU)';
-  $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
-          <meta name="viewport" content="width=device-width">';
+  $HEAD = '<meta name="viewport" content="width=device-width">';
   $CONTACT = 'geomagdata';
   $NAVIGATION = true;
   include 'template.inc.php';
@@ -179,8 +178,8 @@ if (!isset($TEMPLATE)) {
       </figcaption>
     </figure>
     <figure>
-      <a href="images/Boulder Historical Map.jpg"><img
-      src="images/Boulder Historical Map_small.jpg"
+      <a href="images/Boulder_Historical_Map.jpg"><img
+      src="images/Boulder_Historical_Map_small.jpg"
       alt="Historic topographic map of Boulder Magnetic Observatory location."
       title="Historic topographic map of Boulder Magnetic Observatory location."
        /></a>
