@@ -11,7 +11,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <div class="row">
-  <div class="column one-of-two">
+  <div class="column two-of-five">
     <ul class="linklist">
       <li>
         <a href="/publications/papers.php">
@@ -77,7 +77,7 @@ if (!isset($TEMPLATE)) {
       </li>
     </ul>
   </div>
-  <div class="column one-of-two">
+  <div class="column three-of-five">
     <p>
       Research projects within the USGS Geomagnetism Program are targeted for
       societal relevance, especially for space-weather hazard science. Consistent
