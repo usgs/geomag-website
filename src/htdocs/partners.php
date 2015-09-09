@@ -22,18 +22,16 @@ if (!isset($TEMPLATE)) {
 <div class="logo">
   <a href="http://www.intermagnet.org">
     <img src="/images/partners/intermagnet_130.jpg"
-        alt="Intermagnet" width='130' height='130' />
+        alt="Intermagnet"/>
   </a>
 
   <a href="http://www.iugg.org/IAGA/">
     <img src="/images/partners/iaga_130.png"
-        alt="International Association of Geomagnetism and Aeronomy (IAGA)"
-        width='152' height='130' />
+        alt="International Association of Geomagnetism and Aeronomy (IAGA)"/>
   </a>
 
   <a href="http://www.icsu-wds.org">
-    <img src="/images/partners/wdc_130.jpg" alt="World Data Center"
-        width='130' height='130' />
+    <img src="/images/partners/wdc_130.jpg" alt="World Data Center"/>
   </a>
 </div>
 
@@ -54,24 +52,22 @@ if (!isset($TEMPLATE)) {
 <div class="logo">
   <a href="http://www.nswp.gov">
     <img src="/images/partners/nswp_130.png"
-        alt="National Space Weather Program (NSWP)" width='161' height='130' />
+        alt="National Space Weather Program (NSWP)"/>
   </a>
 
   <a href="http://www.noaa.gov">
     <img src="/images/partners/noaa_130.gif"
-        alt='National Oceanic and Atmospheric Administration (NOAA)' width='130'
-        height='130' />
+        alt="National Oceanic and Atmospheric Administration (NOAA)"/>
   </a>
 
   <a href="http://www.afweather.af.mil">
     <img src="/images/partners/afwa_130.jpg"
-        alt="United States Air Force Weather Agency" width='127' height='130' />
+        alt="United States Air Force Weather Agency"/>
   </a>
 
   <a href="http://www.nasa.gov">
     <img src="images/partners/nasa_130.gif"
-        alt="National Aeronautics and Space Administration (NASA)" width='153'
-        height='130' />
+        alt="National Aeronautics and Space Administration (NASA)"/>
   </a>
 </div>
 
@@ -96,24 +92,21 @@ if (!isset($TEMPLATE)) {
 
 <div class="logo">
   <a href="http://www.slb.com">
-    <img src="images/partners/schlumberger.gif" alt="Schlumberger"
-        width='350' height='70' />
+    <img src="images/partners/schlumberger.gif" alt="Schlumberger"/>
   </a>
 
   <a href="http://www.isti.com">
     <img src="images/partners/isti.gif"
-        alt="Instrumental Software Technologies, Inc (ISTI)" width='180'
-        height='130' />
+        alt="Instrumental Software Technologies, Inc (ISTI)"/>
   </a>
 
   <a href="http://www.wpafb.af.mil/AFRL/">
     <img src="images/partners/afrl_130.png"
-        alt="United States Air Force Research Laboratory" width='132'
-        height='130' />
+        alt="United States Air Force Research Laboratory"/>
   </a>
 
-  <a href="http://www.spacewx.com">
-    <img src="images/partners/set.gif" width="500" height="50"
+  <a class="extra-wide" href="http://www.spacewx.com">
+    <img src="images/partners/set.gif"
         alt="Space Enviornment Technologies" />
   </a>
 </div>
@@ -125,50 +118,47 @@ if (!isset($TEMPLATE)) {
 <div class="logo">
   <a href="http://www.noaa.gov">
     <img src="images/partners/noaa_130.gif"
-        alt="National Oceanic and Atmospheric Administration (NOAA)" width='130'
-        height='130' />
+        alt="National Oceanic and Atmospheric Administration (NOAA)"/>
   </a>
 
   <a href="http://www.fs.fed.us">
     <img src="images/partners/usfs_doa_130.jpg"
-        alt="United States Forest Service (USFS)" width='124' height='130' />
+        alt="United States Forest Service (USFS)"/>
   </a>
 
   <a href="http://www.gi.alaska.edu">
     <img src="images/partners/geophysical_institute_130.png"
-        alt="University of Alaska Geophysics" width='130' height='130' />
+        alt="University of Alaska Geophysics"/>
   </a>
 
   <a href="http://www.nps.gov/index.htm">
-    <img src="images/partners/nps_130.png" width='99' height='130'
+    <img src="images/partners/nps_130.png"
         alt="National Park Service (NPS)" />
   </a>
 
   <a href="http://www.nasa.gov">
     <img src="images/partners/nasa_130.gif"
-        alt="National Atmospheric and Space Administration" width='153'
-        height='130' />
+        alt="National Atmospheric and Space Administration"/>
   </a>
 
   <a href="http://www.af.mil">
     <img src="images/partners/doaf_130.gif"
-        alt="United States Air Force" width='130' height='130' />
+        alt="United States Air Force"/>
   </a>
 
   <a href="http://www.shumagin.com">
-    <img src="images/partners/sitka_130.jpg" alt="Shumagin"
-        width='162' height='130' />
+    <img src="images/partners/sitka_130.jpg" alt="Shumagin"/>
   </a>
 
   <a href="http://www.ntia.doc.gov">
     <img src="images/partners/ntia_130.png"
         alt="National Telecommunications and Information Administration (NTIA)"
-        width='130' height='130' />
+        />
   </a>
 
   <a href="http://www.ctbto.org">
     <img src="images/partners/ctbto.gif"
         alt="Preparatory Commission For The Comprehensive Nuclear-Test-Ban
-        Treaty Organization (CTBTO)" width='130' height='130' />
+        Treaty Organization (CTBTO)"/>
   </a>
 </div>
