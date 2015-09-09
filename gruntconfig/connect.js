@@ -33,12 +33,19 @@ var connect = {
         rewrite: {
           '/theme': ''
         }
+      },
+      {
+        context: '/map',
+        host: 'geomag.usgs.gov',
+        port: 80,
+        headers: {
+          'host': 'geomag.usgs.gov'
+        }
       }
     ],
     options: {
       base: [
-        config.src + '/htdocs',
-        config.etc
+        config.src + '/htdocs'
       ],
       livereload: config.liveReloadPort,
       middleware: addMiddleware,
