@@ -25,7 +25,6 @@
     var storm,
         narrative;
 
-    data = JSON.parse(data);
     if (!data || data.length === 0) {
       _onError();
       return;
