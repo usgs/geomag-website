@@ -5,6 +5,7 @@ var BASE_PORT = 8600;
 
 
 var config = {
+  etc: 'etc',
   liveReloadPort: BASE_PORT + 9,
   src: 'src',
   srcPort: BASE_PORT,
