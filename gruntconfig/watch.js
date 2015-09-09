@@ -20,7 +20,7 @@ var watch = {
       config.src + '/**/*.js'
     ],
     options: {
-      livereload: true
+      livereload: config.liveReloadPort
     },
     tasks: [
       'jshint:scripts'
@@ -33,7 +33,7 @@ var watch = {
       '!' + config.src + '/**/*.js'
     ],
     options: {
-      livereload: true
+      livereload: config.liveReloadPort
     }
   }
 
