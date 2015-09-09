@@ -1,0 +1,66 @@
+title \com\ 
+logxy 0
+file out.a.bin
+mode 20 2 4
+symbol -1 0
+read 
+file out.a.dis
+mode 20 1 2
+symbol -1 0
+read 
+xlimit 5 0 180 15
+ylimit 2.5 
+xlabel 
+ylabel 
+frame on
+plot 
+title \com\ 
+logxy 0
+file out.d.bin
+mode 20 2 4
+symbol -1 0
+read 
+file out.d.dis
+mode 20 1 2
+symbol -1 0
+read 
+xlimit 5 -90 270 30
+ylimit 2.5 
+xlabel 
+ylabel 
+frame on
+plot 0 3
+title \com\ 
+logxy 0
+file out.i.bin
+mode 20 2 4
+symbol -1 0
+read 
+title \com\
+file out.i.dis
+mode 20 1 2
+symbol -1 0
+read 
+xlimit 5 -90 90 15
+ylimit 2.5 
+xlabel 
+ylabel 
+frame on
+plot 0 3
+title \com\ 
+logxy 0
+file out.f.bin
+mode 20 2 4
+symbol -1 0
+read 
+file out.f.dis
+mode 20 1 2
+symbol -1 0
+read 
+xlimit 5 0 120
+ylimit 2.5 
+xlabel 
+ylabel 
+frame on
+plot 0 3
+stop
