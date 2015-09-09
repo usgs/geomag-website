@@ -1,8 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Fredericksburg (FRD) Geomagnetic Observatory';
-  $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
-          <meta name="viewport" content="width=device-width">';
+  $HEAD = '<meta name="viewport" content="width=device-width">';
   $CONTACT = 'geomagdata';
   $NAVIGATION = true;
   include 'template.inc.php';
