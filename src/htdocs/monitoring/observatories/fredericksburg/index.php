@@ -198,11 +198,6 @@ if (!isset($TEMPLATE)) {
         </a>
       </figure>
       <figure class="center">
-        <a href="images/USGSNOAAAlum.jpg">
-          <img src="images/USGSNOAAAlum.jpg" alt="USGS NOAA alum" />
-        </a>
-      </figure>
-      <figure class="center">
         <a href="images/USGSNOAAAlum2.jpg">
           <img src="images/USGSNOAAAlum2.jpg" alt="USGS NOAA alum" />
         </a>
