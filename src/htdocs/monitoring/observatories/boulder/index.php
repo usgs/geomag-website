@@ -126,6 +126,19 @@ if (!isset($TEMPLATE)) {
     </ul>
   </section>
 
+  <section class="panel" data-title="Publications">
+    <header>
+      <h2>Publications</h2>
+    </header>
+    <ul>
+      <li>
+        Love, J.J., Finn, C.A., Pedrie, K.L., &amp; Blum, C.C., 2015.
+        <a href="http://pubs.usgs.gov/of/2012/1167/">The Boulder magnetic
+        observatory</a>, USGS Open-File Report, 2015–1125, 8 p.,
+        doi:10.3133/ofr20151125.
+      </li>
+    </ul>
+  </section>
   <section class="panel" data-title="Photos">
     <header>
       <h2>Photos</h2>

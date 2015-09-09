@@ -9,7 +9,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <div class="row">
-  <div class="column one-of-two">
+  <div class="column two-of-five">
     <ul class="linklist">
       <li>
         <a href="introtogeomag.php">
@@ -37,7 +37,7 @@ if (!isset($TEMPLATE)) {
       </li>
     </ul>
   </div>
-  <div class="column one-of-two">
+  <div class="column three-of-five">
     <p>
       For centuries, navigators of the world's oceans have been familiar with an
       effect of Earth's magnetic field: It imparts a directional preference to the
