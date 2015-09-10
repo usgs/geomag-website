@@ -15,41 +15,53 @@
           <a href="http://www.ga.gov.au/earth-monitoring/geomagnetism.html">
           Geoscience Australia</a>
         </dd>
+
       <dt>China</dt>
         <dd>
           <a href="http://english.cas.ac.cn">Chinese Academy of Sciences</a>
         </dd>
+
       <dt>Denmark</dt>
         <dd>
-          <a href="http://www.space.dtu.dk/english.aspx">Technical University of
-          Denmark</a>
+          <a href="http://www.space.dtu.dk/english">DTU Space</a>
         </dd>
+
       <dt>Finland</dt>
         <dd>
           <a href="http://www.sgo.fi/">University of Oulu</a>
         </dd>
+
       <dt>France</dt>
         <dd>
-          <a href="http://eost.unistra.fr/en/">Ecole et Observatoire des
-          Sciences de la Terre</a>
+          <a href="http://eost.unistra.fr/en/">School and Observatory of
+              Earth Sciences (EOST)</a>
         </dd>
         <dd>
-          <a href="http://en.ird.fr/">Institute de Recherche pour le
-          Developpement</a>
+          <a href="http://en.ird.fr/">Research Institute for Development</a>
         </dd>
+        <dd>
+          <a href="http://www.ipgp.fr/en">Institute of the Physics of the
+              Globe of Paris (IPGP)</a>
+        </dd>
+
       <dt>Hungary</dt>
         <dd>
-          <a href="http://www.elgi.hu/en">Eotvos Lorand Geofizikai Intezet</a>
+          <a href="http://www.elgi.hu/en">Eötvös Loránd Geophysical Institute
+              (ELGI)</a>
         </dd>
+
       <dt>Italy</dt>
         <dd>
-          <a href="http://www.ingv.it/en/">Instituto Nazionale di Geofisica</a>
+          <a href="http://www.ingv.it/en/">National Institute of Geophysics
+              and Vulcanology (INGV)</a>
         </dd>
+
       <dt>Japan</dt>
         <dd>
           <a href="http://www.kakioka-jma.go.jp/en/index.html">Japan
-          Meteorological Agency</a>
+              Meteorological Agency</a>
         </dd>
+
       <dt>New Zealand</dt>
         <dd>
           <a href="http://www.gns.cri.nz/">Geological and Nuclear Sciences</a>
@@ -62,40 +74,46 @@
         <dd>
           <a href="http://geo.phys.uit.no/">University of Tromso</a>
         </dd>
+
       <dt>Poland</dt>
         <dd>
-          <a href="http://www.igf.edu.pl/en/">Polish Academy of Sciences</a>
+          <a href="http://www.english.pan.pl/">Polish Academy of Sciences</a>
         </dd>
+
       <dt>Russia</dt>
         <dd>
-          <a href="http://en.iszf.irk.ru/Main_Page">Russian Academy of Sciences
-          </a>
+          <a href="http://en.iszf.irk.ru/Main_Page">Russian Academy of
+              Sciences</a>
         </dd>
         <dd>
           <a href="http://www.aari.nw.ru/index_en.html">Arctic and Antarctic
-          Research Institute</a>
+              Research Institute</a>
         </dd>
+
       <dt>South Africa</dt>
         <dd>
-          <a href="http://www.space-sci.sansa.org.za">National Research
-          Foundation</a>
+          <a href="http://www.space-sci.sansa.org.za/">South African National
+              Space Agency (SANSA)</a>
         </dd>
+
       <dt>Spain</dt>
         <dd>
-          <a href="http://www.obsebre.es/">Observatori de l'Ebre</a>
+          <a href="http://www.obsebre.es/ca/">Ebro Observatory</a>
         </dd>
+
       <dt>Sweden</dt>
         <dd>
-          <a href="http://www.sgu.se/sgu/eng/index.html">Sveriges Geologiska
-          Undersokning</a>
+          <a href="http://www.sgu.se/en/">Geological Survey of Sweden</a>
         </dd>
         <dd>
-          <a href="http://www.irf.se/">Institutet for rymdfysik</a>
+          <a href="http://www.irf.se/">Swedish Institute of Space Physics</a>
         </dd>
+
       <dt>United Kingdom</dt>
         <dd>
           <a href="http://www.geomag.bgs.ac.uk/">British Geological Survey</a>
         </dd>
+
       <dt>United States</dt>
         <dd>
           <a href="http://geomag.usgs.gov">United States Geological Survey</a>
