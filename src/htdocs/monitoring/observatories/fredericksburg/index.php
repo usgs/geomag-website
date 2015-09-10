@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Fredericksburg (FRD) Geomagnetic Observatory';
-  $CONTACT = 'geomagdata';
+  $CONTACT = 'geomagdata@usgs.gov';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
