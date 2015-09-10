@@ -54,8 +54,8 @@
     <dl>
       <dt>Alternate Sources of Geomagnetic Data</dt>
         <dd>
-          <a href="http://www.ngdc.noaa.gov">National Geophysical Data Center
-          (NOAA)</a>
+          <a href="http://www.ngdc.noaa.gov">National Centers for Environmental
+          Information</a>
         </dd>
         <dd>
           <a href="http://nssdc.gsfc.nasa.gov/">National Space Science Data
