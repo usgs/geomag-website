@@ -1,8 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Newport (NEW)';
-  $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
-          <meta name="viewport" content="width=device-width">';
   $CONTACT = 'geomagdata';
   $NAVIGATION = true;
   include 'template.inc.php';
@@ -107,16 +105,17 @@ if (!isset($TEMPLATE)) {
     </header>
     <ul>
       <li>
-        A seismometer for the USGS <a href="http://earthquake.usgs.gov/anss">
-        Advanced National Seismic System Program</a>.
+        A seismometer for the USGS
+        <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=US&amp;station=NEW">Advanced
+            National Seismic System Program</a>
       </li>
       <li>
-        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=183&amp;cHash=d639b7b197">
-        CTBTO IMS Auxiliary Seismic Station</a>
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=183&amp;cHash=d639b7b197">CTBTO
+            IMS Auxiliary Seismic Station</a>
       </li>
       <li>
-        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=272&amp;cHash=9f9ace0e41">
-        CTBTO IMS Infrasound array</a>
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=272&amp;cHash=9f9ace0e41">CTBTO
+            IMS Infrasound array</a>
       </li>
     </ul>
   </section>
