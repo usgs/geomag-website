@@ -77,7 +77,7 @@
           <a href="http://op.gfz-potsdam.de/champ/index_CHAMP.html">Champ</a>
         </dd>
         <dd>
-          <a href="http://dmsp.ngdc.noaa.gov/dmsp.html">Defense Meteorological
+          <a href="http://ngdc.noaa.gov/eog/dmsp.html">Defense Meteorological
           Satellite Program</a>
         </dd>
         <dd>
