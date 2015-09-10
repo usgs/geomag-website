@@ -16,7 +16,7 @@ $SITE_SITENAV =
 $SITE_COMMONNAV =
   navItem(($SITE_URL), 'Home') .
   navItem('/about.php', 'About Us') .
-  navItem('/contactus/', 'Contact Us') .
+  navItem('/contact.php', 'Contact Us') .
   navItem('/legal.php', 'Legal');
 
 $HEAD =
