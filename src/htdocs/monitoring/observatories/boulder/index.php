@@ -1,7 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Boulder (BOU)';
-  $CONTACT = 'geomagdata@usgs.gov';
   $NAVIGATION = true;
   include 'template.inc.php';
 }

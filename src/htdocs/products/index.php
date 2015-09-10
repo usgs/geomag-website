@@ -2,7 +2,6 @@
   if(!isset($TEMPLATE)) {
     $TITLE = 'Data & Products';
     $HEAD = '<link rel="stylesheet" href="index.css"/>';
-    $CONTACT = 'geomagdata@usgs.gov';
     $NAVIGATION = true;
     include 'template.inc.php';
   }
