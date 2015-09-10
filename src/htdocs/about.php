@@ -1,7 +1,6 @@
 <?php
   if(!isset($TEMPLATE)) {
     $TITLE = "About Us";
-    $CONTACT = 'geomag_research@usgs.gov';
     include 'template.inc.php';
   }
 ?>

@@ -2,7 +2,6 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Introduction to Geomag';
   $HEAD = '<link rel="stylesheet" href="introtogeomag.css"/>';
-  $CONTACT = 'geomag_research@usgs.gov';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
