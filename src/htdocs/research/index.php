@@ -20,12 +20,6 @@ if (!isset($TEMPLATE)) {
         </a>
       </li>
       <li>
-        <a href="geomagnetism-earthquakes.php">
-          <h2>Earthquake Prediction</h2>
-          <img src="/images/earthquake-icon.jpg" alt=""/>
-        </a>
-      </li>
-      <li>
         <a href="GIC.php">
           <h2>Induction Hazards</h2>
           <img src="/images/dreamstime_l_4671381_small.jpg"
@@ -66,6 +60,12 @@ if (!isset($TEMPLATE)) {
         <a href="spaceclimatology.php">
           <h2>Space Climatology</h2>
           <img src="/images/Climatology-icon.jpg" alt=""/>
+        </a>
+      </li>
+      <li>
+        <a href="geomagnetism-earthquakes.php">
+          <h2>Earthquake Prediction</h2>
+          <img src="/images/earthquake-icon.jpg" alt=""/>
         </a>
       </li>
       <li>
