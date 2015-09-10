@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Magnetic Data Quality';
-  $CONTACT = 'geomag_research';
+  $CONTACT = 'geomag_research@usgs.gov';
   $NAVIGATION = true;
   include 'template.inc.php';
 }

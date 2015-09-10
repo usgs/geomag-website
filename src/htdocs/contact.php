@@ -3,7 +3,7 @@
     $TEMPLATE = 'onecolumn';
     $TITLE = "Contact Us";
     $HEAD = '<link rel="stylesheet" href="contact.css"/>';
-    $CONTACT = 'geomag_research';
+    $CONTACT = 'geomag_research@usgs.gov';
     include 'template.inc.php';
   }
 ?>

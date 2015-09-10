@@ -1,7 +1,7 @@
 <?php
   if(!isset($TEMPLATE)) {
     $TITLE = 'Regional Conductivity Maps';
-    $CONTACT = 'geomag_research';
+    $CONTACT = 'geomag_research@usgs.gov';
     $NAVIGATION = true;
     include 'template.inc.php';
   }

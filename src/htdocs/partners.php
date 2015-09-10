@@ -1,7 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Partners and Customers';
-  $CONTACT = 'geomag_research';
+  $CONTACT = 'geomag_research@usgs.gov';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
   include 'template.inc.php';
 }
