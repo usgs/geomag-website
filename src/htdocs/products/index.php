@@ -82,15 +82,6 @@
         </p>
       </li>
       <li>
-        <a href="beta.php">
-          <h2>Beta Products</h2>
-        </a>
-        <p>
-          These products are in development and are offered "as-is" with no
-          guarantee of availability, accuracy, or support.
-        </p>
-      </li>
-      <li>
         <a href="otherdata.php">
           <h2>Other Sources of Data</h2>
         </a>
