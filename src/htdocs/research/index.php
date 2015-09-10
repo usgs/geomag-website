@@ -27,12 +27,6 @@ if (!isset($TEMPLATE)) {
         </a>
       </li>
       <li>
-        <a href="hazards.php">
-          <h2>Hazard Mapping</h2>
-          <img src="/images/hazardmapping_150_100.png" alt=""/>
-        </a>
-      </li>
-      <li>
         <a href="magdataquality.php">
           <h2>Magnetic Data Quality</h2>
           <img src="/images/Data-icon.jpg" alt=""/>
