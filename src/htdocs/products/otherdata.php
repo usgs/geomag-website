@@ -81,7 +81,8 @@
           Satellite Program</a>
         </dd>
         <dd>
-          <a href="http://web.dmi.dk/fsweb/projects/oersted/">Oersted</a>
+          <a href="http://www.space.dtu.dk/english/Research/Projects/Oersted">
+          The Ørsted Satellite</a>
         </dd>
       <dt>Looking for your link?</dt>
         <dd>
