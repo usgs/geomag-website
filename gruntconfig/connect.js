@@ -35,7 +35,12 @@ var connect = {
         }
       },
       {
-        context: ['/map', '/template'],
+        context: [
+          '/map',
+          '/realtime',
+          '/storm',
+          '/template'
+        ],
         host: 'geomag.usgs.gov',
         port: 80,
         headers: {
