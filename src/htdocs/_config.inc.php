@@ -16,7 +16,7 @@ $SITE_SITENAV =
 $SITE_COMMONNAV =
   navItem(($SITE_URL), 'Home') .
   navItem('/about.php', 'About Us') .
-  navItem('/contact.php', 'Contact Us') .
+  navItem('/contactus/', 'Contact Us') .
   navItem('/legal.php', 'Legal');
 
 $HEAD =
@@ -36,5 +36,11 @@ $HEAD =
     'magnetosphere,ionosphere,magnetospheric,ionospheric,geophysics,' .
     'Dst Index,K Index,Space Weather,Solar Storm' .
   '"/>';
+
+// comments and questions default
+if (!isset($CONTACT)) {
+  $CONTACT = 'geomagdata@usgs.gov';
+}
+$CONTACT_URL = 'mailto:{CONTACT}';
 
 ?>
