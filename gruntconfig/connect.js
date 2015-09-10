@@ -35,7 +35,7 @@ var connect = {
         }
       },
       {
-        context: '/map',
+        context: ['/map', '/template'],
         host: 'geomag.usgs.gov',
         port: 80,
         headers: {
