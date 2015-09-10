@@ -7,7 +7,6 @@ echo navGroup(navItem('/products/index.php', 'Data &amp; Products'),
   navItem('/products/models.php', 'Models') .
   navItem('/products/map', 'Real-Time Geomagnetic Conditions') .
   navItem('/products/dst', 'Real-Time Dst Display') .
-  navItem('/products/beta.php', 'Beta Products') .
   navItem('/products/otherdata.php', 'Other Sources of Data')
 );
  ?>
