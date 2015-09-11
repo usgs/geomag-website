@@ -36,11 +36,14 @@ var connect = {
       },
       {
         context: [
+          // These are served by "legacy" servers.
           '/map',
           '/realtime',
           '/storm',
           '/template',
-          '/wwwplots'
+          '/wwwplots',
+          // These are apps.
+          '/plots'
         ],
         host: 'geomag.usgs.gov',
         port: 80,

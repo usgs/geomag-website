@@ -10,7 +10,7 @@
   <div class="one-of-two column">
     <ul class="linklist">
       <li>
-        <a href="/realtime">
+        <a href="/plots/">
           <h2>Real-Time HEZF Display</h2>
           <img src="/images/realtime_final.png" alt=""/>
         </a>
