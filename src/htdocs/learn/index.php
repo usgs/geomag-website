@@ -51,11 +51,12 @@ if (!isset($TEMPLATE)) {
       magnetic-field direction and intensity at fixed locations and over long
       periods of time.
     </p>
+    <p>
+      Learn more:
+      <a href="/publications/comicbook/GeomagComic.pdf">
+        "Journey along a field line"</a> Comic Book.
+    </p>
   </div>
 </div>
 
-<p>
-  Learn more:
-  <a href="/publications/comicbook/GeomagComic.pdf">
-      "Journey along a field line"</a> Comic Book.
-</p>
+
