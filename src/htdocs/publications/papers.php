@@ -1,6 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Papers';
+  $TITLE = 'Publications';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
   include 'template.inc.php';
 }
