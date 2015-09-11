@@ -1,7 +1,7 @@
 <?php
 
 // site search url, leave blank for all usgs
-$SITE_URL = 'http://geomag.usgs.gov';
+$SITE_URL = 'geomag.usgs.gov';
 
 // navigation above search, below section navigation
 $SITE_SITENAV =
@@ -14,7 +14,7 @@ $SITE_SITENAV =
 
 // at bottom of page
 $SITE_COMMONNAV =
-  navItem(($SITE_URL), 'Home') .
+  navItem('/', 'Home') .
   navItem('/about.php', 'About Us') .
   navItem('/contact.php', 'Contact Us') .
   navItem('/legal.php', 'Legal');
