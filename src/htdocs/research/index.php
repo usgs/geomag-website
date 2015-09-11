@@ -20,7 +20,7 @@ if (!isset($TEMPLATE)) {
       </li>
       <li>
         <a href="GIC.php">
-          <h2>Induction Hazards</h2>
+          <h2>Geomagnetically Induced Currents</h2>
           <img src="/images/dreamstime_l_4671381_small.jpg"
               alt="Used with permission from dreamstime.com"/>
         </a>
