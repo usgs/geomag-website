@@ -1,6 +1,6 @@
 <?php
 echo navGroup(navItem('/products/index.php', 'Data &amp; Products'),
-  navItem('/realtime', 'Real-Time HEZF Display') .
+  navItem('/plots/', 'Real-Time HEZF Display') .
   navItem('/products/realtime/', 'Blended Real-Time HEZF Display') .
   navItem('/products/downloads.php', 'Downloads') .
   navItem('/products/storm', 'Magnetic Disturbance Events') .
