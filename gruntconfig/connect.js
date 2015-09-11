@@ -39,7 +39,8 @@ var connect = {
           '/map',
           '/realtime',
           '/storm',
-          '/template'
+          '/template',
+          '/wwwplots'
         ],
         host: 'geomag.usgs.gov',
         port: 80,
