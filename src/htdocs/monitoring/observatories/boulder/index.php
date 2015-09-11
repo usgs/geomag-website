@@ -80,9 +80,9 @@ if (!isset($TEMPLATE)) {
   <div class="one-of-two column">
     <figure class="center">
       <img src="images/boulder_sign.jpg"
-      alt="Magnetometer at Barrow Observatory." />
+      alt="Magnetometer at Boulder Observatory." />
       <figcaption>
-        Magnetometer at Barrow Observatory.
+        Magnetometer at Boulder Observatory.
       </figcaption>
     </figure>
   </div>
