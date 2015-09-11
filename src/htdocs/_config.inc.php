@@ -14,7 +14,7 @@ $SITE_SITENAV =
 
 // at bottom of page
 $SITE_COMMONNAV =
-  navItem(($SITE_URL), 'Home') .
+  navItem('/', 'Home') .
   navItem('/about.php', 'About Us') .
   navItem('/contact.php', 'Contact Us') .
   navItem('/legal.php', 'Legal');
