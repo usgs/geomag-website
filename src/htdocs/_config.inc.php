@@ -1,7 +1,7 @@
 <?php
 
 // site search url, leave blank for all usgs
-$SITE_URL = 'http://geomag.usgs.gov';
+$SITE_URL = 'geomag.usgs.gov';
 
 // navigation above search, below section navigation
 $SITE_SITENAV =
@@ -10,11 +10,11 @@ $SITE_SITENAV =
   navItem('/research/', 'Research') .
   navItem('/learn/', 'Learn') .
   navItem('/services.php', 'Services') .
-  navItem('/partners.php', 'Partners');
+  navItem('/partners.php', 'Partners &amp Customers');
 
 // at bottom of page
 $SITE_COMMONNAV =
-  navItem(($SITE_URL), 'Home') .
+  navItem('/', 'Home') .
   navItem('/about.php', 'About Us') .
   navItem('/contact.php', 'Contact Us') .
   navItem('/legal.php', 'Legal');
@@ -36,5 +36,11 @@ $HEAD =
     'magnetosphere,ionosphere,magnetospheric,ionospheric,geophysics,' .
     'Dst Index,K Index,Space Weather,Solar Storm' .
   '"/>';
+
+// comments and questions default
+if (!isset($CONTACT)) {
+  $CONTACT = 'geomagdata@usgs.gov';
+}
+$CONTACT_URL = 'mailto:{CONTACT}';
 
 ?>

@@ -1,0 +1,66 @@
+.iframe-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 35px;
+  height: 0;
+  overflow: hidden;
+}
+
+.iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.logo {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.logo > a {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  height: 130px;
+  margin: 0 1em 1em;
+  overflow: hidden;
+  width: 130px;
+}
+
+.logo > .extra-wide {
+  width: 260px;
+}
+
+.logo > a > img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.info-text {
+  margin-bottom: 1em;
+}
+
+dl.legal-links > dt {
+  font-weight: 500;
+  margin: 1em 0 0;
+}

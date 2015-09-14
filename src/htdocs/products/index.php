@@ -2,7 +2,6 @@
   if(!isset($TEMPLATE)) {
     $TITLE = 'Data & Products';
     $HEAD = '<link rel="stylesheet" href="index.css"/>';
-    $CONTACT = 'geomagdata';
     $NAVIGATION = true;
     include 'template.inc.php';
   }
@@ -11,7 +10,7 @@
   <div class="one-of-two column">
     <ul class="linklist">
       <li>
-        <a href="/realtime">
+        <a href="/plots/">
           <h2>Real-Time HEZF Display</h2>
           <img src="/images/realtime_final.png" alt=""/>
         </a>
@@ -79,15 +78,6 @@
         <p>
           Real-time Dst data from USGS observatories as well as other world
           partners.
-        </p>
-      </li>
-      <li>
-        <a href="beta.php">
-          <h2>Beta Products</h2>
-        </a>
-        <p>
-          These products are in development and are offered "as-is" with no
-          guarantee of availability, accuracy, or support.
         </p>
       </li>
       <li>

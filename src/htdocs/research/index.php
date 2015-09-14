@@ -3,7 +3,6 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Research';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
-  $CONTACT = 'geomag_research';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
@@ -11,7 +10,7 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <div class="row">
-  <div class="column one-of-two">
+  <div class="column two-of-five">
     <ul class="linklist">
       <li>
         <a href="/publications/papers.php">
@@ -20,22 +19,10 @@ if (!isset($TEMPLATE)) {
         </a>
       </li>
       <li>
-        <a href="geomagnetism-earthquakes.php">
-          <h2>Earthquake Prediction</h2>
-          <img src="/images/earthquake-icon.jpg" alt=""/>
-        </a>
-      </li>
-      <li>
         <a href="GIC.php">
           <h2>Geomagnetically Induced Currents</h2>
           <img src="/images/dreamstime_l_4671381_small.jpg"
               alt="Used with permission from dreamstime.com"/>
-        </a>
-      </li>
-      <li>
-        <a href="hazards.php">
-          <h2>Hazard Mapping</h2>
-          <img src="/images/hazardmapping_150_100.png" alt=""/>
         </a>
       </li>
       <li>
@@ -69,6 +56,12 @@ if (!isset($TEMPLATE)) {
         </a>
       </li>
       <li>
+        <a href="geomagnetism-earthquakes.php">
+          <h2>Earthquake Prediction</h2>
+          <img src="/images/earthquake-icon.jpg" alt=""/>
+        </a>
+      </li>
+      <li>
         <a href="/publications/movies/">
           <h2>Magnetic Disturbance Movies</h2>
           <img src="/images/dreamstime_xs_10405769_small.jpg"
@@ -77,7 +70,7 @@ if (!isset($TEMPLATE)) {
       </li>
     </ul>
   </div>
-  <div class="column one-of-two">
+  <div class="column three-of-five">
     <p>
       Research projects within the USGS Geomagnetism Program are targeted for
       societal relevance, especially for space-weather hazard science. Consistent

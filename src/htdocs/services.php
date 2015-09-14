@@ -1,7 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Services';
-  $CONTACT = 'geomagdata';
   include 'template.inc.php';
 }
 ?>

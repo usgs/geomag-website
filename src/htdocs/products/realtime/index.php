@@ -1,8 +1,8 @@
 <?php
   if(!isset($TEMPLATE)) {
     $TITLE = 'Blended Real-Time Data - Preliminary';
-    $CONTACT = 'geomagdata';
     $NAVIGATION = true;
+    $CONTACT='dcstewart@usgs.gov';
     include 'template.inc.php';
   }
 ?>
@@ -65,12 +65,4 @@
   their Intermagnet Data Download page. Visit our
   <a href="http://geomag.usgs.gov/products/downloads.php">Download</a> page for
   more ways to get USGS data.
-</p>
-
-<h3>USGS Geomagnetism Program Data, Inquiries and Specialized Data Requests</h3>
-
-<p>
-  Duff C Stewart<br/>
-  Data Management: Software Developer<br/>
-  <a href="mailto:dcstewart@usgs.gov">dcstewart@usgs.gov</a>
 </p>

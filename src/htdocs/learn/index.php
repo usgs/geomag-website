@@ -2,14 +2,13 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Learn';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
-  $CONTACT = 'geomag_research';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>
 
 <div class="row">
-  <div class="column one-of-two">
+  <div class="column two-of-five">
     <ul class="linklist">
       <li>
         <a href="introtogeomag.php">
@@ -37,7 +36,7 @@ if (!isset($TEMPLATE)) {
       </li>
     </ul>
   </div>
-  <div class="column one-of-two">
+  <div class="column three-of-five">
     <p>
       For centuries, navigators of the world's oceans have been familiar with an
       effect of Earth's magnetic field: It imparts a directional preference to the
@@ -52,11 +51,12 @@ if (!isset($TEMPLATE)) {
       magnetic-field direction and intensity at fixed locations and over long
       periods of time.
     </p>
+    <p>
+      Learn more:
+      <a href="/publications/comicbook/GeomagComic.pdf">
+        "Journey along a field line"</a> Comic Book.
+    </p>
   </div>
 </div>
 
-<p>
-  Learn more:
-  <a href="/publications/comicbook/GeomagComic.pdf">
-      "Journey along a field line"</a> Comic Book.
-</p>
+

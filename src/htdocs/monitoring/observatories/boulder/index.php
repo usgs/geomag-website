@@ -1,9 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Boulder (BOU)';
-  $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
-          <meta name="viewport" content="width=device-width">';
-  $CONTACT = 'geomagdata';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
@@ -83,9 +80,9 @@ if (!isset($TEMPLATE)) {
   <div class="one-of-two column">
     <figure class="center">
       <img src="images/boulder_sign.jpg"
-      alt="Magnetometer at Barrow Observatory." />
+      alt="Magnetometer at Boulder Observatory." />
       <figcaption>
-        Magnetometer at Barrow Observatory.
+        Magnetometer at Boulder Observatory.
       </figcaption>
     </figure>
   </div>
@@ -126,6 +123,19 @@ if (!isset($TEMPLATE)) {
     </ul>
   </section>
 
+  <section class="panel" data-title="Publications">
+    <header>
+      <h2>Publications</h2>
+    </header>
+    <ul>
+      <li>
+        Love, J.J., Finn, C.A., Pedrie, K.L., &amp; Blum, C.C., 2015.
+        <a href="http://pubs.usgs.gov/of/2012/1167/">The Boulder magnetic
+        observatory</a>, USGS Open-File Report, 2015–1125, 8 p.,
+        doi:10.3133/ofr20151125.
+      </li>
+    </ul>
+  </section>
   <section class="panel" data-title="Photos">
     <header>
       <h2>Photos</h2>
@@ -166,8 +176,8 @@ if (!isset($TEMPLATE)) {
       </figcaption>
     </figure>
     <figure>
-      <a href="images/Boulder Historical Map.jpg"><img
-      src="images/Boulder Historical Map_small.jpg"
+      <a href="images/Boulder_Historical_Map.jpg"><img
+      src="images/Boulder_Historical_Map_small.jpg"
       alt="Historic topographic map of Boulder Magnetic Observatory location."
       title="Historic topographic map of Boulder Magnetic Observatory location."
        /></a>
