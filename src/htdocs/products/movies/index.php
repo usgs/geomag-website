@@ -42,7 +42,7 @@ if (!isset($TEMPLATE)) {
 <div class="row">
   <div class="one-of-two column">
     <small class="format-switcher"><?php print $format_links; ?></small>
-      <?php if ($movie_format === "flash") : ?>
+    <?php if ($movie_format === "flash") : ?>
       <object class="flash-movie" type="application/x-shockwave-flash"
           data="<?php print $movie_type; ?>.swf"
           width="0" height="0">
