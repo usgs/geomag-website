@@ -1,6 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Partners & Customers';
+  $TITLE = 'Partners &amp; Customers';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
   include 'template.inc.php';
 }
