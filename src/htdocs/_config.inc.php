@@ -10,7 +10,7 @@ $SITE_SITENAV =
   navItem('/research/', 'Research') .
   navItem('/learn/', 'Learn') .
   navItem('/services.php', 'Services') .
-  navItem('/partners.php', 'Partners');
+  navItem('/partners.php', 'Partners &amp Customers');
 
 // at bottom of page
 $SITE_COMMONNAV =
