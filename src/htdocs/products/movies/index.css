@@ -1,0 +1,16 @@
+.format-switcher {
+  display: block;
+  margin-bottom: 1em;
+}
+.flash-movie {
+  width: 410px;
+  height: 360px;
+}
+.flash-disclaimer {
+  color: #444;
+  font-size: .85em;
+}
+.gif-movie {
+  width: 372px;
+  height: 327px;
+}
