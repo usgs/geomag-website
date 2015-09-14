@@ -6,21 +6,21 @@ if (!isset($TEMPLATE)) {
   $movie_format = param('format', 'gif');
 
   if ($movie_type === 'declination') {
-    $movie_title = 'Declination';
+    $movie_title = 'Declination of the Earth 1590 - 1990';
   } else if ($movie_type === 'inclination') {
-    $movie_title = 'Inclination';
+    $movie_title = 'Inclination 1590 - 1990';
   } else if ($movie_type === 'horizontal') {
-    $movie_title = 'Horizontal Intensity';
+    $movie_title = 'Horizontal Intensity of the Earth 1840 - 1990';
   } else if ($movie_type === 'tintensity') {
-    $movie_title = 'Total Intensity';
+    $movie_title = 'Total Intensity of the Earth 1840 - 1990';
   } else if ($movie_type === 'vertical') {
-    $movie_title = 'Vertical Intensity';
+    $movie_title = 'Vertical Intensity of the Earth 1840 - 1990';
   } else if ($movie_type === 'corefield') {
-    $movie_title = 'Core Radial Field';
+    $movie_title = 'Core Radial Field of the Earth 1590 - 1990';
   } else {
     // Bad type requested, default to declination
     $movie_type = 'declination';
-    $movie_title='Declination';
+    $movie_title='Declination of the Earth 1590 - 1990';
   }
 
   if ($movie_format === "flash") {
@@ -32,7 +32,7 @@ if (!isset($TEMPLATE)) {
         '&amp;format=flash">Flash</a> | GIF)';
   }
 
-  $TITLE = $movie_title . ' of the Earth 1590 - 1900';
+  $TITLE = $movie_title;
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
 
   include_once 'template.inc.php';
@@ -66,12 +66,12 @@ if (!isset($TEMPLATE)) {
   <div class="one-of-two column">
     <h2>Available Videos</h2>
     <ul>
-      <li><a href="index.php?type=declination">Declination</a></li>
-      <li><a href="index.php?type=inclination">Inclincation</a></li>
-      <li><a href="index.php?type=horizontal">Horizontal Intensity</a></li>
-      <li><a href="index.php?type=vertical">Vertical Intensity</a></li>
-      <li><a href="index.php?type=tintensity">Total Intensity</a></li>
-      <li><a href="index.php?type=corefield">Core Radial Field</a></li>
+      <li><a href="index.php?type=declination&amp;format=<?php print $movie_format; ?>">Declination</a></li>
+      <li><a href="index.php?type=inclination&amp;format=<?php print $movie_format; ?>">Inclincation</a></li>
+      <li><a href="index.php?type=horizontal&amp;format=<?php print $movie_format; ?>">Horizontal Intensity</a></li>
+      <li><a href="index.php?type=vertical&amp;format=<?php print $movie_format; ?>">Vertical Intensity</a></li>
+      <li><a href="index.php?type=tintensity&amp;format=<?php print $movie_format; ?>">Total Intensity</a></li>
+      <li><a href="index.php?type=corefield&amp;format=<?php print $movie_format; ?>">Core Radial Field</a></li>
     </ul>
   </div>
 </div>
