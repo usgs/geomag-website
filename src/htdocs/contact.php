@@ -49,6 +49,18 @@
       </li>
       <li>
         <div class="row">
+          <img src="/images/staff/Kelbert_Anna.jpg" alt=""
+              class="column mobile-one-of-four" />
+          <div class="column mobile-three-of-four">
+            Anna Kelbert<br/>
+            Research and Development<br/>
+            Ph: (303) 273-8448<br/>
+            <a href="mailto:akelbert@usgs.gov">akelbert@usgs.gov</a>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="row">
           <img src="/images/staff/McWhirter_Eddie.jpg" alt=""
               class="column mobile-one-of-four" />
           <div class="column mobile-three-of-four">
@@ -188,29 +200,6 @@
       <dt>Fax</dt>
         <dd>
           (303) 273-8506
-        </dd>
-    </dl>
-
-    <h2>College Observatory</h2>
-    <dl>
-      <dt>Address</dt>
-        <dd>
-          PO Box 756920<br/>
-          Fairbanks, AK 99775-6920<br/>
-        </dd>
-    </dl>
-
-    <h2>Fredericksburg</h2>
-    <dl>
-      <dt>Mailing Address</dt>
-        <dd>
-          PO Box 190<br/>
-          Corbin, VA 22446<br/>
-        </dd>
-      <dt>Physical/Delivery Address</dt>
-        <dd>
-          15351 Office Drive<br/>
-          Corbin, VA 22446<br/>
         </dd>
     </dl>
   </div>
