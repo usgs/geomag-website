@@ -1,5 +1,6 @@
 <?php
-echo navGroup(navItem('/conductivity/index.php','Regional Conductivity Maps'),
+echo navGroup(navItem('/research/index.php','Research'),
+  navItem('/conductivity/index.php','Regional Conductivity Maps') .
   navItem('/conductivity/AK-1/', 'AK-1 - Adirondack Mountains') .
   navItem('/conductivity/AP-1/', 'AP-1 - Appalachan Plateaus') .
   navItem('/conductivity/AP-2/', 'AP-2 - Northern Appalachan Plateaus') .
