@@ -20,10 +20,11 @@ if (!isset($TEMPLATE)) {
 <a name="aurora"><h2>Aurora</h2></a>
 
 <figure class="right">
+  <p>Photo credit: [Jon Hilmarsson/Getty Images]</p>
   <img src="/images/3bbb8a3c-5c7c-11e5-8453-f7f23d286406.jpg"
       width="375" height="250"
       alt="Aurora borealis explosion over mountain Akrafjall close to the town
-      Akranes in Iceland." />
+      Akranes in Iceland. Photo credit: [Jon Hilmarsson/Getty Images]." />
 </figure>
 
 <ul class="referencelist">
