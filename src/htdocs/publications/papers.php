@@ -2,6 +2,7 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Publications';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>

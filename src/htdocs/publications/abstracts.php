@@ -1,6 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Abstracts';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>

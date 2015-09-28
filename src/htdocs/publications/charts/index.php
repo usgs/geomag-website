@@ -1,6 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Charts';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>
