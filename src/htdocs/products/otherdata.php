@@ -13,8 +13,8 @@
   <dl>
     <dt>Alternate Sources of Geomagnetic Data</dt>
       <dd>
-        <a href="http://www.ngdc.noaa.gov">National Centers for Environmental
-        Information</a>
+        <a href="http://www.ngdc.noaa.gov/geomag/geomag.shtml">National Centers
+        for Environmental Information (formerly NGDC)</a>
       </dd>
       <dd>
         <a href="http://nssdc.gsfc.nasa.gov/">National Space Science Data
@@ -25,8 +25,15 @@
         World Data Center Copenhagen</a>
       </dd>
       <dd>
+        <a href="http://www.wdc.bgs.ac.uk">World Data Center Edinburgh</a>
+      </dd>
+      <dd>
         <a href="http://swdcwww.kugi.kyoto-u.ac.jp/index.html">World Data
         Center Kyoto</a>
+      </dd>
+      <dd>
+        <a href="http://wdciig.res.in/WebUI/Home.aspx">World Data Center
+        Mumbi</a>
       </dd>
       <dd>
         <a href="http://www.intermagnet.org">Intermagnet</a>
