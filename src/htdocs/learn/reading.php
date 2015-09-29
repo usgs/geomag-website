@@ -20,7 +20,11 @@ if (!isset($TEMPLATE)) {
 <a name="aurora"><h2>Aurora</h2></a>
 
 <figure class="right">
-  <img src="/images/aurora.jpeg" alt="Aurora on the Earth's surface." />
+  <p>Photo credit: [Jon Hilmarsson/Getty Images]</p>
+  <img src="/images/aurora-explosion.jpg"
+      width="375" height="250"
+      alt="Aurora borealis explosion over mountain Akrafjall close to the town
+      Akranes in Iceland. Photo credit: [Jon Hilmarsson/Getty Images]." />
 </figure>
 
 <ul class="referencelist">
@@ -39,8 +43,8 @@ if (!isset($TEMPLATE)) {
 <a name="storms"><h2>Geomagnetic Storms</h2></a>
 
 <figure class="right">
-  <img src="/images/solarwind-interaction-magnetosphere410.jpeg"
-      alt="Geomagnetic storm model." />
+  <img src="/images/solarwind-interaction-magnetosphere410.jpg"
+      width="342" height="250" alt="Geomagnetic storm model." />
 </figure>
 
 <ul class="referencelist">
@@ -67,7 +71,8 @@ if (!isset($TEMPLATE)) {
 <a name="fields"><h2>Geomagnetism and Magnetic Fields</h2></a>
 
 <figure class="right">
-  <img src="/images/faq/Q5.jpg" alt="Model of Earth's magnetic field">
+  <img src="/images/faq/Q5.jpg" width="267" height="266"
+      alt="Model of Earth's magnetic field">
 </figure>
 
 <ul class="referencelist">
@@ -136,7 +141,8 @@ if (!isset($TEMPLATE)) {
 <a name="magnetosphere"><h2>Magnetosphere and Ionosphere</h2></a>
 
 <figure class="right">
-  <img src="/images/magnetosphere.jpeg" alt="Geomagnetic storm model." />
+  <img src="/images/magnetosphere.jpg" width="400" height="317"
+      alt="Geomagnetic storm model." />
 </figure>
 
 <ul class="referencelist">
@@ -188,7 +194,7 @@ if (!isset($TEMPLATE)) {
 <a name="space"><h2>Space Weather Impacts on Earth</h2></a>
 
 <figure class="right">
-  <img src="/images/faq/Q15.jpg" alt="" />
+  <img src="/images/faq/Q15.jpg" width="200" height="133" alt="Power lines." />
 </figure>
 
 <ul class="referencelist">

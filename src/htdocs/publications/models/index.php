@@ -1,6 +1,7 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Models';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>
