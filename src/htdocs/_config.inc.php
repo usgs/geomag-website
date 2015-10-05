@@ -36,7 +36,12 @@ $HEAD =
     'palaeomagnetism,magnetic,magnetism,geomagnetic,declination,' .
     'magnetosphere,ionosphere,magnetospheric,ionospheric,geophysics,' .
     'Dst Index,K Index,Space Weather,Solar Storm' .
-  '"/>';
+  '"/>'.
+  // universal analytics (should be last in $HEAD)
+    '<script id="_fed_an_ua_tag" async="async" src="' .
+        '/lib/Universal-Federated-Analytics-Min.1.0.js' .
+        '?agency=DOI&amp;subagency=USGS&amp;pua=UA-7320779-3' .
+        '"></script>';
 
 // comments and questions default
 if (!isset($CONTACT)) {
