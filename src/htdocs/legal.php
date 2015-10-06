@@ -5,6 +5,7 @@ if (!isset($TEMPLATE)) {
   include 'template.inc.php';
 }
 ?>
+
 <ul>
   <li>
     <a href="http://www.usgs.gov/laws/accessibility.html">
