@@ -68,6 +68,12 @@ if (!isset($TEMPLATE)) {
       Honolulu</a>, Geophys. J. Int., 197, 1335-1353, doi:10.1093/gji/ggu090.
   </li>
   <li>
+    Love, J. J., Rigler, E. J., Pulkkinen, A. &amp; Balch, C. C., 2014.
+    <a href="/downloads/publications/eost2014EO480001.pdf">Magnetic storms
+      and induction hazards</a>, EOS, Trans. AGU, 95(48), 445–446,
+      doi:10.1002/2014EO480001.
+  </li>
+  <li>
     Love, J. J. &amp; Swidinsky, A., 2014.
     <a href="/downloads/publications/10.1002_2014GL059568.pdf">Time causal
     operational estimation of electric fields induced in the Earth's
