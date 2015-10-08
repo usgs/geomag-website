@@ -38,6 +38,12 @@ if (!isset($TEMPLATE)) {
     magnetic observatory</a>, USGS Open-File Report, 2015–1125, 8 p.,
     doi:10.3133/ofr20151125.
   </li>
+  <li>
+    Love, J. J. &amp; Swidinsky, A., 2015.
+    <a href="/downloads/publications/s40623-015-0213-3.pdf">Observatory
+      geoelectric fields induced in a two-layer lithosphere during magnetic
+      storms</a>, Earth Planets Space, 67, 58, doi:10.1186/s40623-015-0213-3.
+  </li>
 </ul>
 
 <a id="2014"><h3>2014</h3></a>
@@ -436,7 +442,7 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     Love, J. J., Feb. 2008. <a href="/downloads/publications/pt_love0208.pdf">
-    Magnetic monitoring of Earth and space</a>, Physics Today, 61, 31-37.
+    Magnetic monitoring of Earth and space</a>, Physics Today, 61(2), 31-37.
   </li>
   <li>
     Love, J. J., Applegate, D. &amp; Townshend, J .B., 2008.
