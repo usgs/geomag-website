@@ -5,10 +5,71 @@ if (!isset($TEMPLATE)) {
   include 'template.inc.php';
 }
 ?>
+<h3>2014</h3>
+
+<ul class="referencelist">
+  <li>
+    Love, J. J., 2014. Credible probabilities for the time occurrence of extreme
+    space-weather events, Am. Meteorol. Soc., 11th Symposium on Space Weather, 
+    2.1.
+  </li>
+  <li>
+    Love, J. J., & Swidinsky, A., 2014. Time-causal operational estimation of 
+    electric fields induced in the EarthÎéÎ÷s lithosphere during magnetic 
+    storms, Space Weather Workshop, Boulder, Colorado.
+  </li>
+  <li>
+    Love, J. J., Rigler, E. J. & Swidinsky, A., 2014. Extreme geoelectric 
+    fields induced by magnetic storm sudden impulses, EOS, Trans. AGU, 95, 
+    SM24A-08.
+  </li>
+  <li>
+    Love, J. J., & Swidinsky, A., 2014. Estimation of observatory geoelectric 
+    fields induced during great magnetic storms, EOS, Trans. AGU, 95, 
+    SM31A-4177.
+  </li>
+  <li>
+    Morris, J. & Worthington, E. W., 2014. Central US repeat station surveys of 
+    2012: Results, equipment and future, XVI IAGA Workshop on Geomagnetic 
+    Observatory Instruments, Data Acquisition, and Processing, Hyderabad, India.
+  </li>
+  <li>
+    Rigler, E. J., Balch, C. C. & Wiltberger, M. J., 2014. Dynamic geomagnetic 
+    hazard maps in space weather operations, EOS, Trans. AGU, 95, SM31A-4178. 
+  </li>
+  <li>
+    Sauter, E. A., Caldwell, J. E. & Worthington, E. W., 2014. Improvements to 
+    the Barrow Magnetic Observatory, XVI IAGA Workshop on Geomagnetic 
+    Observatory Instruments, Data Acquisition, and Processing, Hyderabad, India.
+  </li>
+  <li>
+    Tobiska, W. K., Knipp, D. Burke, W. J., Bouwer, D., Bailey, J., Hagan, 
+    M. P., Didkovsky, L., Garrett, H., Bowman, B., Gannon, J. L., Atwell, W., 
+    Blake, J. B., Crain, W. R., Rice, D., Schunk, R. W., Fulgham, J., Bell, D., 
+    Gersey, B., Wilkins, R., Fuschino, R., Flynn, C., Cecil, K., Mertens, C. J.,    Xu, X., Crowley, G., Reynolds, A., Azeem, I., Wiley, S., 
+    Holland, M. D. & Malone, K., 2014. Operational specification and 
+    forecasting advances for Dst, LEO thermospheric densities, and aviation 
+    radiation dose and dose rate, Am. Meteorol. Soc., 11th Symposium on Space 
+    Weather, 4.2.
+  </li>
 
 <h3>2013</h3>
 
 <ul class="referencelist">
+  <li>
+    Finn, C. A. & Love, J. J., 2013. The diverse utility of ground-based 
+    magnetometer data, Geophysical Observatories, Multifunctional GIS and Data 
+    Mining, Kaluga, Russia.
+  </li>
+  <li>
+    Gannon, J. L., 2013. US Geological Survey Geomagnetism Program electric 
+    field calculations for GIC analysis, Space Weather Workshop, Boulder, 
+    Colorado.
+  </li>
+  <li>
+    Gannon, J. L., Balch, C. C. & Trichtchenko, L. 2013. Regional United States 
+    electric field and GIC hazard impacts, EOS, Trans. AGU, 94, SM52C-04.
+  </li>
   <li>
     Love, J. J., 2013. The diverse utility of ground-based magnetometer data,
     Am. Meteorol. Soc., 10th Symposium on Space Weather, 2.3.
@@ -17,6 +78,29 @@ if (!isset($TEMPLATE)) {
     Love, J. J., Rigler, E. J. &amp; Gibson, S. E., 2013. Geomagnetic detection
     of the sectorial solar magnetic field and the historical peculiarity of
     minimum 23-24, 5th Conference on Earth-Sun System Exploration, Kona, Hawaii.
+  </li>
+  <li>
+    Love, J. J. & Rigler E. J., 2013. The magnetic tides of Honolulu, Space 
+    Weather Workshop, Boulder, Colorado. 
+  </li>
+  <li>
+    Love, J. J. & Riger, E. J., 2013. The magnetic tides of Honolulu, EOS, 
+    Trans. AGU, 94, GP23A-0983.
+  </li>
+  <li>
+    Rigler E. J., Wiltberger, M. J. & RastÎáÎéÎåtter, L., 2013. Information 
+    theory and multivariate analysis applied to geomagnetic data, Space Weather 
+    Workshop, Boulder, Colorado.
+  </li>
+  <li>
+    Tobiska, W. K., Knipp, D. Burke, W. J., Bouwer, D., Bailey, J., 
+    Hagan, M. P., Didkovsky, L., Garrett, H., Bowman, B., Gannon, J. L., 
+    Atwell, W., Blake, J. B., Crain, W. R., Rice, D., Schunk, R. W., 
+    Fulgham, J., Bell, D., Gersey, B., Wilkins, R., Fuschino, R., Flynn, C., 
+    Cecil, K., Mertens, C. J., Xu, X., Crowley, G., Reynolds, A., Azeem, I., 
+    Wiley, S., Holland, M. D. & Malone, K., 2013. Operational specification and 
+    forecasting advances for Dst, LEO thermospheric densities, and aviation 
+    radiation dose and dose rate, EOS, Trans. AGU, 94, IN11B-1530.
   </li>
 </ul>
 

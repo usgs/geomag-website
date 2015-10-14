@@ -450,12 +450,6 @@ if (!isset($TEMPLATE)) {
     Magnetic Field</a>, USGS Fact Sheet, 2007-3092.
   </li>
   <li>
-    McCollough, J. P., Gannon, J. L., Baker, D. N. &amp;  Gehmeyr, M., 2008.
-    <a href="/downloads/publications/2008SW000391.pdf">A statistical comparison
-    of commonly used external magnetic field models</a>, Space Weather, 6,
-    S10001, doi:10.1029/2008SW000391.
-  </li>
-  <li>
     Rigler, E. J. &amp; Baker, D. N., 2008.
     <a href="/downloads/publications/Rigler/Rigler_Baker_JASTP2008.pdf">A
     state-space model of radiation belt electron flux dynamics</a>, J. Atmos.
@@ -481,13 +475,6 @@ if (!isset($TEMPLATE)) {
 <a id="2007"><h3>2007</h3></a>
 
 <ul class="referencelist">
-  <li>
-    Gannon, J. L., Li, X. &amp; Heynderickx, D., 2007.
-    <a href="/downloads/publications/2007JA011565.pdf">Pitch angle distribution
-    analysis of radiation belt electrons based on Combined Release and Radiation
-    Effects Satellite Medium Electrons A data</a>, J. Geophys. Res., 112,
-    A05212, doi:10.1029/2005JA011565.
-  </li>
   <li>
     Love, J. J., Remick, K. J. &amp; Perkins, D. M., 2007.
     <a href="/downloads/publications/love_remick_perkins_2007.pdf">Statistical
@@ -581,19 +568,6 @@ if (!isset($TEMPLATE)) {
 <ul class="referencelist">
   <li>
     Love, J. J., 2005. Magnetic equator, World Book Encyclopedia, M, 55.
-  </li>
-  <li>
-    Gannon, J. L. &amp; Li, X., 2005. Electron phasespace density analysis based
-    on test-particle simulations of magnetospheric compression events, Particle
-    Acceleration in Astrophysical Plasmas: Geospace and Beyond, Gallagher, D.,
-    Horwitz, J., Perez, J., Preece, R. &amp; Quenby J. (eds.), AGU Monograph
-    156, 205-214.
-  </li>
-  <li>
-    Gannon, J. L., Li, X. &amp; Temerin, M., 2005.
-    <a href="/downloads/publications/2005JA010679.pdf">Parametric study of
-    shock-induced transport and energization of relativistic electrons in the
-    magnetosphere</a>, J. Geophys. Res., 110, A12206, doi:10.1029/2004JA010679.
   </li>
   <li>
     Rigler, E. J., Baker, D. N., Weigel, R. S. &amp; Vassiliadis, D., 2005.
