@@ -53,6 +53,8 @@ if (!isset($TEMPLATE)) {
     Weather, 4.2.
   </li>
 
+</ul>
+
 <h3>2013</h3>
 
 <ul class="referencelist">
