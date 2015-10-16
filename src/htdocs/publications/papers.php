@@ -33,7 +33,7 @@ if (!isset($TEMPLATE)) {
 <a id="2015"><h3>2015</h3></a>
 <ul class="referencelist">
   <li>
-    Love, J. J., Rigler, E. J., Pulkkinen, A. & Riley, P., 2015.
+    Love, J. J., Rigler, E. J., Pulkkinen, A. &amp; Riley, P., 2015.
     <a href=
     "/downloads/publications/Love_et_al-2015-Geophysical_Research_Letters.pdf">
     On the lognormality of historical magnetic storm intensity statistics:
@@ -48,7 +48,7 @@ if (!isset($TEMPLATE)) {
     Eos, 96(19), 12-16, doi:10.1029/2015EO035713.
   </li>
   <li>
-    Thomas, J. N., Masci, F. & Love, J. J., 2015.
+    Thomas, J. N., Masci, F. &amp; Love, J. J., 2015.
     <a href="/downloads/publications/nhess-15-1061-2015.pdf">On a report that
     the 2012 M6.0 earthquake in Italy was predicted after seeing an unusual
     cloud formation</a>, Nat. Hazards Earth Syst. Sci., 15, 1061-1068,
