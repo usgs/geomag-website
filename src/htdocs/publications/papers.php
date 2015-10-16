@@ -88,7 +88,7 @@ if (!isset($TEMPLATE)) {
   <li>
     Love, J. J., 2014.
     <a href="/downloads/publications/Love2014Auroralomens.pdf">
-    Auroral omens of the American Civil War</a>, Weatherwise, 67(5), 34 - 41,
+    Auroral omens of the American Civil War</a>, Weatherwise, 67(5), 34-41,
     doi:10.1080/00431672.2014.939912.
   </li>
   <li>
@@ -197,12 +197,6 @@ if (!isset($TEMPLATE)) {
     <a href="/downloads/publications/Geophys. J. Int.-2012-Egbert-251-67.pdf">
     Computational recipes for electromagnetic inverse problems</a>, Geophys. J.
     Int., 189, 251-267, doi:10.1111/j.1365-246X.2011.05347.x.
-  </li>
-  <li>
-    Love, J.J., Finn, C.A., Pedrie, K.L., &amp; Blum, C.C., 2015.
-    <a href="http://pubs.usgs.gov/of/2012/1167/">The Boulder magnetic
-    observatory</a>, USGS Open-File Report, 2015–1125, 8 p.,
-    doi:10.3133/ofr20151125.
   </li>
   <li>
     Gannon, J. L., 2012. <a href="/downloads/publications/2011SW000731.pdf">
