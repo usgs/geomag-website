@@ -33,9 +33,31 @@ if (!isset($TEMPLATE)) {
 <a id="2015"><h3>2015</h3></a>
 <ul class="referencelist">
   <li>
-    Love, J.J., Finn, C.A., Pedrie, K.L., &amp; Blum, C.C., 2015.
+    Love, J. J., Rigler, E. J., Pulkkinen, A. & Riley, P., 2015.
+    <a href=
+    "/downloads/publications/Love_et_al-2015-Geophysical_Research_Letters.pdf">
+    On the lognormality of historical magnetic storm intensity statistics:
+    Implications for extreme-event probabilities</a>, Geophys. Res. Lett., 42,
+    6544-6553, doi:10.1002/2015GL064842.
+  </li>
+  <li>
+    Love, J. J., 2015.
+    <a href=
+    "https://eos.org/features/aurora-painting-pays-tribute-to-civil-wars-end">
+    Aurora painting pays tribute to Civil War’s end</a>,
+    Eos, 96(19), 12-16, doi:10.1029/2015EO035713.
+  </li>
+  <li>
+    Thomas, J. N., Masci, F. & Love, J. J., 2015.
+    <a href="/downloads/publications/nhess-15-1061-2015.pdf">On a report that
+    the 2012 M6.0 earthquake in Italy was predicted after seeing an unusual
+    cloud formation</a>, Nat. Hazards Earth Syst. Sci., 15, 1061-1068,
+    doi:10.5194/nhess-15-1061-2015.
+  </li>
+  <li>
+    Love, J. J., Finn, C. A., Pedrie, K. L. &amp; Blum, C. C., 2015.
     <a href="http://pubs.er.usgs.gov/publication/ofr20151125">The Boulder
-    magnetic observatory</a>, USGS Open-File Report, 2015–1125, 8 p.,
+    magnetic observatory</a>, USGS Open-File Report, 2015-1125, 8 p.,
     doi:10.3133/ofr20151125.
   </li>
   <li>
@@ -59,8 +81,9 @@ if (!isset($TEMPLATE)) {
   <li>
     Kelbert, A. , Meqbel, N., Egbert, G. D. &amp; Tandon, K., 2014.
     <a href="/downloads/publications/1-s2.0-S0098300414000211-main.pdf">
-    ModEM: A modular system for inversion of electromagnetic geophysical data,
-    Computers &amp; Geosciences</a>, 66, 40-53, doi:10.1016/j.cageo.2014.01.010.
+    ModEM: A modular system for inversion of electromagnetic geophysical
+    data</a>,
+    Computers &amp; Geosciences, 66, 40-53, doi:10.1016/j.cageo.2014.01.010.
   </li>
   <li>
     Love, J. J., 2014.
@@ -87,11 +110,11 @@ if (!isset($TEMPLATE)) {
     2266-2274, doi:10.1002/2014GL059568.
   </li>
   <li>
-    Meqbel, N., Egbert, G. D., Wannamaker, P. E., Kelbert, A., &amp; Schultz,
+    Meqbel, N., Egbert, G. D., Wannamaker, P. E., Kelbert, A. &amp; Schultz,
     A., 2014.
     <a href="/downloads/publications/1-s2.0-S0012821X13007413-main.pdf">Deep
     electrical resistivity structure of the Pacific Northwestern U.S. derived
-    from 3-D inversion of USArray magnetotelluric data, Earth Planet.</a> Sci.
+    from 3-D inversion of USArray magnetotelluric data</a>, Earth Planet. Sci.
     Lett., doi:10.1016/j.epsl.2013.12.026.
   </li>
   <li>White, T. C., Sauter, E. A. &amp; Stewart, D. C., 2014.
@@ -127,7 +150,7 @@ if (!isset($TEMPLATE)) {
   <li>
     Love, J. J. &amp; Chulliat, A., 2013.
     <a href="/downloads/publications/eost2013EO420001.pdf">An international
-    network of magnetic observatories</a>, EOS, Trans. AGU, 94, 373-374,
+    network of magnetic observatories</a>, EOS, Trans. AGU, 94(42), 373-374,
     doi:10.1002/2013EO420001.
   </li>
   <li>
@@ -214,7 +237,7 @@ if (!isset($TEMPLATE)) {
   <li>
     Love, J. J. &amp; Finn, C. A., 2012.
     <a href="/downloads/publications/2012EO500005_obi.pdf">John B. "Jack"
-    Townshend (1927-2012)</a>, EOS, Trans. AGU, 93, 524-525, doi:
+    Townshend (1927-2012)</a>, EOS, Trans. AGU, 93(50), 524-525, doi:
     10.1029/2012EO500005.
   </li>
   <li>

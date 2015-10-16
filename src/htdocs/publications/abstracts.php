@@ -14,7 +14,7 @@ if (!isset($TEMPLATE)) {
     2.1.
   </li>
   <li>
-    Love, J. J., & Swidinsky, A., 2014. Time-causal operational estimation of
+    Love, J. J. & Swidinsky, A., 2014. Time-causal operational estimation of
     electric fields induced in the Earth's lithosphere during magnetic
     storms, Space Weather Workshop, Boulder, Colorado.
   </li>
@@ -24,7 +24,7 @@ if (!isset($TEMPLATE)) {
     SM24A-08.
   </li>
   <li>
-    Love, J. J., & Swidinsky, A., 2014. Estimation of observatory geoelectric
+    Love, J. J. & Swidinsky, A., 2014. Estimation of observatory geoelectric
     fields induced during great magnetic storms, EOS, Trans. AGU, 95,
     SM31A-4177.
   </li>
@@ -68,7 +68,7 @@ if (!isset($TEMPLATE)) {
     Colorado.
   </li>
   <li>
-    Gannon, J. L., Balch, C. C. & Trichtchenko, L. 2013. Regional United States
+    Gannon, J. L., Balch, C. C. & Trichtchenko, L., 2013. Regional United States
     electric field and GIC hazard impacts, EOS, Trans. AGU, 94, SM52C-04.
   </li>
   <li>
