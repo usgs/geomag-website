@@ -46,7 +46,8 @@ if (!isset($TEMPLATE)) {
     Tobiska, W. K., Knipp, D. Burke, W. J., Bouwer, D., Bailey, J., Hagan,
     M. P., Didkovsky, L., Garrett, H., Bowman, B., Gannon, J. L., Atwell, W.,
     Blake, J. B., Crain, W. R., Rice, D., Schunk, R. W., Fulgham, J., Bell, D.,
-    Gersey, B., Wilkins, R., Fuschino, R., Flynn, C., Cecil, K., Mertens, C. J.,    Xu, X., Crowley, G., Reynolds, A., Azeem, I., Wiley, S.,
+    Gersey, B., Wilkins, R., Fuschino, R., Flynn, C., Cecil, K., Mertens, C. J.,
+    Xu, X., Crowley, G., Reynolds, A., Azeem, I., Wiley, S.,
     Holland, M. D. &amp; Malone, K., 2014. Operational specification and
     forecasting advances for Dst, LEO thermospheric densities, and aviation
     radiation dose and dose rate, Am. Meteorol. Soc., 11th Symposium on Space
