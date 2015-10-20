@@ -153,9 +153,10 @@ if (!isset($TEMPLATE)) {
   <li>
     Burch, J. L., Alexander, C. J., Angelopoulos, V., Chan, A., Cheng, A. F.,
     Drake, J. F., Foster J. C., Fuselier, S. A., Gibson, S., Kletzing, C., Lu,
-    Gl, Mauk, B. H., McDonald, F. B., Parker, E. N., Schunk, R. W., Zank, G. P.,
-    Charo, A., Lewis, W. S. &amp; Fisher, T. M., 2004. Plasma physics of the
-    local cosmos, National Academies Press, Washington, DC, 1-85.
+    Gl, Mauk, B. H., McDonald, F. B., Parker, E. N., Schunk, R. W., Zank,
+    G. P., Charo, A., Lewis, W. S. &amp; Fisher, T. M., 2004.
+    Plasma physics of the local cosmos, National Academies Press,
+    Washington, DC, 1-85.
   </li>
   <li>
     Cowley, S. W. H., 1995. The Earth's magnetosphere: A brief beginners guide,
