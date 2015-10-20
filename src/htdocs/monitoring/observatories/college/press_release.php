@@ -10,8 +10,6 @@ if(!isset($TEMPLATE)) {
 
 <h2>College (CMO) Geomagnetic Observatory</h2>
 
-
-
 </p><a name="press_release"></a>
 <h3>
 Press Release
@@ -62,14 +60,21 @@ Press Release
 </p>
 
 <p>
-	<center>
-	<img src="JackTownshendCIGO_Sign.jpg" alt="The new CIGO sign." width="1023" height="507" hspace="0" vspace="0">
-	</center>
-	<font size="-1"><p>The new sign at College International Geophysical Observatory (CIGO).</p></font>
-	<br/>
+  <center>
+    <img src="images/CIGO_JackTownshend_Sign_original.jpg"
+      alt="The new CIGO sign."
+      width="960" height="720" hspace="0" vspace="0" />
+  </center>
+  <font size="-1">
+    <p>The new sign at College International Geophysical Observatory (CIGO).</p>
+  </font>
+  <br/>
 
-	<center>
-	<img src="CIGOgroupsplit3_low.jpg" alt="Jack Townshend, Syun-Ichi Akasofu and Roger Smith at the Control/GPS Building with the new sign." hspace="0" vspace="0">
+  <center>
+    <img src="images/CIGOgroupsplit3_low.jpg"
+      alt="Jack Townshend, Syun-Ichi Akasofu and Roger Smith at the
+          Control/GPS Building with the new sign."
+      width="432" height="341" hspace="0" vspace="0" />
 	</center>
 	<font size="-1"><p>
 		USGS Geophysicist Jack Townshend poses with Syun-Ichi Akasofu and Roger
