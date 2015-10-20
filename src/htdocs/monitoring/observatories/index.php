@@ -54,7 +54,8 @@
         <a href="/monitoring/observatories/deadhorse/">DED - Deadhorse</a>
       </li>
       <li>
-        <a href="/monitoring/observatories/fredericksburg/">FRD - Fredericksburg</a>
+        <a href="/monitoring/observatories/fredericksburg/">FRD -
+          Fredericksburg</a>
       </li>
       <li>
         <a href="/monitoring/observatories/fresno/">FRN - Fresno</a>

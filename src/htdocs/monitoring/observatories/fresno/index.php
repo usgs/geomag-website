@@ -104,7 +104,8 @@ if (!isset($TEMPLATE)) {
       <h2>Photos</h2>
     </header>
     <figure class="center">
-      <img src="images/Fresno_third_size.jpg" alt="Fresno magnetic observatory." width="940" height="393" />
+      <img src="images/Fresno_third_size.jpg"
+        alt="Fresno magnetic observatory." />
         <figcaption>
           Fresno magnetic observatory.
         </figcaption>

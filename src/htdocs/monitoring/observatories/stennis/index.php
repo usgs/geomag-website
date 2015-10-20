@@ -93,15 +93,15 @@ if (!isset($TEMPLATE)) {
     </header>
     <p>
       The Geomagnetism Program established an observatory on the
-      <a href="http://www.ssc.nasa.gov/">Stennis Space Center</a> in 1986.  The
-      site of the space center is large, including some forest land, which helps
-      insulate the observatory from outside interference. The Stennis
+      <a href="http://www.ssc.nasa.gov/">Stennis Space Center</a> in 1986. The
+      site of the space center is large, including some forest land, which
+      helps insulate the observatory from outside interference. The Stennis
       observatory, formerly known as the Bay St. Louis observatory, is operated
       as partnership between the USGS and the Stennis Space Center, under terms
       of a memorandum of agreement established in 2002. A new observatory
       building was constructed in 2006 after the previous buildings were
-      destroyed by Hurricane Katrina.  The observatory came back into operations
-      in January 2007.
+      destroyed by Hurricane Katrina.  The observatory came back into
+      operations in January 2007.
     </p>
   </section>
 
@@ -111,8 +111,8 @@ if (!isset($TEMPLATE)) {
     </header>
     <figure class="center">
       <img src="images/Stennis_sign_third_size.jpg"
-      alt="Office building at Stennis Space Center magnetic observatory,
-      Mississippi." />
+        alt="Office building at Stennis Space Center magnetic observatory,
+        Mississippi." />
       <figcaption>
         Office building at Stennis Space Center magnetic observatory,
         Mississippi.
@@ -120,8 +120,8 @@ if (!isset($TEMPLATE)) {
     </figure>
     <figure>
       <img src="images/Stennis_half_size.jpg"
-      alt="Building at Stennis Space Center magnetic observatory, Mississippi."
-      />
+        alt="Building at Stennis Space Center magnetic observatory,
+            Mississippi." />
       <figcaption>
         Combo variations, proton and absolutes building at Stennis Space Center
         magnetic observatory, Mississippi.

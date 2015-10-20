@@ -104,16 +104,18 @@ if (!isset($TEMPLATE)) {
     </header>
     <ul>
       <li>
-        A seismometer for the <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&amp;station=SJG">
-        USGS Global Seismic Network</a>.
+        A seismometer for the
+        <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&amp;station=SJG">USGS
+          Global Seismic Network</a>.
       </li>
       <li>
-        A seismometer for the <a href="http://redsismica.uprm.edu/english/">
-        Puerto Rican Seismic Network</a>.
+        A seismometer for the
+        <a href="http://redsismica.uprm.edu/english/">Puerto Rican Seismic
+          Network</a>.
       </li>
       <li>
-        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=184&amp;cHash=64d70f964b">
-        CTBTO IMS Auxiliary Seismic Station</a>
+        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=184&amp;cHash=64d70f964b">CTBTO
+          IMS Auxiliary Seismic Station</a>
       </li>
       <li>
         <a href="http://www.ngdc.noaa.gov/stp/IONO">NOAA National Geophysical
@@ -128,8 +130,8 @@ if (!isset($TEMPLATE)) {
     </header>
     <figure class="center">
       <img src="images/Cayey_third_size.jpg"
-      alt="Cayey, PR magnetic observatory."
-      title="San Juan magnetic observatory." />
+        alt="Cayey, PR magnetic observatory."
+        title="San Juan magnetic observatory." />
       <figcaption>
         San Juan magnetic observatory.
       </figcaption>
