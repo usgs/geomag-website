@@ -4,20 +4,22 @@
     $NAVIGATION = true;
     include 'template.inc.php';
   }
-
 ?>
 
 <map name="map">
-  <!-- #$-:Image map file created by GIMP Image Map plug-in -->
-  <!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
-  <!-- #$-:Please do not edit lines starting with "#$" -->
-  <!-- #$VERSION:2.3 -->
-  <!-- #$AUTHOR:afurze -->
-  <area shape="poly" alt="CP-1" coords="185,44,199,57,210,45,223,45,223,28,223,1,213,15" href="/conductivity/CP-1" />
-  <area shape="poly" alt="PT-1" coords="136,52,146,56,161,57,180,45,221,1,181,1,160,12,152,36" href="/conductivity/PT-1" />
+  <area
+    shape="poly"
+    alt="CP-1"
+    coords="185,44,199,57,210,45,223,45,223,28,223,1,213,15"
+    href="/conductivity/CP-1" />
+  <area
+    shape="poly"
+    alt="PT-1"
+    coords="136,52,146,56,161,57,180,45,221,1,181,1,160,12,152,36"
+    href="/conductivity/PT-1" />
 </map>
+
 <figure class="right">
-  <!-- <h2>Location</h2> -->
   <img src="locationsCP2.png" width="224" height="148" alt="Location of CP-2"
       usemap="#map" />
 </figure>
@@ -35,13 +37,17 @@
 </h3>
 
 <a href="CP-2.png">
-  <img src="CP-2_browser.png" alt=" " width="650" height="448" />
+  <img src="CP-2_browser.png"
+    alt="1D Resistivity Model for Atlantic Coastal Plain (Georgia) Model CP-2"
+    width="650" height="448" />
 </a>
+
 <p class="disclaimer">
   Resistivity values and depths have been interpreted from published
   geological reports and maps, and may differ from actual conditions
   measured by a geophysical survey and/or borehole.
 </p>
+
 <p>
   Source data:
   <a target="_blank"
