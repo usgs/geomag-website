@@ -43,9 +43,9 @@
   duplicated and moved to new physical machines when necessary to provide
   another level of redundancy to ensure we have data collecting, moving and
   storing as much as possible. Web-based modules are also being developed to
-  eliminate dependencies on particular operating systems and hardware. This will
-  also centralize the data so that processing for <a href="/products/">Data
-  &amp; Products</a> can occur more quickly.
+  eliminate dependencies on particular operating systems and hardware. This
+  will also centralize the data so that processing for
+  <a href="/products/">Data &amp; Products</a> can occur more quickly.
 </p>
 
 <h3>Data Processing, Management, and Dissemination</h3>
@@ -60,20 +60,20 @@
   time usually require absolute data time series. These are obtained through
   data processing, with adjustments made for baseline drift using the periodic
   absolute measurements made at each observatory. Specialized data-processing
-  software, namely &#8216;MagProc&#8217; has been developed in-house, making the
-  production of absolute, so-called&#8216;definitive&#8217;, data relatively
-  efficient. Moreover, since the processing software allows for quick systematic
-  inspection of large quantities of data, it can be used for troubleshooting and
-  quality control. The Program is also developing an Oracle database, which will
-  serve as an interface between the data-collection systems and processing
-  software, as well as help facilitate the dissemination of both new and old
-  observatory data. Data are disseminated in two forms: variational data,
-  available in near-real time, and definitive data, available after processing
-  and within a year of their collection. There are several near-real-time
-  <a href="/products/">preliminary data displays</a> and a location for
-  <a href="/products/downloads.php">downloading data</a> here on the Program's
-  website. Definitive data are disseminated through the production of CDs. These
-  are produced in cooperation with <a href="http://www.intermagnet.org/">
-  Intermagnet</a>, which also helps promote the dissemination of other nations'
-  magnetometer data.
+  software, namely &#8216;MagProc&#8217; has been developed in-house, making
+  the production of absolute, so-called&#8216;definitive&#8217;, data
+  relatively efficient. Moreover, since the processing software allows for
+  quick systematic inspection of large quantities of data, it can be used for
+  troubleshooting and quality control. The Program is also developing an Oracle
+  database, which will serve as an interface between the data-collection
+  systems and processing software, as well as help facilitate the dissemination
+  of both new and old observatory data. Data are disseminated in two forms:
+  variational data, available in near-real time, and definitive data, available
+  after processing and within a year of their collection. There are several
+  near-real-time <a href="/products/">preliminary data displays</a> and a
+  location for <a href="/products/downloads.php">downloading data</a> here
+  on the Program's website. Definitive data are disseminated through the
+  production of CDs. These are produced in cooperation with
+  <a href="http://www.intermagnet.org/">Intermagnet</a>, which also helps
+  promote the dissemination of other nations' magnetometer data.
 </p>

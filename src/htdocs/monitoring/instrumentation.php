@@ -43,12 +43,12 @@
   checks that are useful for troubleshooting. Since it is important that the
   directional information be precise, both the fluxgate magnetometer and the
   theodolite are supported by piers that are firmly anchored into the ground so
-  that they cannot move once they are oriented properly. The two instruments are
-  sensitive to temperature and magnetic interference; as a result the buildings
-  at each observatory are situated on plots of land of sufficient size to help
-  isolate the operations from outside magnetic interference. To reduce the
-  baseline drift of the instruments due to temperature, the sensors and
-  electronics are housed in well-insulated, thermostatically-controlled
+  that they cannot move once they are oriented properly. The two instruments
+  are sensitive to temperature and magnetic interference; as a result the
+  buildings at each observatory are situated on plots of land of sufficient
+  size to help isolate the operations from outside magnetic interference. To
+  reduce the baseline drift of the instruments due to temperature, the sensors
+  and electronics are housed in well-insulated, thermostatically-controlled
   buildings, but this doesn't completely eliminate the baseline drift. Each
   observatory is visited by a Program employee or contractor about once a week
   so that 'absolute' measurements can be made using a theodolite coupled to a
