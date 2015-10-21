@@ -7,3 +7,7 @@ if (!isset($TEMPLATE)) {
 }
  //header( 'Location: http://geomag.usgs.gov/publications/comicbook/' ) ;
 ?>
+
+<p>
+  <a href="GeomagComic.pdf">Journey Along a Field Line</a> comic book (pdf).
+</p>
