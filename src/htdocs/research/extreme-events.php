@@ -25,14 +25,14 @@ if (!isset($TEMPLATE)) {
 <ul class="referencelist">
   <li>
     Love, J. J., 2012.
-    <a href="/downloads/publications/2012GL051431.pdf">
-    Credible occurrence probabilities for extreme geophysical events:
-    Earthquakes, volcanic eruptions, magnetic storms</a>, Geophys. Res. Lett.,
-    39, L10301, doi:10.1029/2012GL051431
+    <a href="/downloads/publications/2012GL051431.pdf">Credible occurrence
+      probabilities for extreme geophysical events: Earthquakes,
+      volcanic eruptions, magnetic storms</a>,
+    Geophys. Res. Lett., 39, L10301, doi:10.1029/2012GL051431
   </li>
 </ul>
 
 <p>
-  Primary USGS contact: <a href="https://profile.usgs.gov/jlove">Jeffrey J.
-  Love</a>
+  Primary USGS contact:
+  <a href="https://profile.usgs.gov/jlove">Jeffrey J. Love</a>
 <p>

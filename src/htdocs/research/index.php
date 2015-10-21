@@ -1,12 +1,10 @@
 <?php
-
 if (!isset($TEMPLATE)) {
   $TITLE = 'Research';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
-
 ?>
 
 <div class="row">
@@ -73,44 +71,46 @@ if (!isset($TEMPLATE)) {
   <div class="column three-of-five">
     <p>
       Research projects within the USGS Geomagnetism Program are targeted for
-      societal relevance, especially for space-weather hazard science. Consistent
-      with the goals and issues addressed in the USGS Natural Hazards Strategic
-      Plan, these research projects support pursuit of fundamental understanding of
-      geomagnetic storms and related phenomena, development of geomagnetic products
-      needed for assessments and real-time situational awareness, informed operation
-      of the Program's magnetic-observatory network. Geomagnetism Program research
-      staff provide outside advice, national and international leadership, and write
+      societal relevance, especially for space-weather hazard science.
+      Consistent with the goals and issues addressed in the USGS Natural
+      Hazards Strategic Plan, these research projects support pursuit of
+      fundamental understanding of geomagnetic storms and related phenomena,
+      development of geomagnetic products needed for assessments and real-time
+      situational awareness, informed operation of the Program's
+      magnetic-observatory network. Geomagnetism Program research staff
+      provide outside advice, national and international leadership, and write
       educational articles about geomagnetic and space-weather hazards.
     </p>
 
     <p>
-      Fundamental research within the USGS Geomagnetism Program is concentrated on
-      the analysis of the information content of magnetic-field time series acquired
-      at ground-base magnetic observatories. Methods include formal time-series and
-      statistical analysis, and data assimilation for physics-based models of the
-      magnetosphere and ionosphere. Recent work has included the analysis of the
-      symmetry (and asymmetry) of low-latitude ground-level magnetic disturbance
-      during individual magnetic storms; long-term secular change in geomagnetic
-      disturbance and its correlational relationship with sunspots and
-      interplanetary solar wind; secular change in geomagnetic activity and global
-      climate change; solar-quiet geomagnetic variation and periodic geomagnetic
-      tides; extreme-geophysical-event analysis; and investigation of claims that
-      earthquakes are sometimes preceded by magnetic precursory signals.
+      Fundamental research within the USGS Geomagnetism Program is
+      concentrated on the analysis of the information content of
+      magnetic-field time series acquired at ground-base magnetic
+      observatories. Methods include formal time-series and statistical
+      analysis, and data assimilation for physics-based models of the
+      magnetosphere and ionosphere. Recent work has included the analysis of
+      the symmetry (and asymmetry) of low-latitude ground-level magnetic
+      disturbance during individual magnetic storms; long-term secular change
+      in geomagnetic disturbance and its correlational relationship with
+      sunspots and interplanetary solar wind; secular change in geomagnetic
+      activity and global climate change; solar-quiet geomagnetic variation
+      and periodic geomagnetic tides; extreme-geophysical-event analysis;
+      and investigation of claims that earthquakes are sometimes preceded by
+      magnetic precursory signals.
     </p>
 
     <p>
-      Guided by fundamental understanding, geomagnetic products are developed to
-      meet the needs of the space-weather community for hazard assessments and
-      real-time situational awareness. Recent work has concentrated on the
+      Guided by fundamental understanding, geomagnetic products are developed
+      to meet the needs of the space-weather community for hazard assessments
+      and real-time situational awareness. Recent work has concentrated on the
       development of new and improved summary-index measures of global magnetic
       disturbance related to the magnetospheric ring current and the auroral
-      electrojet, needed for validating and as input for physics-based models of the
-      space environment; and localized measures of magnetic disturbance and
-      geomagnetically-induced currents needed by the electric power-grid industry.
-      The Geomagnetism Program recently initiated a project for estimating
-      geomagnetically-induced currents in the lithosphere in order to assess and
-      mitigate hazards for the power-grid industry.
+      electrojet, needed for validating and as input for physics-based models
+      of the space environment; and localized measures of magnetic disturbance
+      and geomagnetically-induced currents needed by the electric power-grid
+      industry. The Geomagnetism Program recently initiated a project for
+      estimating geomagnetically-induced currents in the lithosphere in order
+      to assess and mitigate hazards for the power-grid industry.
     </p>
-
   </div>
 </div>
