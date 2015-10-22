@@ -98,8 +98,8 @@ if (!isset($TEMPLATE)) {
       was installed in 1996.
     </p>
     <p>
-      For a more complete history of the Tucson observatory. <a href="/monitoring/observatories/tucson/downloads/History_of_Tucson_Observatory.pdf">
-      History_of_Tucson_Observatory.pdf</a>
+      For a more complete history of the Tucson observatory.
+      <a href="/monitoring/observatories/tucson/downloads/History_of_Tucson_Observatory.pdf">History_of_Tucson_Observatory.pdf</a>
     </p>
   </section>
 
@@ -109,7 +109,7 @@ if (!isset($TEMPLATE)) {
     </header>
     <figure class="center">
       <img src="images/Tucson_third_size.jpg"
-      alt="Tucson magnetic observatory Arizona." />
+        alt="Tucson magnetic observatory Arizona." />
       <figcaption>
         Tucson magnetic observatory Arizona.
       </figcaption>

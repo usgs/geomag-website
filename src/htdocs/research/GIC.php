@@ -7,7 +7,8 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <figure class="right">
-  <img src="/images/GIC.png" alt="Thumbnails of regional conductivity graphs."/>
+  <img src="/images/GIC.png"
+    alt="Thumbnails of regional conductivity graphs."/>
   <figcaption>
     (Fernberg et al. 2013, in prep.)
   </figcaption>
@@ -34,21 +35,21 @@ if (!isset($TEMPLATE)) {
 <p>
   GIC levels are primarily driven by impulsive geomagnetic disturbances created
   by the interaction between the Earth's magnetosphere and sharp velocity,
-  density, and magnetic field enhancements in the solar wind. These disturbances
-  result in ground-level time varying magnetic fields, which, when they reach
-  high levels, produce GICs. On average, 200 days of strong to severe
-  geomagnetic storms that could produce GICs on the surface of the Earth can be
-  expected during a typical 11-year solar cycle (DoE-NERC, 2010). However,
-  knowing exact levels of induced currents in power grid infrastructure during a
-  geomagnetic event requires knowledge of deep earth conductivities and
-  transmission line design parameters (NERC, 2012).
+  density, and magnetic field enhancements in the solar wind. These
+  disturbances result in ground-level time varying magnetic fields, which,
+  when they reach high levels, produce GICs. On average, 200 days of strong to
+  severe geomagnetic storms that could produce GICs on the surface of the Earth
+  can be expected during a typical 11-year solar cycle (DoE-NERC, 2010).
+  However, knowing exact levels of induced currents in power grid
+  infrastructure during a geomagnetic event requires knowledge of deep earth
+  conductivities and transmission line design parameters (NERC, 2012).
 </p>
 
 <p>
   The USGS Geomagnetism Program, in collaboration with the USGS Crustal
   Geophysics Program, National Resources Canada, the NOAA Space Weather
-  Prediction Center and NASA-Goddard GIC are building monitoring tools including
-  a <a href="/conductivity/">US-wide conductivity model</a>,
+  Prediction Center and NASA-Goddard GIC are building monitoring tools
+  including a <a href="/conductivity/">US-wide conductivity model</a>,
   <a href="/map/">local magnetic field model</a> and
   <a href="/realtime/Efield/">regional electric field estimates</a>.
 </p>

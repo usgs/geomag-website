@@ -22,27 +22,29 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
-    Love, J. J., 2009. <a href="/downloads/publications/angeo-27-3601-2009.pdf">
-    Missing data and the accuracy of magnetic observatory hour means</a>,
+    Love, J. J., 2009.
+    <a href="/downloads/publications/angeo-27-3601-2009.pdf">Missing data
+      and the accuracy of magnetic observatory hour means</a>,
     Ann. Geophys., 27, 3601?3610.
   </li>
   <li>
     Worthington, E. W., Sauter, E. A. &amp; Love, J. J., 2009.
     <a href="/downloads/publications/Proceedings_262-266.pdf">
-        Analysis of USGS one-second data</a>,
+      Analysis of USGS one-second data</a>,
     <a href="http://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
     Golden, CO, Love, J. J. (ed.), pp. 262-266.
   </li>
   <li>
     Love, J. J., Tsai, V. C. &amp; Gannon, J. L., 2010.
     <a href="/downloads/publications/angeo-28-2079-2010.pdf">
-        Averaging and sampling for magnetic observatory hourly data</a>,
+      Averaging and sampling for magnetic observatory hourly data</a>,
     Ann. Geophys., 28, 2079-2096.
   </li>
   <li>
-    Love, J. J., 2011. <a href="/downloads/publications/angeo-29-1365-2011.pdf">
-    Long-term biases in geomagnetic K and aa indices</a>, Ann. Geophys., 29,
-    1365-1375.
+    Love, J. J., 2011.
+    <a href="/downloads/publications/angeo-29-1365-2011.pdf">Long-term
+      biases in geomagnetic K and aa indices</a>,
+    Ann. Geophys., 29, 1365-1375.
   </li>
 </ul>
 

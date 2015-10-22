@@ -57,12 +57,12 @@
 <h3>Obtaining Recent Preliminary Data</h3>
 <p>
   The USGS Geomagnetism Program operates a downlink center in Golden, Colorado
-  for the reception of geomagnetic observatory data via satellite and electronic
-  file exchange. Golden is a Geomagnetic Information Node (GIN) which, as a
-  member of Intermagnet, is one of several GINs located around the world.
-  Intermagnet data, which include those from USGS observatories, are available
-  through the <a href="http://www.intermagnet.org">Intermagnet website</a> on
-  their Intermagnet Data Download page. Visit our
+  for the reception of geomagnetic observatory data via satellite and
+  electronic file exchange. Golden is a Geomagnetic Information Node (GIN)
+  which, as a member of Intermagnet, is one of several GINs located around the
+  world. Intermagnet data, which include those from USGS observatories, are
+  available through the <a href="http://www.intermagnet.org">Intermagnet
+  website</a> on their Intermagnet Data Download page. Visit our
   <a href="http://geomag.usgs.gov/products/downloads.php">Download</a> page for
   more ways to get USGS data.
 </p>

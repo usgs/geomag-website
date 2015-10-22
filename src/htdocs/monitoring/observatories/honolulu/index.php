@@ -82,7 +82,7 @@ if (!isset($TEMPLATE)) {
   <div class="one-of-two column">
     <figure class="center">
       <img src="images/honosignweb.jpg"
-      alt="The sign at the Honolulu magnetic observatory." />
+        alt="The sign at the Honolulu magnetic observatory." />
     </figure>
   </div>
 </div>
@@ -130,8 +130,8 @@ if (!isset($TEMPLATE)) {
     </header>
     <figure class="center">
       <img src="images/HON_022_half_size.jpg"
-      alt="Ewa Beach Hawaii magnetic observatory located at the NOAA Pacific
-      Tsunami Warning Center, PTWC." />
+        alt="Ewa Beach Hawaii magnetic observatory located at the NOAA Pacific
+        Tsunami Warning Center, PTWC." />
       <figcaption>
         Ewa Beach Hawaii magnetic observatory located at the NOAA Pacific
         Tsunami Warning Center, PTWC.
@@ -139,7 +139,7 @@ if (!isset($TEMPLATE)) {
     </figure>
     <figure class="center">
       <img src="images/Hon_electronics_third_size.jpg"
-      alt="Electronics building at Ewa Beach, HI magnetic observatory." />
+        alt="Electronics building at Ewa Beach, HI magnetic observatory." />
       <figcaption>
         Electronics building at Ewa Beach, HI magnetic observatory.
       <br/>

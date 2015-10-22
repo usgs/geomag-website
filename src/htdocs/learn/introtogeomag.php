@@ -25,21 +25,21 @@ if (!isset($TEMPLATE)) {
   fields. The continuous flow of particles and fields from the Sun (called the
   solar wind) interacts with the Earth's magnetic field. Strong, transient
   impulses due to solar events produce ground-level magnetic disturbance, by
-  affecting the complex current systems in and near the Earth's atmosphere. This
-  means that the magnetic field on the Earth's surface is different from
-  location to location, and that it changes over time. Some of these changes are
-  slow, such as the centuries-long drift in the direction of the magnetic field;
-  some of these changes are quick, such as the sudden enhancement during a
-  geomagnetic storm that can occur in minutes.
+  affecting the complex current systems in and near the Earth's atmosphere.
+  This means that the magnetic field on the Earth's surface is different from
+  location to location, and that it changes over time. Some of these changes
+  are slow, such as the centuries-long drift in the direction of the magnetic
+  field; some of these changes are quick, such as the sudden enhancement during
+  a geomagnetic storm that can occur in minutes.
 </p>
 
 <p>
   The use of geomagnetism for navigation began with the use of compasses for
-  orientation. A compass is a simple magnetic instrument that points to magnetic
-  north. Magnetic north is skewed from geographic north by an angle called
-  declination. To navigate accurately, it is necessary to understand how
-  declination varies over distance and time. This is why there is a long history
-  of compiling magnetic information and maps. This information is still
+  orientation. A compass is a simple magnetic instrument that points to
+  magnetic north. Magnetic north is skewed from geographic north by an angle
+  called declination. To navigate accurately, it is necessary to understand how
+  declination varies over distance and time. This is why there is a long
+  history of compiling magnetic information and maps. This information is still
   important today because magnetic field variations, like those seen during a
   geomagnetic storm, can affect GPS, directional drilling, electric power grids
   and other systems.
@@ -51,8 +51,8 @@ if (!isset($TEMPLATE)) {
   magnetic measurement has advanced significantly, progressing from simple
   visual readings using magnetic survey instruments to automatic electronic
   recording. Modern observatories provide very accurate long-term measurements
-  of the ground-level magnetic field every second. There are two ways to look at
-  this data. Both of them measure F as the total magnitude of the magnetic
+  of the ground-level magnetic field every second. There are two ways to look
+  at this data. Both of them measure F as the total magnitude of the magnetic
   field.
 </p>
 

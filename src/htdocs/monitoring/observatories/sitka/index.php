@@ -92,13 +92,13 @@ if (!isset($TEMPLATE)) {
       <h2>Background</h2>
     </header>
     <p>
-      rior to the purchase of Alaska by the United States, the Russians operated
-      a meteorological and magnetic observatory at Sitka from 1842 to 1867. The
-      Geomagnetism Program established an observatory at Sitka, near the
-      historic Russian cemetery, in 1901, when the Program was part of the Coast
-      and Geodetic Survey and under the leadership of Drs Louis A. Bauer and
-      John A. Fleming. The present observatory site was established in 1940.
-      The observatory is operated in partnership with the
+      Prior to the purchase of Alaska by the United States, the Russians
+      operated a meteorological and magnetic observatory at Sitka from 1842 to
+      1867. The Geomagnetism Program established an observatory at Sitka, near
+      the historic Russian cemetery, in 1901, when the Program was part of the
+      Coast and Geodetic Survey and under the leadership of Drs Louis A. Bauer
+      and John A. Fleming. The present observatory site was established in
+      1940. The observatory is operated in partnership with the
       <a href="http://www.blm.gov/ak/st/en.html">Bureau of Land Management</a>
       (BLM).
     </p>
@@ -130,36 +130,36 @@ if (!isset($TEMPLATE)) {
     </header>
     <figure class="center">
       <img src="images/Sitka_third_size.jpg"
-      alt="Absolutes and variations buildings at Sitka, AK magnetic
-      observatory." />
+        alt="Absolutes and variations buildings at Sitka, AK magnetic
+        observatory." />
       <figcaption>
         Absolutes and variations buildings at Sitka, AK magnetic observatory.
       </figcaption>
     </figure>
     <figure class="center">
       <img src="images/SIT_electronics.jpg"
-      alt="Absolutes building at Sitka magnetic observatory Alaska." />
+        alt="Absolutes building at Sitka magnetic observatory Alaska." />
       <figcaption>
         Electronics building at Sitka magnetic observatory Alaska.*
       </figcaption>
     </figure>
     <figure class="center">
       <img src="images/Sitka_AK_third_size.jpg" alt="Sitka, AK."
-      title="Sitka, AK." />
+        title="Sitka, AK." />
       <figcaption>
         Sitka, AK.*
       </figcaption>
     </figure>
     <figure class="center">
       <img src="images/sitka_res.jpg"
-      alt="Observer&#39;s residence and office building." />
+        alt="Observer&#39;s residence and office building." />
       <figcaption>
         Observer&#39;s Residence and Office Building.
       </figcaption>
     </figure>
     <figure class="center">
       <img src="images/Sitka_obs50p.jpg"
-      alt="Magnetic observations being made by F. P. Ulrich at Sitka in 1929."/>
+        alt="Magnetic observations being made by F. P. Ulrich at Sitka in 1929."/>
       <figcaption>
         Magnetic Observations being made by F. P. Ulrich at Sitka in 1929.
         <br/>

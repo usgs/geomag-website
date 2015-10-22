@@ -131,8 +131,8 @@ if (!isset($TEMPLATE)) {
     </figure>
     <figure class="center">
       <img src="images/Newport_threequarter_size.jpg"
-      alt="Absolutes and electronics buildings at Newport, WA magnetic
-      observatory." />
+        alt="Absolutes and electronics buildings at Newport, WA magnetic
+        observatory." />
       <figcaption>
         Absolutes and electronics buildings at Newport, WA magnetic
         observatory.*
@@ -140,7 +140,7 @@ if (!isset($TEMPLATE)) {
     </figure>
     <figure class="center">
       <img src="images/Newport_dedication.jpg"
-      alt="The Newport observatory dedication, 11 June 1966." />
+        alt="The Newport observatory dedication, 11 June 1966." />
       <figcaption>
         The Newport observatory dedication, 11 June 1966. Left to right: V.
         Adm H. Arnold Karo, Dep Adm. ESSA (Environmental Science Services
