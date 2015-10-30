@@ -4,8 +4,8 @@ if (!isset($TEMPLATE)) {
   $NAVIGATION = true;
   include 'template.inc.php';
 }
-
 ?>
+
 <div class="row">
   <div class="one-of-two column">
     <h2>Automated Download</h2>
@@ -47,8 +47,8 @@ if (!isset($TEMPLATE)) {
       values from USGS observatories from the year 1985 onward are available
       online. Intermagnet has definitive data available for download, including
       USGS data. The most recent definitive data typically becomes available
-      within a year of the end of the previous calendar year. USGS currently has
-      an interactive data downloader in beta testing, which will provide
+      within a year of the end of the previous calendar year. USGS currently
+      has an interactive data downloader in beta testing, which will provide
       download for USGS preliminary and definitive data directly from USGS.
     </p>
 

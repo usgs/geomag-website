@@ -82,7 +82,7 @@ if (!isset($TEMPLATE)) {
   <div class="one-of-two column">
     <figure class="center">
       <img src="images/deadhorse.png"
-      alt="Deadhorse Geomagnetic Observatory sign." />
+        alt="Deadhorse Geomagnetic Observatory sign." />
     </figure>
   </div>
 </div>
@@ -94,12 +94,12 @@ if (!isset($TEMPLATE)) {
     </header>
     <p>
       The Deadhorse magnetic observatory is the newest USGS observatory, with
-      initial operational capability established in March 2010. This observatory
-      is unique in that it is a public-private partnership between the USGS and
-      <a href='http://www.slb.com/'>Schlumberger</a>. The observatory was
-      constructed by Schlumberger in cooperation with the USGS under a technical
-      assistance agreement. The observatory will be operated by Schlumberger
-      personnel under USGS guidance and following
+      initial operational capability established in March 2010. This
+      observatory is unique in that it is a public-private partnership
+      between the USGS and <a href='http://www.slb.com/'>Schlumberger</a>.
+      The observatory was constructed by Schlumberger in cooperation with the
+      USGS under a technical assistance agreement. The observatory will be
+      operated by Schlumberger personnel under USGS guidance and following
       <a href='http://www.intermagnet.org/'>Intermagnet</a> standards. The
       observatory is important to the Geomagnetism Program because it expands
       the coverage of USGS observatories in the auroral zone and Alaska.  The
@@ -115,36 +115,36 @@ if (!isset($TEMPLATE)) {
     </header>
     <figure class="class">
       <img src="images/deadhorse_observatory_main_building.jpg"
-      alt="Main observatory building." />
+        alt="Main observatory building." />
       <figcaption>
         Main observatory building.
       </figcaption>
     </figure>
     <figure class="class">
       <img src="images/deadhorse_observatory_communications_building.jpg"
-      alt="Communications building." />
+        alt="Communications building." />
       <figcaption>
         Communications building.
       </figcaption>
     </figure>
     <figure class="class">
       <img src="images/deadhorse_observatory_building_interior.jpg"
-      alt="Interior of building with two sensor piers." />
+        alt="Interior of building with two sensor piers." />
       <figcaption>
         Interior of building with two sensor piers.
       </figcaption>
     </figure>
     <figure class="class">
       <img src="images/deadhorse_observatory_installation.jpg"
-      alt="Installing the building over the instument piers and onto pilings."
-      />
+        alt="Installing the building over the instument piers and
+            onto pilings." />
       <figcaption>
         Installing the building over the instrument piers and onto pilings.
       </figcaption>
     </figure>
     <figure class="class">
       <img src="images/deadhorse_observatory_prefabricated_building.jpg"
-      alt="The prefabricated building, prior to deployment onsite." />
+        alt="The prefabricated building, prior to deployment onsite." />
       <figcaption>
         The prefabricated building, prior to deployment onsite.
         <br/>

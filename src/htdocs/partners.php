@@ -9,12 +9,12 @@ if (!isset($TEMPLATE)) {
   <h2>International</h2>
 
   <p>
-    The USGS Geomagnetism Program works with the international community through
-    INTERMAGNET, a consortium dedicated to promoting the operation of modern
-    geomagnetic observatories.  USGS staff also regularly participate in meetings
-    of the International Association of Geomagnetism and Aeronomy.  Long-term
-    archives of USGS geomagnetic data are maintained by the World Data Center
-    System.
+    The USGS Geomagnetism Program works with the international community
+    through INTERMAGNET, a consortium dedicated to promoting the operation of
+    modern geomagnetic observatories. USGS staff also regularly participate
+    in meetings of the International Association of Geomagnetism and Aeronomy.
+    Long-term archives of USGS geomagnetic data are maintained by the World
+    Data Center System.
   </p>
 </div>
 
@@ -39,12 +39,13 @@ if (!isset($TEMPLATE)) {
 
   <p>
     The USGS Geomagnetism Program is a member of the National Space Weather
-    Program, an initiative for promoting cooperation between agencies within the
-    Federal Government concerned with space weather prediction and hazard
+    Program, an initiative for promoting cooperation between agencies within
+    the Federal Government concerned with space weather prediction and hazard
     mitigation. The USGS provides real-time magnetometer data to NOAA's Space
-    Weather Prediction Center, the Air Force Weather Agency, and NASA. These data
-    are used for real-time space-weather diagnostics and short-term prediction,
-    services that are considered to be important for national defense.
+    Weather Prediction Center, the Air Force Weather Agency, and NASA. These
+    data are used for real-time space-weather diagnostics and short-term
+    prediction, services that are considered to be important for national
+    defense.
   </p>
 </div>
 

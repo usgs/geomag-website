@@ -11,9 +11,25 @@ if (!isset($TEMPLATE)) {
 ?>
 <div class="row">
   <div class="one-of-two column">
+    <ul class="linklist">
+      <li>
+        <a href="http://www.usgs.gov/blogs/features/usgs_top_story/the-nation-prepares-for-extreme-space-weather/">
+          <h2>USGS Science Feature: The Nation Prepares for Extreme Space Weather</h2>
+        </a>
+        <p>
+          Space weather can pose a threat to our national security and economy.
+          A new National Strategy will help the country prepare and plan.
+        </p>
+      </li>
+    </ul>
+    </a>
+
+    <hr />
+
     <div id="storm-summary">Storm summary goes here.</div>
+    <hr />
+
     <div>
-      <hr />
       <h3>New Video - Hazards: Geomagnetic Storms</h3>
       <p>
         View <a href="http://www.youtube.com/watch?v=s9YGOUWpH8s">

@@ -105,10 +105,11 @@ if (!isset($TEMPLATE)) {
       is located on the College International Geophysical Observaotyr (CIGO), a
       facility established in 1996 through a collaborative effort between the
       USGS Geomagnetism Program and the University of Alaska.  The CIGO is
-      managed by the University's <a href='http://www.gi.alaska.edu'>Geophysical
-      Institute</a>.  In 2009, the 46-acre site was renamed to the Jack
-      Townshend CIGO, in honor of longtime USGS employee Jack Townshend, the
-      visionary and developer of the site.
+      managed by the University's
+      <a href='http://www.gi.alaska.edu'>Geophysical Institute</a>.  In 2009,
+      the 46-acre site was renamed to the Jack Townshend CIGO, in honor of
+      longtime USGS employee Jack Townshend, the visionary and developer
+      of the site.
     </p>
   </section>
 

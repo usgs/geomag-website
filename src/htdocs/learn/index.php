@@ -13,13 +13,13 @@ if (!isset($TEMPLATE)) {
       <li>
         <a href="introtogeomag.php">
           <h2>Introduction to Geomagnetism</h2>
-          <img src="/images/intro.png" alt=""/>
+          <img src="/images/intro.png" alt="" />
         </a>
       </li>
       <li>
         <a href="reading.php">
           <h2>Further Reading</h2>
-          <img src="/images/furtherreading.jpeg" alt=""/>
+          <img src="/images/furtherreading.jpeg" alt="" />
         </a>
       </li>
       <li>
@@ -38,12 +38,13 @@ if (!isset($TEMPLATE)) {
   </div>
   <div class="column three-of-five">
     <p>
-      For centuries, navigators of the world's oceans have been familiar with an
-      effect of Earth's magnetic field: It imparts a directional preference to the
-      needle of a compass. Although in some settings magnetic orientation remains
-      important, the modern science of geomagnetism has emerged from its romantic
-      nautical origins and developed into a subject of great depth and diversity.
-      The geomagnetic field is used to explore the dynamics of Earth's interior
+      For centuries, navigators of the world's oceans have been familiar
+      with an effect of Earth's magnetic field: It imparts a directional
+      preference to the needle of a compass. Although in some settings
+      magnetic orientation remains important, the modern science of
+      geomagnetism has emerged from its romantic nautical origins and
+      developed into a subject of great depth and diversity. The
+      geomagnetic field is used to explore the dynamics of Earth's interior
       and its surrounding space environment, and geomagnetic data are used for
       geophysical mapping, mineral exploration, risk mitigation, and other
       practical applications. A global distribution of groundbased magnetic
@@ -58,5 +59,3 @@ if (!isset($TEMPLATE)) {
     </p>
   </div>
 </div>
-
-

@@ -9,7 +9,7 @@ if (!isset($TEMPLATE)) {
 <p>
   For main-field models and calculators for declination and other field
   components, please visit NOAA
-  <a href="http://www.ngdc.noaa.gov/geomag/magfield.shtml">
+  <a target="_blank" href="http://www.ngdc.noaa.gov/geomag/magfield.shtml">
   (http://www.ngdc.noaa.gov/geomag/magfield.shtml)</a>
 </p>
 
@@ -22,16 +22,20 @@ if (!isset($TEMPLATE)) {
     <ul class="referencelist">
       <li>
         Download model:
-        <a href="ftp://ftpext.usgs.gov/pub/cr/co/golden/jlove/models/5807-4SH">
-        5807-4SH</a> (1 hour Dst)
+        <a target="_blank"
+          href="ftp://ftpext.usgs.gov/pub/cr/co/golden/jlove/models/5807-4SH">
+          5807-4SH</a> (1 hour Dst)
       </li>
       <li>
-        Download model:<a href="ftp://hazards.cr.usgs.gov/minDst_definitive">
-        8507-4SM</a> (1 minute USGS Dst)
+        Download model:
+        <a target="_blank"
+          href="ftp://hazards.cr.usgs.gov/minDst_definitive">8507-4SM</a>
+          (1 minute USGS Dst)
       </li>
       <li>
-        Download model:<a href="ftp://hazards.cr.usgs.gov/minDst">
-        Near real-time Dst</a>
+        Download model:
+        <a target="_blank" href="ftp://hazards.cr.usgs.gov/minDst">Near
+          real-time Dst</a>
       </li>
       <li>
         Download model:<a href="magnetic_declination.avi">

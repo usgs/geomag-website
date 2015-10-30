@@ -99,7 +99,8 @@ if (!isset($TEMPLATE)) {
     </p>
     <ul>
       <li>
-        A seismometer for the <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&amp;station=GUMO">
+        A seismometer for the
+        <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&amp;station=GUMO">
         USGS Global Seismic Network</a>.
       </li>
       <li>
@@ -120,15 +121,15 @@ if (!isset($TEMPLATE)) {
     </header>
     <figure class="center">
       <img src="images/Guam02_third_size.jpg"
-      alt="Guam magnetic observatory." title="Guam magnetic observatory." />
+        alt="Guam magnetic observatory." title="Guam magnetic observatory." />
       <figcaption>
         Guam magnetic observatory.
       </figcaption>
     </figure>
     <figure class="center">
       <img src="images/Guam_variations_third_size.jpg"
-      alt="Variations building at Guam." title="Variations building at Guam."
-      />
+        alt="Variations building at Guam."
+        title="Variations building at Guam." />
       <figcaption>
         Variations building at Guam.
       <br/>
