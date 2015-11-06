@@ -48,10 +48,10 @@ if (!isset($TEMPLATE)) {
 <p>
   The USGS Geomagnetism Program, in collaboration with the USGS Crustal
   Geophysics Program, National Resources Canada, the NOAA Space Weather
-  Prediction Center and NASA-Goddard GIC are building monitoring tools
-  including a <a href="/conductivity/">US-wide conductivity model</a>,
-  <a href="/map/">local magnetic field model</a> and
-  <a href="/realtime/Efield/">regional electric field estimates</a>.
+  Prediction Center and NASA-Goddard GIC are building monitoring tools including
+  a <a href="/conductivity/">US-wide conductivity model</a>,
+  <a href="/map/">local magnetic field model</a> and regional electric field
+  estimates.
 </p>
 
 <p>
