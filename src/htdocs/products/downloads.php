@@ -6,6 +6,53 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
+<div class="alert info">
+  <p>
+    The magweb download server will be decommissioned
+    <strong>November 30, 2015</strong>.
+    Geomagnetic data is still available online via alternative methods.
+    Please subscribe to our new mailing lists to receive email notifications
+    for changes like this in the future:
+  </p>
+  <ul>
+    <li>
+      <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-data">geomag-data</a>
+      <p>
+        Questions and discussion related to USGS Geomagnetism program data
+        products and  data access. Announcements about new data products,
+        data product updates, and issues with data products.
+      </p>
+    </li>
+    <li>
+      <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-operations">geomag-operations</a>
+      <p>
+        Frequent announcements about USGS Geomagnetic observatory related
+        maintenance and disturbances, including planned outages.
+      </p>
+    </li>
+    <li>
+      <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-research">geomag-research</a>
+      <p>
+        Questions and discussion related to geomagnetic, geoelectric, and
+        space hazards research. Announcements about new research papers,
+        presentations and public outreach from the USGS Geomagnetism Program.
+      </p>
+    </li>
+  </ul>
+  <p>
+    To view geomagnetic data, use the
+    <a href="http://geomag.usgs.gov/plots/">Geomag Plots application</a>
+  </p>
+  <p>
+    For programmatic access to geomagnetic data, use the
+    <a href="https://github.com/usgs/geomag-algorithms">geomag-algorithms
+      python library</a>
+  </p>
+  <p>
+    Thank you for your interest in our program.
+  <p>
+</div>
+
 <div class="row">
   <div class="one-of-two column">
     <h2>Automated Download</h2>
