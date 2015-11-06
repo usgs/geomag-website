@@ -11,8 +11,10 @@ if (!isset($TEMPLATE)) {
     The magweb download server will be decommissioned
     <strong>November 30, 2015</strong>.
     Geomagnetic data is still available online via alternative methods.
-    Please subscribe to our new mailing lists down below to receive email
-    notifications for changes like this in the future.
+    Please subscribe to our
+    <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-data">geomag-data
+      mailing list</a> and other mailing lists below, to receive email notifications
+    for changes like this in the future.
   </p>
   <p>
     To view geomagnetic data, use the
