@@ -6,39 +6,14 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<div class="alert info">
+<div class="alert warning">
   <p>
     The magweb download server will be decommissioned
     <strong>November 30, 2015</strong>.
     Geomagnetic data is still available online via alternative methods.
-    Please subscribe to our new mailing lists to receive email notifications
-    for changes like this in the future:
+    Please subscribe to our new mailing lists down below to receive email
+    notifications for changes like this in the future.
   </p>
-  <ul>
-    <li>
-      <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-data">geomag-data</a>
-      <p>
-        Questions and discussion related to USGS Geomagnetism program data
-        products and  data access. Announcements about new data products,
-        data product updates, and issues with data products.
-      </p>
-    </li>
-    <li>
-      <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-operations">geomag-operations</a>
-      <p>
-        Frequent announcements about USGS Geomagnetic observatory related
-        maintenance and disturbances, including planned outages.
-      </p>
-    </li>
-    <li>
-      <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-research">geomag-research</a>
-      <p>
-        Questions and discussion related to geomagnetic, geoelectric, and
-        space hazards research. Announcements about new research papers,
-        presentations and public outreach from the USGS Geomagnetism Program.
-      </p>
-    </li>
-  </ul>
   <p>
     To view geomagnetic data, use the
     <a href="http://geomag.usgs.gov/plots/">Geomag Plots application</a>
@@ -55,35 +30,45 @@ if (!isset($TEMPLATE)) {
 
 <div class="row">
   <div class="one-of-two column">
-    <h2>Automated Download</h2>
+    <h2>Data Access</h2>
+    <h3>View Data</h3>
     <p>
-      The data here are updated in near real-time and are kept on this site for
-      several months. For more historic data and for detailed descriptions of
-      INTERMAGNET IAGA2002 file format, visit the
-      <a href="http://www.intermagnet.org/">Intermagnet</a> website.
+      To view geomagnetic data, use the
+      <a href="http://geomag.usgs.gov/plots/">Geomag Plots application</a>
     </p>
-
-    <dl>
-      <dt>Data Types:</dt>
-        <dd>
-          <a href="http://magweb.cr.usgs.gov/data/indices/">Indices</a>
-        </dd>
-        <dd>
-          <a href="http://magweb.cr.usgs.gov/data/magnetometer/">
-            Magnetometer Data</a>
-        </dd>
-    </dl>
-
+    <h3>Retrieve Data</h3>
     <p>
-      If you'd like to download this data at a regular interval we recommend a
-      tool like <a href="http://www.gnu.org/software/wget/">wget</a>.
+      For programmatic access to geomagnetic data, use the
+      <a href="https://github.com/usgs/geomag-algorithms">geomag-algorithms
+        python library</a>
     </p>
-
-    <p class="disclaimer">
-      Access to the data is provided as-is, without any additional promises to
-      respond quickly to outages, data quality, etc. We request that you
-      acknowledge the USGS Geomagnetism Program in all published documents
-      which make use of our data. Thank you for your interest in the USGS.
+    <h3>Mailing Lists</h3>
+    <p>
+      <dl>
+        <dt>
+          <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-data">geomag-data</a>
+        </dt>
+        <dd>
+          Questions and discussion related to USGS Geomagnetism program data
+          products and  data access. Announcements about new data products,
+          data product updates, and issues with data products.
+        </dd>
+        <dt>
+          <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-operations">geomag-operations</a>
+        </dt>
+        <dd>
+          Frequent announcements about USGS Geomagnetic observatory related
+          maintenance and disturbances, including planned outages.
+        </dd>
+        <dt>
+          <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-research">geomag-research</a>
+        </dt>
+        <dd>
+          Questions and discussion related to geomagnetic, geoelectric, and
+          space hazards research. Announcements about new research papers,
+          presentations and public outreach from the USGS Geomagnetism Program.
+        </dd>
+      </dl>
     </p>
   </div>
 
