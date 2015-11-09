@@ -88,18 +88,14 @@ if (!isset($TEMPLATE)) {
 
     <dl>
       <dt>Definitive Dst</dt>
-        <dd>
-          <a href="ftp://ftpext.usgs.gov/pub/cr/co/golden/jlove/models/5807-4SH">
-            1-hour USGS Dst</a>
-        </dd>
-        <dd>
-          <a href="ftp://hazards.cr.usgs.gov/minDst_definitive">
-            1-minute USGS Dst</a>
-        </dd>
-        <dd>
-          <a href="ftp://hazards.cr.usgs.gov/minDst">
-            Near Real-Time USGS Dst</a>
-        </dd>
+      <dd>
+        <a href="ftp://ftpext.usgs.gov/pub/cr/co/golden/jlove/models/5807-4SH">1-hour
+          USGS Dst</a>
+      </dd>
+      <dd>
+        <a href="ftp://hazards.cr.usgs.gov/minDst_definitive">1-minute
+          USGS Dst</a>
+      </dd>
     </dl>
 
     <p>
