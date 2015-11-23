@@ -33,6 +33,14 @@ if (!isset($TEMPLATE)) {
 <a id="2015"><h3>2015</h3></a>
 <ul class="referencelist">
   <li>
+    Blum, C., Love, J. J., Pedrie, K., Bedrosian, P. A. &amp; Rigler, E. J.,
+    2015.
+    <a href="http://pubs.er.usgs.gov/publications/ofr20151185">
+      A one-dimensional model of solid-earth electrical resistivity beneath
+      Florida</a>,
+      USGS Open-File Report, 2015-1185, 16 p., doi:10.3133/ofr20151185.
+  </li>
+  <li>
     Love, J. J., Rigler, E. J., Pulkkinen, A. &amp; Riley, P., 2015.
     <a href=
       "/downloads/publications/Love_et_al-2015-Geophysical_Research_Letters.pdf">
@@ -48,14 +56,6 @@ if (!isset($TEMPLATE)) {
     Eos, 96(19), 12-16, doi:10.1029/2015EO035713.
   </li>
   <li>
-    Thomas, J. N., Masci, F. &amp; Love, J. J., 2015.
-    <a href="/downloads/publications/nhess-15-1061-2015.pdf">On a report that
-      the 2012 M6.0 earthquake in Italy was predicted after seeing an unusual
-      cloud formation</a>,
-    Nat. Hazards Earth Syst. Sci., 15, 1061-1068,
-    doi:10.5194/nhess-15-1061-2015.
-  </li>
-  <li>
     Love, J. J., Finn, C. A., Pedrie, K. L. &amp; Blum, C. C., 2015.
     <a href="http://pubs.er.usgs.gov/publication/ofr20151125">The Boulder
       magnetic observatory</a>,
@@ -68,11 +68,33 @@ if (!isset($TEMPLATE)) {
       storms</a>,
     Earth Planets Space, 67, 58, doi:10.1186/s40623-015-0213-3.
   </li>
+  <li>
+    Thomas, J. N., Masci, F. &amp; Love, J. J., 2015.
+    <a href="/downloads/publications/nhess-15-1061-2015.pdf">On a report that
+      the 2012 M6.0 earthquake in Italy was predicted after seeing an unusual
+      cloud formation</a>,
+    Nat. Hazards Earth Syst. Sci., 15, 1061-1068,
+    doi:10.5194/nhess-15-1061-2015.
+  </li>
+  <li>
+    Yang, B., Egbert, G. D., Kelbert, A. &amp; Meqbel, N. M., 2015.
+    <a href="/downloads/publications/1-s2.0-S0012821X15002186-main.pdf">
+      Three-dimensional resistivity of the north-central USA from EarthScope
+      long period magnetotelluric data</a>,
+      Earth Planet. Sci. Lett., 422, 87-93, doi:10.1016/j.epsl.2015.04.006.
+  </li>
 </ul>
 
 <a id="2014"><h3>2014</h3></a>
 
 <ul class="referencelist">
+  <li>
+    Kelbert, A., 2014.
+    <a href=
+      "/downloads/publications/Kelbert_2014_EarthCube_EOS.pdf">
+      Science and Cyberinfrastructure: The chicken and the egg problem</a>,
+    EOS, Trans. AGU, 95(49), 458-459, doi:10.1002/2014EO490006.
+  </li>
   <li>
     Kelbert, A., Kuvshinov, A., Velimsky, J., Koyama, T., Ribaudo, J., Sun, J.,
     Martinec Z. &amp; Weiss, C. J., 2014.
@@ -82,7 +104,7 @@ if (!isset($TEMPLATE)) {
     Geophys. J. Int., 197, 785-814, doi:10.1093/gji/ggu028.
   </li>
   <li>
-    Kelbert, A. , Meqbel, N., Egbert, G. D. &amp; Tandon, K., 2014.
+    Kelbert, A., Meqbel, N., Egbert, G. D. &amp; Tandon, K., 2014.
     <a href="/downloads/publications/1-s2.0-S0098300414000211-main.pdf">ModEM:
       A modular system for inversion of electromagnetic geophysical data</a>,
     Computers &amp; Geosciences, 66, 40-53, doi:10.1016/j.cageo.2014.01.010.
@@ -113,7 +135,7 @@ if (!isset($TEMPLATE)) {
     Geophys. Res. Lett., 41, 2266-2274, doi:10.1002/2014GL059568.
   </li>
   <li>
-    Meqbel, N., Egbert, G. D., Wannamaker, P. E., Kelbert, A. &amp; Schultz,
+    Meqbel, N. M., Egbert, G. D., Wannamaker, P. E., Kelbert, A. &amp; Schultz,
     A., 2014.
     <a href="/downloads/publications/1-s2.0-S0012821X13007413-main.pdf">Deep
       electrical resistivity structure of the Pacific Northwestern U.S. derived
@@ -124,7 +146,7 @@ if (!isset($TEMPLATE)) {
     <a href="http://dx.doi.org/10.3133/sir20145045">Discovery and analysis of
       time delay sources in the USGS personal computer data collection platform
       (PCDCP) system</a>,
-    USGS Scientific Investigations Report 2014–5045, 24 p.
+    USGS Scientific Investigations Report, 2014–5045, 24 p.
   </li>
 </ul>
 
@@ -191,7 +213,7 @@ if (!isset($TEMPLATE)) {
     Xu, Z., Gannon, J. L. &amp; Rigler, E. J., 2013.
     <a href="http://pubs.usgs.gov/of/2013/1166/">Report of geomagnetic
       pulsation indices for space weather applications</a>:
-    USGS Open-File Report 2013–1166, 22 p.
+    USGS Open-File Report, 2013–1166, 22 p.
   </li>
 </ul>
 
@@ -220,7 +242,7 @@ if (!isset($TEMPLATE)) {
     J. Geophys. Res., 117, A10215, doi:10.1029/2012JA017543.
   </li>
   <li>
-    Kelbert A., Egbert, G. D. &amp; de Groot-Hedlin, C., 2012.
+    Kelbert, A., Egbert, G. D. &amp; de Groot-Hedlin, C., 2012.
     <a href="/downloads/publications/Kelbert_et_al_2012_Geology.pdf">Crust and
       upper mantle electrical conductivity beneath the Yellowstone Hotspot
       Track</a>,
@@ -383,7 +405,7 @@ if (!isset($TEMPLATE)) {
     Golden, CO, Love, J. J. (ed.), pp. 1-8.
   </li>
   <li>
-    Kelbert A., Schultz, A. &amp; Egbert, G. D., 2009.
+    Kelbert, A., Schultz, A. &amp; Egbert, G. D., 2009.
     <a href=
       "/downloads/publications/Nature, August 20, 2009, Vol. 460 - Kelbert, Schultz, Egbert.pdf">
       Global electromagnetic induction constraints on transition-zone water
@@ -607,15 +629,13 @@ if (!isset($TEMPLATE)) {
     Love, J. J., 2006.
     <a href="http://pubs.usgs.gov/of/2006/1352/">National Geomagnetism
       Program: Current Status &amp; Five-Year Plan</a>,
-    U.S. Geological Survey Open-File Report, 2006-1352, Reston, VA.
+    USGS Open-File Report, 2006-1352, Reston, VA.
   </li>
   <li>
     Remick, K. J. &amp; Love, J. J., 2006.
     <a href="/downloads/publications/stormlevel_kp.pdf">Statistical modeling of
       storm-level Kp occurrences</a>,
-    Geophys. Res. Lett., 33, L16102, doi:10.1029/2006GL026687,
-    This article was selected by the editor of Space Weather as one of
-    particular note (Editor's choice).
+    Geophys. Res. Lett., 33, L16102, doi:10.1029/2006GL026687.
   </li>
   <li>
     Weigel, R. S., Detman, T., Rigler, E. J. &amp; Baker, D. N., 2006.
@@ -837,8 +857,8 @@ if (!isset($TEMPLATE)) {
   <li>
     Gubbins, D. &amp; Love, J. J., 1998.
     <a href="/downloads/publications/grl1998_preferredpaths.pdf">Preferred VGP
-      paths during geomagnetic polarity reversals</a>:
-    Symmetry conditions, Geophys. Res. Lett., 25, 1079-1082.
+      paths during geomagnetic polarity reversals: Symmetry considerations</a>
+    , Geophys. Res. Lett., 25, 1079-1082.
   </li>
   <li>
     Love, J. J., 1998.
