@@ -93,7 +93,7 @@ if (!isset($TEMPLATE)) {
     <a href=
       "/downloads/publications/Kelbert_2014_EarthCube_EOS.pdf">
       Science and Cyberinfrastructure: The chicken and the egg problem</a>,
-    EOS, Trans. AGU, 95(49), 458-459, doi:10.1002/2014EO490006.
+      EOS, Trans. AGU, 95(49), 458-459, doi:10.1002/2014EO490006.
   </li>
   <li>
     Kelbert, A., Kuvshinov, A., Velimsky, J., Koyama, T., Ribaudo, J., Sun, J.,
