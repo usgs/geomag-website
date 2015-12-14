@@ -1,6 +1,6 @@
 <?php
 if (!isset($TEMPLATE)) {
-  $TITLE = 'Newport (NEW)';
+  $TITLE = 'San Juan (SJG)';
   $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
           <meta name="viewport" content="width=device-width">';
   $NAVIGATION = true;
