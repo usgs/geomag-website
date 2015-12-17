@@ -58,7 +58,7 @@ var connect = {
       ],
       livereload: config.liveReloadPort,
       middleware: addMiddleware,
-      open: true,
+      open: 'http://localhost:' + config.srcPort + '/index.php',
       port: config.srcPort
     }
   },
