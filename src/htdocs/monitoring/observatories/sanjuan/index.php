@@ -118,8 +118,8 @@ if (!isset($TEMPLATE)) {
           IMS Auxiliary Seismic Station</a>
       </li>
       <li>
-        <a href="http://www.ngdc.noaa.gov/stp/IONO">NOAA National Geophysical
-        Data Center (NGDC) ionosonde</a>
+        <a href="http://www.ngdc.noaa.gov/stp/IONO">NOAA National Centers for
+        Environmental Information (NCEI) ionosonde</a>
       </li>
     </ul>
   </section>
