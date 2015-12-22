@@ -20,17 +20,16 @@ if (!isset($TEMPLATE)) {
 
 <div class="logo">
   <a href="http://www.intermagnet.org">
-    <img src="/images/partners/intermagnet_130.jpg"
-        alt="Intermagnet"/>
+    <img src="/images/partners/intermagnet_130.jpg" alt="Intermagnet" />
   </a>
 
   <a href="http://www.iugg.org/IAGA/">
     <img src="/images/partners/iaga_130.png"
-        alt="International Association of Geomagnetism and Aeronomy (IAGA)"/>
+        alt="International Association of Geomagnetism and Aeronomy (IAGA)" />
   </a>
 
   <a href="http://www.icsu-wds.org">
-    <img src="/images/partners/wdc_130.jpg" alt="World Data Center"/>
+    <img src="/images/partners/wdc_130.jpg" alt="World Data Center" />
   </a>
 </div>
 
@@ -42,32 +41,32 @@ if (!isset($TEMPLATE)) {
     Program, an initiative for promoting cooperation between agencies within
     the Federal Government concerned with space weather prediction and hazard
     mitigation. The USGS provides real-time magnetometer data to NOAA's Space
-    Weather Prediction Center, the Air Force Weather Agency, and NASA. These
-    data are used for real-time space-weather diagnostics and short-term
-    prediction, services that are considered to be important for national
-    defense.
+    Weather Prediction Center, the U.S. Air Force 557th Weather Wing, and
+    NASA. These data are used for real-time space-weather diagnostics and
+    short-term prediction, services that are considered to be important for
+    national defense.
   </p>
 </div>
 
 <div class="logo">
   <a href="http://www.nswp.gov">
     <img src="/images/partners/nswp_130.png"
-        alt="National Space Weather Program (NSWP)"/>
+        alt="National Space Weather Program (NSWP)" />
   </a>
 
   <a href="http://www.noaa.gov">
     <img src="/images/partners/noaa_130.gif"
-        alt="National Oceanic and Atmospheric Administration (NOAA)"/>
+        alt="National Oceanic and Atmospheric Administration (NOAA)" />
   </a>
 
   <a href="http://www.afweather.af.mil">
     <img src="/images/partners/USAF_557th_WW.png"
-        alt="United States Air Force Weather Agency"/>
+        alt="United States Air Force Weather Agency" />
   </a>
 
   <a href="http://www.nasa.gov">
     <img src="images/partners/nasa_130.gif"
-        alt="National Aeronautics and Space Administration (NASA)"/>
+        alt="National Aeronautics and Space Administration (NASA)" />
   </a>
 </div>
 
@@ -92,22 +91,21 @@ if (!isset($TEMPLATE)) {
 
 <div class="logo">
   <a href="http://www.slb.com">
-    <img src="images/partners/schlumberger.gif" alt="Schlumberger"/>
+    <img src="images/partners/schlumberger.gif" alt="Schlumberger" />
   </a>
 
   <a href="http://www.isti.com">
     <img src="images/partners/isti.gif"
-        alt="Instrumental Software Technologies, Inc (ISTI)"/>
+        alt="Instrumental Software Technologies, Inc (ISTI)" />
   </a>
 
   <a href="http://www.wpafb.af.mil/AFRL/">
     <img src="images/partners/afrl_130.png"
-        alt="United States Air Force Research Laboratory"/>
+        alt="United States Air Force Research Laboratory" />
   </a>
 
   <a class="extra-wide" href="http://www.spacewx.com">
-    <img src="images/partners/set.gif"
-        alt="Space Enviornment Technologies" />
+    <img src="images/partners/set.gif" alt="Space Enviornment Technologies" />
   </a>
 </div>
 
@@ -118,22 +116,21 @@ if (!isset($TEMPLATE)) {
 <div class="logo">
   <a href="http://www.noaa.gov">
     <img src="images/partners/noaa_130.gif"
-        alt="National Oceanic and Atmospheric Administration (NOAA)"/>
+        alt="National Oceanic and Atmospheric Administration (NOAA)" />
   </a>
 
   <a href="http://www.fs.fed.us">
     <img src="images/partners/usfs_doa_130.jpg"
-        alt="United States Forest Service (USFS)"/>
+        alt="United States Forest Service (USFS)" />
   </a>
 
   <a href="http://www.gi.alaska.edu">
     <img src="images/partners/geophysical_institute_130.png"
-        alt="University of Alaska Geophysics"/>
+        alt="University of Alaska Geophysics" />
   </a>
 
   <a href="http://www.nps.gov/index.htm">
-    <img src="images/partners/nps_130.png"
-        alt="National Park Service (NPS)" />
+    <img src="images/partners/nps_130.png" alt="National Park Service (NPS)" />
   </a>
 
   <a href="http://www.nasa.gov">
@@ -142,8 +139,7 @@ if (!isset($TEMPLATE)) {
   </a>
 
   <a href="http://www.af.mil">
-    <img src="images/partners/doaf_130.gif"
-        alt="United States Air Force"/>
+    <img src="images/partners/doaf_130.gif" alt="United States Air Force" />
   </a>
 
   <a href="http://www.shumagin.com">
