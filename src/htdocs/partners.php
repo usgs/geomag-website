@@ -61,7 +61,7 @@ if (!isset($TEMPLATE)) {
   </a>
 
   <a href="http://www.afweather.af.mil">
-    <img src="/images/partners/afwa_130.jpg"
+    <img src="/images/partners/USAF_557th_WW.png"
         alt="United States Air Force Weather Agency"/>
   </a>
 
