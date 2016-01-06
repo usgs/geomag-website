@@ -124,6 +124,10 @@ if (!isset($TEMPLATE)) {
         Observatory</a> from The Washington Post and Times Herald, May 20,
         1956.
       </li>
+	  <li>
+        <a href="/downloads/FRD Dedication Ceremony 23 May 1956.pdf">U. S. DEPARTMENT OF COMMERCE
+		COAST &amp; GEODETIC SURVEY</a> Fredericksburg Magnetic Observatory and Laboratory Corbin, Virginia, 1956. 
+      </li>
     </ul>
   </section>
 
