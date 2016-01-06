@@ -114,12 +114,15 @@ if (!isset($TEMPLATE)) {
         Tsunami Warning Center</a> of NOAA.
       </li>
       <li>
-        <a href="http://www.ncdc.noaa.gov/crn/">US Climate Reference Network
+        <a href="https://www.ncdc.noaa.gov/crn/station.htm?stationId=1166">US Climate Reference Network
         </a> (USCRN)
       </li>
       <li>
         <a href="http://fire.ak.blm.gov/afs/">BLM Alaska lightning detection
         system</a>
+      </li>
+	    <li>
+        <a href="/downloads/tma32597-Patterson-New Magnetic Obsy at Sitka.pdf">New Magnetic Observatory at Sitka Alaska</a> 
       </li>
     </ul>
   </section>
