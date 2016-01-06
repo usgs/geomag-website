@@ -121,6 +121,9 @@ if (!isset($TEMPLATE)) {
         <a href="http://fire.ak.blm.gov/afs/">BLM Alaska lightning detection
         system</a>
       </li>
+	    <li>
+        <a href="/downloads/tma32597-Patterson-New Magnetic Obsy at Sitka.pdf">New Magnetic Observatory at Sitka Alaska</a> 
+      </li>
     </ul>
   </section>
 
