@@ -114,7 +114,7 @@ if (!isset($TEMPLATE)) {
         Tsunami Warning Center</a> of NOAA.
       </li>
       <li>
-        <a href="http://www.ncdc.noaa.gov/crn/">US Climate Reference Network
+        <a href="https://www.ncdc.noaa.gov/crn/station.htm?stationId=1166">US Climate Reference Network
         </a> (USCRN)
       </li>
       <li>
