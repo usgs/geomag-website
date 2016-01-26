@@ -30,8 +30,26 @@ if (!isset($TEMPLATE)) {
   <a href="#1998">1998</a>
 </div>
 
+<a id="2016"><h3>2016</h3></a>
+<ul class="referencelist">
+  <li>
+    Love, J. J., Feb. 2016.
+    <a href=
+      "/downloads/publications/Earth-Mag-SW-Comment-Love-Feb-2016.pdf">
+      Weathering a perfect storm from space</a>, Earth, 51(2), 8-9.
+    </li>
+</ul>
+
 <a id="2015"><h3>2015</h3></a>
 <ul class="referencelist">
+  <li>
+    Bedrosian, P. A. &amp; Love, J. J., 2015.
+    <a href=
+    "/downloads/publications/Bedrosian_et_al-Geophysical_Research_Letters.pdf">
+    Mapping geoelectric fields during magnetic storms:
+    Synthetic analysis of empirical United States impedances</a>,
+    Geophys. Res. Lett., 42, 10,160-10,170, doi:10.1002/2015GL066636.
+  </li>
   <li>
     Blum, C., Love, J. J., Pedrie, K., Bedrosian, P. A. &amp; Rigler, E. J.,
     2015.
@@ -69,7 +87,7 @@ if (!isset($TEMPLATE)) {
     Earth Planets Space, 67, 58, doi:10.1186/s40623-015-0213-3.
   </li>
   <li>
-    Sun, J., Kelbert, A., &amp; Egbert, G. D., 2015.
+    Sun, J., Kelbert, A. &amp; Egbert, G. D., 2015.
     <a href=
     "/downloads/publications/Sun_et_al-2015-Journal_of_Geophysical_Research__Solid_Earth.pdf">
     Ionospheric current source modeling and global geomagnetic induction using
@@ -194,6 +212,14 @@ if (!isset($TEMPLATE)) {
     <a href="/downloads/publications/grl50211.pdf">Insignificant
       solar-terrestrial triggering of earthquakes</a>,
     Geophys. Res. Lett., 40, 1165-1170, doi:10.1002/grl.50211.
+  </li>
+  <li>
+    Poedjono, B., Beck, N., Buchanan, A., Borri, L., Maus, S., Finn, C. A.,
+    Worthington, E. W. &amp; White, T., 2013.
+    <a href="/downloads/publications/SPE166850_GRS_Arctic_ENGLISH.pdf">
+      Improved geomagnetic referencing in the Arctic environment</a>,
+      SPE-166850-MS, SPE Arctic and Extreme Environments Technical Conference
+      and Exhibition, 15-17 Oct. 2013, Moscow, Russia, doi:10.2118/166850-MS.
   </li>
   <li>
     Rastätter, L., Kuznetsova, M. M., Glocer, A., Welling, D., Meng, X.,
@@ -371,7 +397,7 @@ if (!isset($TEMPLATE)) {
     <a href="/downloads/publications/SPE-149629_Final.pdf">Geomagnetic
       Referencing in the Arctic environment</a>,
     SPE-149629-PP, SPE Arctic and Extreme Environments Conference &amp;
-    Exhibition, Moscow, Russia, 18-20 Oct 2011, doi:10.2118/149629-MS.
+    Exhibition, Moscow, Russia, 18-20 Oct. 2011, doi:10.2118/149629-MS.
   </li>
   <li>
     Rigler, E. J. &amp; Hill, S., 2011.
