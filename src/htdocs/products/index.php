@@ -20,16 +20,6 @@
         </p>
       </li>
       <li>
-        <a href="realtime/">
-          <h2>Blended Real-Time HEZF Display</h2>
-          <img src="/images/blended_final.png" alt=""/>
-        </a>
-        <p>
-          Real-time HEZF data from USGS geomagnetic observatories with
-          satellite data used to fill gaps.
-        </p>
-      </li>
-      <li>
         <a href="downloads.php">
           <h2>Downloads</h2>
           <img src="/images/download.png" alt=""/>
