@@ -89,11 +89,11 @@ if (!isset($TEMPLATE)) {
     <dl>
       <dt>Definitive Dst</dt>
       <dd>
-        <a href="ftp://ftpext.usgs.gov/pub/cr/co/golden/jlove/models/5807-4SH">1-hour
+        <a href="ftp://ftpext.usgs.gov/pub/cr/co/golden/hazards/Geomag/data/Dst/hrDst_definitive/5807-4SH">1-hour
           USGS Dst</a>
       </dd>
       <dd>
-        <a href="ftp://hazards.cr.usgs.gov/minDst_definitive">1-minute
+        <a href="ftp://ftpext.usgs.gov/pub/cr/co/golden/hazards/Geomag/data/Dst/minDst_definitive/Dst_definitive_fix_minute.out">1-minute
           USGS Dst</a>
       </dd>
     </dl>
