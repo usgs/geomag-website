@@ -12,7 +12,7 @@
       <li>
         <a href="/plots/">
           <h2>Real-Time HEZF Display</h2>
-          <img src="/images/realtime_final.png" alt=""/>
+          <img src="/images/hefz.gif" alt=""/>
         </a>
         <p>
           Real-time HEZF index display from USGS geomagnetic observatories
@@ -63,7 +63,7 @@
       <li>
         <a href="/realtime/dst">
           <h2>Real-Time Dst Display</h2>
-          <img src="/images/dst_final.png" alt=""/>
+          <img src="/images/dst.gif" alt=""/>
         </a>
         <p>
           Real-time Dst data from USGS observatories as well as other world
