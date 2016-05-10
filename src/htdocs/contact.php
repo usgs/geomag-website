@@ -61,18 +61,6 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/McWhirter_Eddie.jpg" alt=""
-              class="column mobile-one-of-four" />
-          <div class="column mobile-three-of-four">
-            Edward A. McWhirter Jr.<br/>
-            Software Development<br/>
-            Ph: (303) 273-8488<br/>
-            <a href="mailto:emcwhirter@usgs.gov">emcwhirter@usgs.gov</a>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="row">
           <img src="/images/staff/Morris_Jake_small.jpg" alt=""
               class="column mobile-one-of-four" />
           <div class="column mobile-three-of-four">
@@ -177,9 +165,9 @@
 
     <h2>Website Issues</h2>
     <p>
-      Eddie McWhirter<br/>
-      <a href="mailto:emcwhirter@usgs.gov?cc=lisa@usgs.gov">
-          emcwhirter@usgs.gov
+      Lisa Wald<br/>
+      <a href="mailto:lisa@usgs.gov">
+          lisa@usgs.gov
       </a>
     </p>
 
