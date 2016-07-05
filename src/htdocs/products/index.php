@@ -11,7 +11,7 @@
     <ul class="linklist">
       <li>
         <a href="/plots/">
-          <h2>Real-Time HEZF Display</h2>
+          <h2>Geomagnetism Plots</h2>
           <img src="/images/hefz.gif" alt=""/>
         </a>
         <p>

@@ -37,6 +37,18 @@
       </li>
       <li>
         <div class="row">
+          <img src="/images/staff/Austin_Jason.jpg" alt=""
+              class="column mobile-one-of-four" />
+          <div class="column mobile-three-of-four">
+            Jason Austin<br/>
+            Operations<br/>
+            Ph: (303) 273-8590<br/>
+            <a href="mailto:jcaldwell@usgs.gov">joaustin@usgs.gov</a>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="row">
           <img src="/images/staff/Caldwell_Jill.jpg" alt=""
               class="column mobile-one-of-four" />
           <div class="column mobile-three-of-four">
@@ -44,6 +56,18 @@
             Data Processing<br/>
             Ph: (303) 273-8486<br/>
             <a href="mailto:jcaldwell@usgs.gov">jcaldwell@usgs.gov</a>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="row">
+          <img src="/images/staff/Claycomb_Abe.jpg" alt=""
+              class="column mobile-one-of-four" />
+          <div class="column mobile-three-of-four">
+            Abe Claycomb<br/>
+            Operations/Development<br/>
+            Ph: (303) 273-8430<br/>
+            <a href="mailto:jcaldwell@usgs.gov">aclaycomb@usgs.gov</a>
           </div>
         </div>
       </li>
