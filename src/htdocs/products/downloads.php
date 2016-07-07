@@ -6,28 +6,10 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<div class="alert warning">
+<div class="alert info">
   <p>
-    The magweb download server will be decommissioned
-    <strong>November 30, 2015</strong>.
-    Geomagnetic data is still available online via alternative methods.
-    Please subscribe to our
-    <a href="https://geohazards.usgs.gov/mailman/listinfo/geomag-data">geomag-data
-      mailing list</a> and other mailing lists below to receive email
-    notifications for changes like this in the future.
+    USGS Geomagnetism Program data are made available as-is and without any guarantees of continuity and quality.
   </p>
-  <p>
-    To view geomagnetic data, use the
-    <a href="http://geomag.usgs.gov/plots/">Geomag Plots application</a>
-  </p>
-  <p>
-    For programmatic access to geomagnetic data, use the
-    <a href="https://github.com/usgs/geomag-algorithms">geomag-algorithms
-      python library</a>
-  </p>
-  <p>
-    Thank you for your interest in our program.
-  <p>
 </div>
 
 <div class="row">
@@ -35,15 +17,18 @@ if (!isset($TEMPLATE)) {
     <h2>Data Access</h2>
     <h3>View Data</h3>
     <p>
-      To view geomagnetic data, use the
-      <a href="http://geomag.usgs.gov/plots/">Geomag Plots application</a>
+      To view geomagnetic data use
+      <a href="http://geomag.usgs.gov/plots/">Geomag Plots</a>.
     </p>
     <h3>Retrieve Data</h3>
-    <p>
-      For programmatic access to geomagnetic data, use the
-      <a href="https://github.com/usgs/geomag-algorithms">geomag-algorithms
-        python library</a>
-    </p>
+    <ul>
+      <li>
+        <a href="https://github.com/usgs/geomag-algorithms">Programmatic Access</a> - geomag-algorithms python library
+      </li>
+      <li>
+        <a href="/ws/edge/">Web Service</a>
+      </li>
+    </ul>
     <h3>Mailing Lists</h3>
     <p>
       <dl>
@@ -98,9 +83,17 @@ if (!isset($TEMPLATE)) {
       </dd>
     </dl>
 
+    <h2>Data Acknowledgement</h2>
     <p>
-      USGS Geomagnetism Program Data, Inquiries and Specialized Data Requests
+      Publications making use of our data should include an acknowledgment statement such as the following:<br/>
+      <blockquote>
+        The results presented in this document rely on data collected at magnetic observatories operated by the U.S. Geological Survey (USGS, geomag.usgs.gov).
+      </blockquote>
     </p>
+
+    <h3>
+      USGS Geomagnetism Program Data, Inquiries and Specialized Data Requests
+    </h3>
 
     <p>
       Duff C Stewart<br/>
