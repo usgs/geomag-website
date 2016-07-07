@@ -15,8 +15,8 @@
           <img src="/images/hefz.gif" alt=""/>
         </a>
         <p>
-          Real-time HEZF index display from USGS geomagnetic observatories
-          internet feeds without filling gaps with satellite data.
+          Real-time display of USGS geomagnetic observatory data feeds and
+          derived products.
         </p>
       </li>
       <li>
