@@ -11,7 +11,7 @@ if (!isset($TEMPLATE)) {
 ?>
 <div class="row">
   <div class="one-of-two column">
-    <ul class="linklist">
+    <ul class="linklist no-style">
       <li>
         <a href="http://www.usgs.gov/blogs/features/usgs_top_story/the-nation-prepares-for-extreme-space-weather/">
           <h2>USGS Science Feature: The Nation Prepares for Extreme Space Weather</h2>
