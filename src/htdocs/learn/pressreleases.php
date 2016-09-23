@@ -6,14 +6,19 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<a id="2013"><h3>2013</h3></a>
+<a id="2016"><h3>2016</h3></a>
 
 <ul class="referencelist">
   <li>
-    12/18/2013:
-    <a href="http://www.usgs.gov/newsroom/article.asp?ID=3757#.U4jI_vldXcY">
-        A Modern Compass Improves Oil Production</a>
+    09/12/2016:
+    <a href="https://www.usgs.gov/news/mapping-space-weather-menace-electric-power-grids">
+    Mapping a Space-Weather Menace to Electric-Power Grids</a>
   </li>
+</ul>
+
+<a id="2013"><h3>2013</h3></a>
+
+<ul class="referencelist">
   <li>
     10/15/2013:
     <a href="http://www.usgs.gov/blogs/features/usgs_top_story/the-magnetic-storm-of-halloween-2003-2/">
@@ -34,15 +39,5 @@ if (!isset($TEMPLATE)) {
     <a href="http://www.usgs.gov/blogs/features/usgs_top_story/the-usgs-monitors-earth%E2%80%99s-magnetic-field-to-prepare-citizens-for-magnetic-storms/">
     The USGS Monitors Earth's Magnetic Field to Prepare Citizens for
     Magnetic Storms</a>
-  </li>
-</ul>
-
-<a id="2006"><h3>2006</h3></a>
-
-<ul class="referencelist">
-  <li>
-    5/23/2006:
-    <a href="http://www.usgs.gov/newsroom/article.asp?ID=1511">
-    USGS, NOAA Mark 50 Years of Geomagnetic Research at Corbin, Va.</a>
   </li>
 </ul>
