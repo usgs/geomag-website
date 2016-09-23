@@ -23,6 +23,6 @@
     "hazdev-template": "usgs/hazdev-template"
   },
   "engines": {
-    "node": ">=4.5.0"
+    "node": ">=0.10.0"
   }
 }
