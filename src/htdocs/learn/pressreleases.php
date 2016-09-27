@@ -20,6 +20,12 @@ if (!isset($TEMPLATE)) {
 
 <ul class="referencelist">
   <li>
+    12/18/2013:
+    <a href="https://archive.usgs.gov/archive/sites/www.usgs.gov/newsroom/article.asp-ID=3757.html">
+    A Modern Compass Improves Oil Production</a>
+  </li>
+
+  <li>
     10/15/2013:
     <a href="http://www.usgs.gov/blogs/features/usgs_top_story/the-magnetic-storm-of-halloween-2003-2/">
     The Magnetic Storm of Halloween 2003</a>
@@ -39,5 +45,15 @@ if (!isset($TEMPLATE)) {
     <a href="http://www.usgs.gov/blogs/features/usgs_top_story/the-usgs-monitors-earth%E2%80%99s-magnetic-field-to-prepare-citizens-for-magnetic-storms/">
     The USGS Monitors Earth's Magnetic Field to Prepare Citizens for
     Magnetic Storms</a>
+  </li>
+</ul>
+
+<a id="2006"><h3>2006</h3></a>
+
+<ul class="referencelist">
+  <li>
+    5/23/2006:
+    <a href="https://archive.usgs.gov/archive/sites/www.usgs.gov/newsroom/article.asp-ID=1511.html">
+    USGS, NOAA Mark 50 Years of Geomagnetic Research at Corbin, VA</a>
   </li>
 </ul>
