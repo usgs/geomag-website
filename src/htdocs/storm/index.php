@@ -7,7 +7,7 @@ if (!isset($TEMPLATE)) {
 }
 ?>
 
-<div class="row">
+<div class="column">
   <table>
     <thead>
       <tr>
