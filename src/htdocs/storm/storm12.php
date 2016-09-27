@@ -74,11 +74,7 @@ if (!isset($TEMPLATE)) {
   <ul>
     <li>Additional information:</li>
     <li>
-      USGS Geomagnetic Dst: <a href="geomag.usgs.gov/dst/">
-      geomag.usgs.gov/dst/</a>
-    </li>
-    <li>
-      Intermagnet data: <a href="www.intermagnet.org">www.intermagnet.org</a>
+      Intermagnet data: <a href="http://www.intermagnet.org">www.intermagnet.org</a>
     </li>
     <li>
       Solar images: National Solar Observatory
@@ -87,14 +83,8 @@ if (!isset($TEMPLATE)) {
       </a>
     </li>
     <li>
-      NOAA Space Weather Prediction Center: <a href="swpc.noaa.gov">
+      NOAA Space Weather Prediction Center: <a href="http://www.swpc.noaa.gov">
       swpc.noaa.gov</a>
-    </li>
-    <li>
-      NOAA Space Weather forecasts:
-      <a href="http://www.swpc.noaa.gov/forecast.html">
-        http://www.swpc.noaa.gov/forecast.html
-      </a>
     </li>
     <li>
       Baker, D. N., et al. (2008), Severe Space Weather Events—Understanding

@@ -61,26 +61,10 @@ if (!isset($TEMPLATE)) {
       </a>
     </li>
     <li>
-      USGS Geomagnetism Program: <a href="geomag.usgs.gov">geomag.usgs.gov</a>
+      USGS Geomagnetism Program: <a href="http://geomag.usgs.gov/">geomag.usgs.gov</a>
     </li>
     <li>
-      Intermagnet data: <a href="www.intermagnet.org">www.intermagnet.org</a>
-    </li>
-    <li>
-      NOAA Space Weather Prediction Center:
-          <a href="swpc.noaa.gov">swpc.noaa.gov</a>
-    </li>
-    <li>
-      NOAA Space Weather forecasts:
-      <a href="http://www.swpc.noaa.gov/forecast.html">
-        http://www.swpc.noaa.gov/forecast.html
-      </a>
-    </li>
-    <li>
-      NOAA Space Weather forecast archive:
-      <a href="http://www.swpc.noaa.gov/alerts/archive/alerts_Sep2014.html">
-        http://www.swpc.noaa.gov/alerts/archive/alerts_Sep2014.html
-      </a>
+      Intermagnet data: <a href="http://www.intermagnet.org">www.intermagnet.org</a>
     </li>
   </ul>
   <p>
