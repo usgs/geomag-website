@@ -1,5 +1,5 @@
 <?php
-  $day = $_POST['day'];
+  $day = intval($_POST['day']);
   $abbrev = array ( "brwt", "bout", "cmot", "dedt", "frdt", "frnt", "guat",
                   "hont", "newt", "sjgt", "shut", "sitt", "bslt", "tuct" );
 
