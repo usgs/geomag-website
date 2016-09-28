@@ -39,7 +39,6 @@ var connect = {
           // These are served by "legacy" servers.
           '/map',
           '/realtime',
-          '/storm',
           '/template',
           '/wwwplots',
           // These are apps.
