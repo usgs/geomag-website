@@ -30,6 +30,8 @@ if (!isset($TEMPLATE)) {
     // Default to GIF
     $format_links = '(<a href="index.php?type=' . $movie_type .
         '&amp;format=flash">Flash</a> | GIF)';
+    // Bad format requested, default to gif
+    $movie_format = 'gif';
   }
 
   $TITLE = $movie_title;
