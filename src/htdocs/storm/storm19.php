@@ -94,16 +94,12 @@ if (!isset($TEMPLATE)) {
       Love, J. J.: Magnetic monitoring of Earth and space, Physics Today, 61,
       31-37, 2008.
     </li>
-    <li>
-      <b>
-        Last Updated 2014-10-06 18:07:28	by Jeffrey J. Love and Jennifer L.
-        Gannon, USGS Geomagnetism Program, Prepared on Feb. 18, 2011 Edited by
-        Jeffrey J. Love on Sept. 15, 2014
-      </b>
-    </li>
   </ul>
-
   <p>
-    <a href="http://geomag.usgs.gov/map/#storm/19">View Storm Data</a>
+    <b>
+      Last Updated 2014-10-06 18:07:28	by Jeffrey J. Love and Jennifer L.
+      Gannon, USGS Geomagnetism Program, Prepared on Feb. 18, 2011 Edited by
+      Jeffrey J. Love on Sept. 15, 2014
+    </b>
   </p>
 </div>

@@ -118,7 +118,4 @@ if (!isset($TEMPLATE)) {
       Last Updated 2015-06-25 15:13:16	by Jeffrey J. Love and E. Joshua Rigler
     </b>
   </p>
-  <p>
-    <a href="http://geomag.usgs.gov/map/#storm/22">View Storm Data</a>
-  </p>
 </div>
