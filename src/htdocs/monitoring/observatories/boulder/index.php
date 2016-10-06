@@ -2,13 +2,16 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'Boulder (BOU)';
   $NAVIGATION = true;
+  $HEAD = '
+    <link rel="stylesheet" href="../styles.css"/>
+  ';
   include 'template.inc.php';
 }
 ?>
 
 <div class="row">
   <div class="one-of-two column">
-    <table class="tabular">
+    <table>
       <tbody>
         <tr>
           <td>
@@ -47,7 +50,7 @@ if (!isset($TEMPLATE)) {
             Geomagnetic Latitude:
           </td>
           <td>
-            48.40&deg;
+            47.87&deg;<sup>*</sup>
           </td>
         </tr>
         <tr>
@@ -55,7 +58,7 @@ if (!isset($TEMPLATE)) {
             Geomagnetic Longitude:
           </td>
           <td>
-            320.59&deg;
+            321.98&deg;<sup>*</sup>
           </td>
         </tr>
         <tr>
@@ -76,6 +79,11 @@ if (!isset($TEMPLATE)) {
         </tr>
       </tbody>
     </table>
+
+  <p>
+    <sup>*</sup> <a href="http://wdc.kugi.kyoto-u.ac.jp/igrf/gggm/">IGRF</a> values as of 2015.
+  </p>
+
   </div>
   <div class="one-of-two column">
     <figure class="center">
@@ -88,102 +96,84 @@ if (!isset($TEMPLATE)) {
   </div>
 </div>
 
-<div class="tablist">
-  <section class="panel" data-title="Background">
-    <header>
-      <h2>Background</h2>
-    </header>
-    <p>
-      The Boulder observatory was established in 1963. The grounds for the
-      observatory are overseen by the
-      <a href="http://www.ntia.doc.gov/">National Telecommunications and
-      Information Administration</a> of the Department of Commerce. This
-      observatory is closest to Program headquarters in Golden.
-      Therefore, in addition to serving as a site for routine data collection,
-      Boulder also functions as the Program&#8217;s test bed for on-going
-      operational developments. Several new buildings have recently been
-      installed on the site and Program staff are currently working to install
-      a coil-calibration facility.
-    </p>
-    <p>
-      <a href="BOU History.pdf">Historic description of Boulder Magnetic
-      Observatory</a>
-    </p>
-  </section>
+<h2>Background</h2>
+<p>
+  The Boulder observatory was established in 1963. The grounds for the
+  observatory are overseen by the
+  <a href="http://www.ntia.doc.gov/">National Telecommunications and
+  Information Administration</a> of the Department of Commerce. This
+  observatory is closest to Program headquarters in Golden.
+  Therefore, in addition to serving as a site for routine data collection,
+  Boulder also functions as the Program&#8217;s test bed for on-going
+  operational developments. Several new buildings have recently been
+  installed on the site and Program staff are currently working to install
+  a coil-calibration facility.
+</p>
+<p>
+  <a href="BOU History.pdf">Historic description of Boulder Magnetic
+  Observatory</a>
+</p>
+<h2>Other Operations</h2>
+<ul>
+  <li>
+    <a href="http://webflash.ess.washington.edu/">World-Wide Lightning
+    Location Network</a> (WWLLN)
+  </li>
+</ul>
 
-  <section class="panel" data-title="Other Operations">
-    <header>
-      <h2>Other Operations</h2>
-    </header>
-    <ul>
-      <li>
-        <a href="http://webflash.ess.washington.edu/">World-Wide Lightning
-        Location Network</a> (WWLLN)
-      </li>
-    </ul>
-  </section>
+<h2>Publications</h2>
+<ul>
+  <li>
+    Love, J.J., Finn, C.A., Pedrie, K.L., &amp; Blum, C.C., 2015.
+    <a href="https://pubs.er.usgs.gov/publication/ofr20151125">The Boulder magnetic
+    observatory</a>, USGS Open-File Report, 2015–1125, 8 p.,
+    doi:10.3133/ofr20151125.
+  </li>
+</ul>
 
-  <section class="panel" data-title="Publications">
-    <header>
-      <h2>Publications</h2>
-    </header>
-    <ul>
-      <li>
-        Love, J.J., Finn, C.A., Pedrie, K.L., &amp; Blum, C.C., 2015.
-        <a href="https://pubs.er.usgs.gov/publication/ofr20151125">The Boulder magnetic
-        observatory</a>, USGS Open-File Report, 2015–1125, 8 p.,
-        doi:10.3133/ofr20151125.
-      </li>
-    </ul>
-  </section>
-  <section class="panel" data-title="Photos">
-    <header>
-      <h2>Photos</h2>
-    </header>
-    <figure class="center">
-      <a href="images/Boulder_half_size.jpg"><img
-        src="images/Boulder_small.jpg"
-        alt="The Boulder magnetic observatory."
-        title="The Boulder magnetic observatory."
-         /></a>
-      <figcaption>
-        The Boulder magnetic observatory. Variations and Proton Sensor
-        buildings at the lower right.
-      </figcaption>
-    </figure>
-    <figure>
-      <a href="images/Boulder02_half_size.jpg"><img
-        src="images/Boulder02_small.jpg"
-        alt="Azimuth mark, Absolutes building and Coil building at Boulder
-          magnetic observatory."
-        title="Azimuth mark, Absolutes building and Coil building at Boulder
-          magnetic observatory."
-        /></a>
-      <figcaption>
-        Azimuth mark, Absolutes building and Coil building at Boulder magnetic
-        observatory.
-      </figcaption>
-    </figure>
-    <figure>
-      <a href="images/theodolite_half_size.jpg"><img
-        src="images/theodolite_quarter_size.jpg"
-        alt="Theodolite for making absolute measurements at Boulder."
-        title="Theodolite for making absolute measurements at Boulder."
-         /></a>
-      <figcaption>
-        Zeiss Jena 010B Theodolite for making absolute measurements at Boulder
-        magnetic observatory.
-      </figcaption>
-    </figure>
-    <figure>
-      <a href="images/Boulder_Historical_Map.jpg"><img
-      src="images/Boulder_Historical_Map_small.jpg"
-      alt="Historic topographic map of Boulder Magnetic Observatory location."
-      title="Historic topographic map of Boulder Magnetic Observatory location."
-       /></a>
-      <figcaption>
-        Historic topographic map of Boulder Magnetic Observatory location.
-      </figcaption>
-    </figure>
-  </section>
-</div>
+<h2>Photos</h2>
+<figure class="center">
+  <a href="images/Boulder_half_size.jpg"><img
+    src="images/Boulder_small.jpg"
+    alt="The Boulder magnetic observatory."
+    title="The Boulder magnetic observatory."
+     /></a>
+  <figcaption>
+    The Boulder magnetic observatory. Variations and Proton Sensor
+    buildings at the lower right.
+  </figcaption>
+</figure>
+<figure>
+  <a href="images/Boulder02_half_size.jpg"><img
+    src="images/Boulder02_small.jpg"
+    alt="Azimuth mark, Absolutes building and Coil building at Boulder
+      magnetic observatory."
+    title="Azimuth mark, Absolutes building and Coil building at Boulder
+      magnetic observatory."
+    /></a>
+  <figcaption>
+    Azimuth mark, Absolutes building and Coil building at Boulder magnetic
+    observatory.
+  </figcaption>
+</figure>
+<figure>
+  <a href="images/theodolite_half_size.jpg"><img
+    src="images/theodolite_quarter_size.jpg"
+    alt="Theodolite for making absolute measurements at Boulder."
+    title="Theodolite for making absolute measurements at Boulder."
+     /></a>
+  <figcaption>
+    Zeiss Jena 010B Theodolite for making absolute measurements at Boulder
+    magnetic observatory.
+  </figcaption>
+</figure>
+<figure>
+  <a href="images/Boulder_Historical_Map.jpg"><img
+  src="images/Boulder_Historical_Map_small.jpg"
+  alt="Historic topographic map of Boulder Magnetic Observatory location."
+  title="Historic topographic map of Boulder Magnetic Observatory location."
+   /></a>
+  <figcaption>
+    Historic topographic map of Boulder Magnetic Observatory location.
+  </figcaption>
+</figure>

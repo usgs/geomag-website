@@ -1,8 +1,9 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Tucson (TUC)';
-  $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
-          <meta name="viewport" content="width=device-width">';
+  $HEAD = '
+    <link rel="stylesheet" href="../styles.css"/>
+  ';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
@@ -10,7 +11,7 @@ if (!isset($TEMPLATE)) {
 
 <div class="row">
   <div class="one-of-two column">
-    <table class="tabular">
+    <table>
       <tbody>
         <tr>
           <td>
@@ -49,7 +50,7 @@ if (!isset($TEMPLATE)) {
             Geomagnetic Latitude:
           </td>
           <td>
-            39.88&deg;
+            39.40&deg;<sup>*</sup>
           </td>
         </tr>
         <tr>
@@ -57,7 +58,7 @@ if (!isset($TEMPLATE)) {
             Geomagnetic Longitude:
           </td>
           <td>
-            316.11&deg;
+            317.37&deg;<sup>*</sup>
           </td>
         </tr>
         <tr>
@@ -78,6 +79,11 @@ if (!isset($TEMPLATE)) {
         </tr>
       </tbody>
     </table>
+
+    <p>
+      <sup>*</sup> <a href="http://wdc.kugi.kyoto-u.ac.jp/igrf/gggm/">IGRF</a> values as of 2015.
+    </p>
+
   </div>
   <div class="one-of-two column">
     <figure class="center">
@@ -86,41 +92,32 @@ if (!isset($TEMPLATE)) {
   </div>
 </div>
 
-<div class="tablist">
-  <section class="panel" data-title="Background">
-    <header>
-      <h2>Background</h2>
-    </header>
-    <p>
-      The Geomagnetism Program first established an observatory near Tucson in
-      1910, the current site, in the
-      <a href="http://www.nps.gov/sagu/index.htm">Saguaro National Park</a> ,
-      was installed in 1996.
-    </p>
-    <p>
-      For a more complete history of the Tucson observatory.
-      <a href="/monitoring/observatories/tucson/downloads/History_of_Tucson_Observatory.pdf">History_of_Tucson_Observatory.pdf</a>
-    </p>
-  </section>
+<h2>Background</h2>
+<p>
+  The Geomagnetism Program first established an observatory near Tucson in
+  1910, the current site, in the
+  <a href="http://www.nps.gov/sagu/index.htm">Saguaro National Park</a> ,
+  was installed in 1996.
+</p>
+<p>
+  For a more complete history of the Tucson observatory.
+  <a href="/monitoring/observatories/tucson/downloads/History_of_Tucson_Observatory.pdf">History_of_Tucson_Observatory.pdf</a>
+</p>
 
-  <section class="panel" data-title="Photos">
-    <header>
-      <h2>Photos</h2>
-    </header>
-    <figure class="center">
-      <img src="images/Tucson_third_size.jpg"
-        alt="Tucson magnetic observatory Arizona." />
-      <figcaption>
-        Tucson magnetic observatory Arizona.
-      </figcaption>
-    </figure>
-    <figure>
-      <img src="images/tucson3.jpg" alt="The absolutes building at Tucson." />
-      <figcaption>
-        The Absolutes Building at Tucson.
-        <br/>
-        * Pictures courtesy of Jeff Fox
-      </figcaption>
-    </figure>
-  </section>
-</div>
+<h2>Photos</h2>
+
+<figure class="center">
+  <img src="images/Tucson_third_size.jpg"
+    alt="Tucson magnetic observatory Arizona." />
+  <figcaption>
+    Tucson magnetic observatory Arizona.
+  </figcaption>
+</figure>
+<figure>
+  <img src="images/tucson3.jpg" alt="The absolutes building at Tucson." />
+  <figcaption>
+    The Absolutes Building at Tucson.
+    <br/>
+    * Pictures courtesy of Jeff Fox
+  </figcaption>
+</figure>

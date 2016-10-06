@@ -1,8 +1,9 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Sitka (SIT)';
-  $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
-          <meta name="viewport" content="width=device-width">';
+  $HEAD = '
+    <link rel="stylesheet" href="../styles.css"/>
+  ';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
@@ -10,7 +11,7 @@ if (!isset($TEMPLATE)) {
 
 <div class="row">
   <div class="one-of-two column">
-    <table class="tabular">
+    <table>
       <tbody>
         <tr>
           <td>
@@ -49,7 +50,7 @@ if (!isset($TEMPLATE)) {
             Geomagnetic Latitude:
           </td>
           <td>
-            60.34&deg;
+            60.20&deg;<sup>*</sup>
           </td>
         </tr>
         <tr>
@@ -57,7 +58,7 @@ if (!isset($TEMPLATE)) {
             Geomagnetic Longitude:
           </td>
           <td>
-            280.35&deg;
+            282.32&deg;<sup>*</sup>
           </td>
         </tr>
         <tr>
@@ -78,6 +79,11 @@ if (!isset($TEMPLATE)) {
         </tr>
       </tbody>
     </table>
+
+    <p>
+      <sup>*</sup> <a href="http://wdc.kugi.kyoto-u.ac.jp/igrf/gggm/">IGRF</a> values as of 2015.
+    </p>
+
   </div>
   <div class="one-of-two column">
     <figure class="center">
@@ -86,11 +92,7 @@ if (!isset($TEMPLATE)) {
   </div>
 </div>
 
-<div class="tablist">
-  <section class="panel" data-title="Background">
-    <header>
-      <h2>Background</h2>
-    </header>
+    <h2>Background</h2>
     <p>
       Prior to the purchase of Alaska by the United States, the Russians
       operated a meteorological and magnetic observatory at Sitka from 1842 to
@@ -102,72 +104,63 @@ if (!isset($TEMPLATE)) {
       <a href="http://www.blm.gov/ak/st/en.html">Bureau of Land Management</a>
       (BLM).
     </p>
-  </section>
 
-  <section class="panel" data-title="Other Operations">
-    <header>
-      <h2>Other Operations</h2>
-    </header>
-    <ul>
-      <li>
-        A seismometer for the <a href="http://wcatwc.arh.noaa.gov/">Alaskan
-        Tsunami Warning Center</a> of NOAA.
-      </li>
-      <li>
-        <a href="https://www.ncdc.noaa.gov/crn/station.htm?stationId=1166">US Climate Reference Network
-        </a> (USCRN)
-      </li>
-      <li>
-        <a href="http://fire.ak.blm.gov/afs/">BLM Alaska lightning detection
-        system</a>
-      </li>
-	    <li>
-        <a href="/downloads/tma32597-Patterson-New Magnetic Obsy at Sitka.pdf">New Magnetic Observatory at Sitka Alaska</a> 
-      </li>
-    </ul>
-  </section>
+<h2>Other Operations</h2>
+<ul>
+  <li>
+    A seismometer for the <a href="http://wcatwc.arh.noaa.gov/">Alaskan
+    Tsunami Warning Center</a> of NOAA.
+  </li>
+  <li>
+    <a href="https://www.ncdc.noaa.gov/crn/station.htm?stationId=1166">US Climate Reference Network
+    </a> (USCRN)
+  </li>
+  <li>
+    <a href="http://fire.ak.blm.gov/afs/">BLM Alaska lightning detection
+    system</a>
+  </li>
+  <li>
+    <a href="/downloads/tma32597-Patterson-New Magnetic Obsy at Sitka.pdf">New Magnetic Observatory at Sitka Alaska</a>
+  </li>
+</ul>
 
-  <section class="panel" data-title="Photos">
-    <header>
-      <h2>Photos</h2>
-    </header>
-    <figure class="center">
-      <img src="images/Sitka_third_size.jpg"
-        alt="Absolutes and variations buildings at Sitka, AK magnetic
-        observatory." />
-      <figcaption>
-        Absolutes and variations buildings at Sitka, AK magnetic observatory.
-      </figcaption>
-    </figure>
-    <figure class="center">
-      <img src="images/SIT_electronics.jpg"
-        alt="Absolutes building at Sitka magnetic observatory Alaska." />
-      <figcaption>
-        Electronics building at Sitka magnetic observatory Alaska.*
-      </figcaption>
-    </figure>
-    <figure class="center">
-      <img src="images/Sitka_AK_third_size.jpg" alt="Sitka, AK."
-        title="Sitka, AK." />
-      <figcaption>
-        Sitka, AK.*
-      </figcaption>
-    </figure>
-    <figure class="center">
-      <img src="images/sitka_res.jpg"
-        alt="Observer&#39;s residence and office building." />
-      <figcaption>
-        Observer&#39;s Residence and Office Building.
-      </figcaption>
-    </figure>
-    <figure class="center">
-      <img src="images/Sitka_obs50p.jpg"
-        alt="Magnetic observations being made by F. P. Ulrich at Sitka in 1929."/>
-      <figcaption>
-        Magnetic Observations being made by F. P. Ulrich at Sitka in 1929.
-        <br/>
-        * Pictures courtesy of Jeff Fox
-      </figcaption>
-    </figure>
-  </section>
-</div>
+<h2>Photos</h2>
+
+<figure class="center">
+  <img src="images/Sitka_third_size.jpg"
+    alt="Absolutes and variations buildings at Sitka, AK magnetic
+    observatory." />
+  <figcaption>
+    Absolutes and variations buildings at Sitka, AK magnetic observatory.
+  </figcaption>
+</figure>
+<figure class="center">
+  <img src="images/SIT_electronics.jpg"
+    alt="Absolutes building at Sitka magnetic observatory Alaska." />
+  <figcaption>
+    Electronics building at Sitka magnetic observatory Alaska.*
+  </figcaption>
+</figure>
+<figure class="center">
+  <img src="images/Sitka_AK_third_size.jpg" alt="Sitka, AK."
+    title="Sitka, AK." />
+  <figcaption>
+    Sitka, AK.*
+  </figcaption>
+</figure>
+<figure class="center">
+  <img src="images/sitka_res.jpg"
+    alt="Observer&#39;s residence and office building." />
+  <figcaption>
+    Observer&#39;s Residence and Office Building.
+  </figcaption>
+</figure>
+<figure class="center">
+  <img src="images/Sitka_obs50p.jpg"
+    alt="Magnetic observations being made by F. P. Ulrich at Sitka in 1929."/>
+  <figcaption>
+    Magnetic Observations being made by F. P. Ulrich at Sitka in 1929.
+    <br/>
+    * Pictures courtesy of Jeff Fox
+  </figcaption>
+</figure>
