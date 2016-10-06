@@ -90,11 +90,11 @@ if (!isset($TEMPLATE)) {
       Baker, D. N., et al. (2008), Severe Space Weather Events—Understanding
       Societal and Economic Impacts, Natl. Acad. Press, Washington, DC.
     </li>
-    <li>
-      <b>
-        Last Updated 2014-10-06 18:01:46	by Jeffrey J. Love &amp; Jennifer L.
-        Gannon Prepared on January 24, 2012
-      </b>
-    </li>
   </ul>
+  <p>
+    <b>
+      Last Updated 2014-10-06 18:01:46	by Jeffrey J. Love &amp; Jennifer L.
+      Gannon Prepared on January 24, 2012
+    </b>
+  </P>
 </div>
