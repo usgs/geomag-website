@@ -21,8 +21,4 @@ if (!isset($TEMPLATE)) {
       Last Updated 2015-03-24 18:48:03
     </b>
   </p>
-
-  <p>
-    <a href="http://geomag.usgs.gov/map/#storm/17">View Storm Data</a>
-  </p>
 </div>
