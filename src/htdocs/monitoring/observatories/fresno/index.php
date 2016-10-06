@@ -1,8 +1,9 @@
 <?php
 if (!isset($TEMPLATE)) {
   $TITLE = 'Fresno (FRN)';
-  $HEAD = '<link rel="stylesheet" href="tablist/tablist.css"/>
-          <meta name="viewport" content="width=device-width">';
+  $HEAD = '
+    <link rel="stylesheet" href="../styles.css"/>
+  ';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
@@ -10,7 +11,7 @@ if (!isset($TEMPLATE)) {
 
 <div class="row">
   <div class="one-of-two column">
-    <table class="tabular">
+    <table>
       <tbody>
         <tr>
           <td>
@@ -49,7 +50,7 @@ if (!isset($TEMPLATE)) {
             Geomagnetic Latitude:
           </td>
           <td>
-            43.52&deg;
+            43.12&deg;<sup>*</sup>
           </td>
         </tr>
         <tr>
@@ -57,7 +58,7 @@ if (!isset($TEMPLATE)) {
             Geomagnetic Longitude:
           </td>
           <td>
-            305.25&deg;
+            306.64&deg;<sup>*</sup>
           </td>
         </tr>
         <tr>
@@ -78,6 +79,11 @@ if (!isset($TEMPLATE)) {
         </tr>
       </tbody>
     </table>
+
+    <p>
+      <sup>*</sup> <a href="http://wdc.kugi.kyoto-u.ac.jp/igrf/gggm/">IGRF</a> values as of 2015.
+    </p>
+
   </div>
   <div class="one-of-two column">
     <figure class="center">
@@ -86,23 +92,16 @@ if (!isset($TEMPLATE)) {
   </div>
 </div>
 
-<div class="tablist">
-  <section class="panel" data-title="Background">
-    <header>
-      <h2>Background</h2>
-    </header>
+    <h2>Background</h2>
     <p>
       The Geomagnetism Program established an observatory near Fresno in 1980.
       The observatory is on the <a href="http://www.fs.fed.us/r5/">Pacific
       Southwest Research Station </a>of the US Forest Service  under terms of
       an agreement with the USGS and the Geomagnetism Program.
     </p>
-  </section>
 
-  <section class="panel" data-title="Photos">
-    <header>
-      <h2>Photos</h2>
-    </header>
+    <h2>Photos</h2>
+
     <figure class="center">
       <img src="images/Fresno_third_size.jpg"
         alt="Fresno magnetic observatory." />
@@ -110,5 +109,3 @@ if (!isset($TEMPLATE)) {
           Fresno magnetic observatory.
         </figcaption>
     </figure>
-  </section>
-</div>
