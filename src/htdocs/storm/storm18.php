@@ -58,8 +58,4 @@ if (!isset($TEMPLATE)) {
   <p>
     <b>Last Updated 2014-03-18 21:28:51	by E. J. Rigler</b>
   </p>
-
-  <p>
-    <a href="http://geomag.usgs.gov/map/#storm/18">View Storm Data</a>
-  </p>
 </div>

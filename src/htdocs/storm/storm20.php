@@ -57,8 +57,4 @@ if (!isset($TEMPLATE)) {
       2010
     </b>
   </p>
-
-  <p>
-    <a href="http://geomag.usgs.gov/map/#storm/20">View Storm Data</a>
-  </p>
 </div>

@@ -97,8 +97,4 @@ if (!isset($TEMPLATE)) {
       </b>
     </li>
   </ul>
-
-  <p>
-    <a href="http://geomag.usgs.gov/map/#storm/12">View Storm Data</a>
-  </p>
 </div>

@@ -106,8 +106,4 @@ if (!isset($TEMPLATE)) {
       USGS Geomagnetism Program Prepared on June 23, 2015
     </b>
   </p>
-
-  <p>
-    <a href="http://geomag.usgs.gov/map/#storm/23">View Storm Data</a>
-  </p>
 </div>

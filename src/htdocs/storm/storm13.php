@@ -93,8 +93,4 @@ if (!isset($TEMPLATE)) {
       Gannon Prepared on September 27, 2011
     </b>
   </p>
-
-  <p>
-    <a href="http://geomag.usgs.gov/map/#storm/13">View Storm Data</a>
-  </p>
 </div>

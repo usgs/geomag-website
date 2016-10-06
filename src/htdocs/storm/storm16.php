@@ -20,8 +20,4 @@ if (!isset($TEMPLATE)) {
   <p>
     <b>Last Updated 2014-02-25 22:32:48	by JGannon</b>
   </p>
-
-  <p>
-    <a href="http://geomag.usgs.gov/map/#storm/16">View Storm Data</a>
-  </p>
 </div>
