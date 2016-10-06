@@ -52,15 +52,6 @@
         </p>
       </li>
       <li>
-        <a href="/map/">
-          <h2>Real-Time Geomagnetic Conditions</h2>
-          <img src="/images/map_final.png" alt=""/>
-        </a>
-        <p>
-          Real-time data map display from USGS geomagnetic observatories.
-        </p>
-      </li>
-      <li>
         <a href="/realtime/dst">
           <h2>Real-Time Dst Display</h2>
           <img src="/images/dst.gif" alt=""/>
