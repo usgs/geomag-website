@@ -50,7 +50,7 @@ if (!isset($TEMPLATE)) {
             Geomagnetic Latitude:
           </td>
           <td>
-            54.37&deg;<sup>*</sup>
+            54.37&deg;N<sup>*</sup>
           </td>
         </tr>
         <tr>
@@ -58,7 +58,7 @@ if (!isset($TEMPLATE)) {
             Geomagnetic Longitude:
           </td>
           <td>
-            258.42&deg;<sup>*</sup>
+            258.42&deg;E<sup>*</sup>
           </td>
         </tr>
         <tr>
