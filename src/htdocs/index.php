@@ -11,14 +11,14 @@ if (!isset($TEMPLATE)) {
 ?>
 <div class="row">
   <div class="one-of-two column">
+    <img src="images/geoelectric-geomagnetic-hazard.gif" alt="satellite photo of the US at night with lights"/>
     <ul class="linklist no-style">
       <li>
-        <a href="http://www.usgs.gov/blogs/features/usgs_top_story/the-nation-prepares-for-extreme-space-weather/">
-          <h2>USGS Science Feature: The Nation Prepares for Extreme Space Weather</h2>
+        <a href="https://eos.org/research-spotlights/mapping-geoelectric-hazards-across-the-united-states">
+          <h2>Highlight: Mapping Geoelectric Hazards Across the United States - EOS</h2>
         </a>
         <p>
-          Space weather can pose a threat to our national security and economy.
-          A new National Strategy will help the country prepare and plan.
+          Variations in Earth’s magnetic field can induce electric fields in the ground, driving damaging currents through our power grids.
         </p>
       </li>
     </ul>
