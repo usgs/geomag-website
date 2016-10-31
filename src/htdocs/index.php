@@ -30,7 +30,7 @@ if (!isset($TEMPLATE)) {
     <hr />
 
     <div>
-      <h3>New Video - Hazards: Geomagnetic Storms</h3>
+      <h3>Video - Hazards: Geomagnetic Storms</h3>
       <p>
         View <a href="http://www.youtube.com/watch?v=s9YGOUWpH8s">
             "Hazards: Geomagnetic Storms"</a> - a 7-minute introductory video
