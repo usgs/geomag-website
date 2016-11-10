@@ -17,7 +17,7 @@ $SITE_SITENAV =
 $SITE_COMMONNAV =
   navItem('/', 'Home') .
   navItem('/about.php', 'About Us') .
-  navItem('/contact.php', 'Contact Us') .
+  navItem('/contact.php', 'Contacts') .
   navItem('/legal.php', 'Legal');
 
 $HEAD =
@@ -45,8 +45,10 @@ $HEAD =
 
 // comments and questions default
 if (!isset($CONTACT)) {
-  $CONTACT = 'geomagdata@usgs.gov';
+  $CONTACT_URL = 'https://answers.usgs.gov/cgi-bin/gsanswers';
 }
-$CONTACT_URL = 'mailto:{CONTACT}';
+else {
+  $CONTACT_URL = 'mailto:{CONTACT}?subject=Geomag%20Website%20Email%20';
+}
 
 ?>
