@@ -61,18 +61,6 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/Claycomb_Abe.jpg" alt=""
-              class="column mobile-one-of-four" />
-          <div class="column mobile-three-of-four">
-            Abe Claycomb<br/>
-            Operations/Development<br/>
-            Ph: (303) 273-8430<br/>
-            <a href="mailto:jcaldwell@usgs.gov">aclaycomb@usgs.gov</a>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="row">
           <img src="/images/staff/Kelbert_Anna.jpg" alt=""
               class="column mobile-one-of-four" />
           <div class="column mobile-three-of-four">
@@ -128,17 +116,6 @@
             Electronics<br/>
             Ph: (303) 273-8471<br/>
             <a href="mailto:esauter@usgs.gov">esauter@usgs.gov</a>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="row">
-          <img src="/images/staff/Simpson_Hal.jpg" alt=""
-              class="column mobile-one-of-four" />
-          <div class="column mobile-three-of-four">
-            Hal A. Simpson<br/>
-            Software Development<br/>
-            <a href="mailto:hasimpson@usgs.gov">hasimpson@usgs.gov</a>
           </div>
         </div>
       </li>
