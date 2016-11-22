@@ -67,7 +67,7 @@ if (!isset($TEMPLATE)) {
             Elevation:
           </td>
           <td>
-            12 meters
+            10 meters
           </td>
         </tr>
         <tr>
