@@ -70,12 +70,12 @@ if (!isset($TEMPLATE)) {
     <li>Additional Information:</li>
     <li>
       Real-time data from the USGS observatories, including the Dst index,
-      can be found at <a href="http://geomag.usgs.gov">http://geomag.usgs.gov
+      can be found at <a href="https://geomag.usgs.gov">https://geomag.usgs.gov
       </a>
     </li>
     <li>
       Space weather predictions can be found at
-      <a href="http://www.swpc.noaa.gov">http://www.swpc.noaa.gov</a>
+      <a href="https://www.swpc.noaa.gov">https://www.swpc.noaa.gov</a>
     </li>
     <li>
       <a href="https://www.nap.edu/catalog/12507/severe-space-weather-events-understanding-societal-and-economic-impacts-a">
@@ -85,7 +85,7 @@ if (!isset($TEMPLATE)) {
       </a>
     </li>
     <li>
-      <a href="http://pubs.usgs.gov/of/2011/1030/">
+      <a href="https://pubs.usgs.gov/of/2011/1030/">
         Gannon, J. L. et al.: U.S. Geological Survey Near Real-Time Dst Index,
         USGS Open-File Rep. 2011-1030, 2011.
       </a>

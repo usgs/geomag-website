@@ -63,6 +63,6 @@
   world. Intermagnet data, which include those from USGS observatories, are
   available through the <a href="http://www.intermagnet.org">Intermagnet
   website</a> on their Intermagnet Data Download page. Visit our
-  <a href="http://geomag.usgs.gov/products/downloads.php">Download</a> page for
+  <a href="/products/downloads.php">Download</a> page for
   more ways to get USGS data.
 </p>
