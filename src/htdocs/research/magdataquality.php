@@ -31,7 +31,7 @@ if (!isset($TEMPLATE)) {
     Worthington, E. W., Sauter, E. A. &amp; Love, J. J., 2009.
     <a href="/downloads/publications/Proceedings_262-266.pdf">
       Analysis of USGS one-second data</a>,
-    <a href="http://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
+    <a href="https://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
     Golden, CO, Love, J. J. (ed.), pp. 262-266.
   </li>
   <li>

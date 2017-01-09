@@ -5,7 +5,7 @@ if (!isset($TEMPLATE)) {
   $NAVIGATION = true;
   include 'template.inc.php';
 }
- //header( 'Location: http://geomag.usgs.gov/publications/comicbook/' ) ;
+ //header( 'Location: https://geomag.usgs.gov/publications/comicbook/' ) ;
 ?>
 
 <p>

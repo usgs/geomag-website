@@ -62,8 +62,8 @@ if (!isset($TEMPLATE)) {
 
   <ul>
     <li>
-      <a href="http://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/06/22/aurora-watch-tonight-g4-geomagnetic-storm-erupts-after-solar-flares/">
-        http://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/06/22/aurora-watch-tonight-g4-geomagnetic-storm-erupts-after-solar-flares/
+      <a href="https://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/06/22/aurora-watch-tonight-g4-geomagnetic-storm-erupts-after-solar-flares/">
+        https://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/06/22/aurora-watch-tonight-g4-geomagnetic-storm-erupts-after-solar-flares/
       </a>
     </li>
     <li>
@@ -82,12 +82,12 @@ if (!isset($TEMPLATE)) {
       </a>
     </li>
     <li>
-      <a href="http://www.usgs.gov/blogs/features/usgs_top_story/summer-starts-with-a-simmering-geomagnetic-storm/?from=title">
-        http://www.usgs.gov/blogs/features/usgs_top_story/summer-starts-with-a-simmering-geomagnetic-storm/?from=title
+      <a href="https://www.usgs.gov/blogs/features/usgs_top_story/summer-starts-with-a-simmering-geomagnetic-storm/?from=title">
+        https://www.usgs.gov/blogs/features/usgs_top_story/summer-starts-with-a-simmering-geomagnetic-storm/?from=title
       </a>
     </li>
     <li>
-      USGS Geomagnetism Program: <a href="http://geomag.usgs.gov/">
+      USGS Geomagnetism Program: <a href="https://geomag.usgs.gov/">
       geomag.usgs.gov</a>
     </li>
     <li>
@@ -95,7 +95,7 @@ if (!isset($TEMPLATE)) {
       www.intermagnet.org</a>
     </li>
     <li>
-      NOAA Space Weather Prediction Center: <a href="http://www.swpc.noaa.gov/">
+      NOAA Space Weather Prediction Center: <a href="https://www.swpc.noaa.gov/">
         swpc.noaa.gov</a>
     </li>
   </ul>

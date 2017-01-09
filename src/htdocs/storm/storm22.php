@@ -65,8 +65,8 @@ if (!isset($TEMPLATE)) {
 
   <ul>
     <li>
-      <a href="http://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/03/17/severe-geomagnetic-storm-spurs-beautiful-st-patricks-day-aurora-photos/">
-        http://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/03/17/severe-geomagnetic-storm-spurs-beautiful-st-patricks-day-aurora-photos/
+      <a href="https://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/03/17/severe-geomagnetic-storm-spurs-beautiful-st-patricks-day-aurora-photos/">
+        https://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/03/17/severe-geomagnetic-storm-spurs-beautiful-st-patricks-day-aurora-photos/
       </a>
     </li>
     <li>
@@ -80,7 +80,7 @@ if (!isset($TEMPLATE)) {
       </a>
     </li>
     <li>
-      USGS Geomagnetism Program: <a href="http://geomag.usgs.gov/">
+      USGS Geomagnetism Program: <a href="https://geomag.usgs.gov/">
       geomag.usgs.gov</a>
     </li>
     <li>
@@ -88,13 +88,13 @@ if (!isset($TEMPLATE)) {
       www.intermagnet.org</a>
     </li>
     <li>
-      NOAA Space Weather Prediction Center: <a href="http://www.swpc.noaa.gov/">
+      NOAA Space Weather Prediction Center: <a href="https://www.swpc.noaa.gov/">
       swpc.noaa.gov</a>
     </li>
     <li>
       NOAA Space Weather forecasts:
-      <a href="http://www.swpc.noaa.gov/forecasts">
-        http://www.swpc.noaa.gov/forecasts
+      <a href="https://www.swpc.noaa.gov/forecasts">
+        https://www.swpc.noaa.gov/forecasts
       </a>
     </li>
     <li>

@@ -18,7 +18,7 @@ if (!isset($TEMPLATE)) {
     <h3>View Data</h3>
     <p>
       To view geomagnetic data use
-      <a href="http://geomag.usgs.gov/plots/">Geomag Plots</a>.
+      <a href="https://geomag.usgs.gov/plots/">Geomag Plots</a>.
     </p>
     <h3>Retrieve Data</h3>
     <ul>
