@@ -8,12 +8,12 @@ if (!isset($TEMPLATE)) {
 ?>
 
 <p>
-  View <a href="http://www.youtube.com/watch?v=s9YGOUWpH8s">"Hazards:
+  View <a href="https://www.youtube.com/watch?v=s9YGOUWpH8s">"Hazards:
   Geomagnetic Storms"</a> - a 7-minute introductory video
 </p>
 
 <div class="iframe-container">
-  <iframe class="iframe" src="//www.youtube.com/embed/s9YGOUWpH8s"
+  <iframe class="iframe" src="https://www.youtube.com/embed/s9YGOUWpH8s"
       allowfullscreen="">
   </iframe>
 </div>
@@ -110,7 +110,7 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     Love, J. J., Applegate, D. &amp; Townshend, J .B., 2008.
-    <a href="http://pubs.usgs.gov/fs/2007/3092/">Monitoring the Earth's Dynamic
+    <a href="https://pubs.usgs.gov/fs/2007/3092/">Monitoring the Earth's Dynamic
     Magnetic Field</a>, USGS Fact Sheet, 2007-3092.
   </li>
 </ul>

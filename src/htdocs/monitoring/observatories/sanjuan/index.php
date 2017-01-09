@@ -103,7 +103,7 @@ if (!isset($TEMPLATE)) {
 <ul>
   <li>
     A seismometer for the
-    <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&amp;station=SJG">USGS
+    <a href="https://earthquake.usgs.gov/monitoring/operations/station.php?network=IU&amp;station=SJG">USGS
       Global Seismic Network</a>.
   </li>
   <li>
@@ -112,11 +112,11 @@ if (!isset($TEMPLATE)) {
       Network</a>.
   </li>
   <li>
-    <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=184&amp;cHash=64d70f964b">CTBTO
+    <a href="https://www.ctbto.org/verification-regime/station-profiles/?station=184&amp;cHash=64d70f964b">CTBTO
       IMS Auxiliary Seismic Station</a>
   </li>
   <li>
-    <a href="http://www.ngdc.noaa.gov/stp/IONO">NOAA National Centers for
+    <a href="https://www.ngdc.noaa.gov/stp/IONO">NOAA National Centers for
     Environmental Information (NCEI) ionosonde</a>
   </li>
 </ul>

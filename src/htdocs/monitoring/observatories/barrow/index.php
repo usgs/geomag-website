@@ -85,7 +85,7 @@ if (!isset($TEMPLATE)) {
   <sup>*</sup> <a href="http://wdc.kugi.kyoto-u.ac.jp/igrf/gggm/">IGRF</a> values as of 2015.
 </p>
 
-<a href="http://www.ncdc.noaa.gov/crn/station.htm?stationId=1007">Current
+<a href="https://www.ncdc.noaa.gov/crn/station.htm?stationId=1007">Current
 Weather Conditions</a>
 </div>
 
@@ -108,20 +108,20 @@ Weather Conditions</a>
   of particular importance to the Geomagnetism Program because it is the
   most northerly of all the USGS observatories, being located well within
   the auroral oval. The observatory is operated with the cooperative
-  assistance of the <a href="http://www.cmdl.noaa.gov">Global Monitoring
+  assistance of the <a href="https://www.cmdl.noaa.gov">Global Monitoring
   Division</a> of NOAA, and in partnership with the
-  <a href="http://www.blm.gov/ak/st/en.html">Bureau of Land Management</a>
+  <a href="https://www.blm.gov/ak/st/en.html">Bureau of Land Management</a>
   (BLM).
 </p>
 
   <h2>Other Operations</h2>
 <ul>
   <li>
-    <a href="http://www.esrl.noaa.gov/gmd/obop/brw/index.html ">NOAA
+    <a href="https://www.esrl.noaa.gov/gmd/obop/brw/index.html ">NOAA
     Barrow Observatory</a>
   </li>
   <li>
-    <a href="http://www.arm.gov/sites/nsa/C1/ ">DOE ARM Program</a>
+    <a href="https://www.arm.gov/sites/nsa/C1/ ">DOE ARM Program</a>
   </li>
 </ul>
 
@@ -144,7 +144,7 @@ Weather Conditions</a>
 
   <h2>Photos</h2>
 <figure class="center">
-  <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Barrow.jpg"
+  <img src="https://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Barrow.jpg"
   alt="" />
   <figcaption>
     The Barrow magnetic observatory. New combo building is on the left.
@@ -152,35 +152,35 @@ Weather Conditions</a>
   </figcaption>
 </figure>
 <figure class="center">
-  <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Geomagnetic_Crew.jpg"
+  <img src="https://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Geomagnetic_Crew.jpg"
   alt="" />
   <figcaption>
     The Golden Geomagnetic crew in Barrow, Alaska.
   </figcaption>
 </figure>
 <figure class="center">
-  <img src="http://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/magnetometer.jpg"
+  <img src="https://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/magnetometer.jpg"
   alt="" />
   <figcaption>
     A field magnetometer.
   </figcaption>
 </figure>
 <figure class="center">
-  <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow1.jpg"
+  <img src="https://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow1.jpg"
   alt="" />
   <figcaption>
     Absolute instrument pier cross-section from Barrow, AK.
   </figcaption>
 </figure>
 <figure class="center">
-  <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow2.jpg"
+  <img src="https://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow2.jpg"
   alt="" />
   <figcaption>
     Photo from Barrow, AK geomagentic observatory.
   </figcaption>
 </figure>
 <figure class="center">
-  <img src="http://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow3.jpg"
+  <img src="https://gallery.usgs.gov/images/04_26_2012/aeu2YLk88R_04_26_2012/medium/barrow3.jpg"
   alt="" />
   <figcaption>
     Photo from Barrow, AK geomagentic observatory.

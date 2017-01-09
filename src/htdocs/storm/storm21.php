@@ -51,8 +51,8 @@ if (!isset($TEMPLATE)) {
 
   <ul>
     <li>
-      <a href="http://www.npr.org/blogs/thetwo-way/2014/09/13/348185814/northern-lights-put-on-show-thanks-to-large-solar-flare">
-        http://www.npr.org/blogs/thetwo-way/2014/09/13/348185814/northern-lights-put-on-show-thanks-to-large-solar-flare
+      <a href="https://www.npr.org/blogs/thetwo-way/2014/09/13/348185814/northern-lights-put-on-show-thanks-to-large-solar-flare">
+        https://www.npr.org/blogs/thetwo-way/2014/09/13/348185814/northern-lights-put-on-show-thanks-to-large-solar-flare
       </a>
     </li>
     <li>
@@ -61,7 +61,7 @@ if (!isset($TEMPLATE)) {
       </a>
     </li>
     <li>
-      USGS Geomagnetism Program: <a href="http://geomag.usgs.gov/">geomag.usgs.gov</a>
+      USGS Geomagnetism Program: <a href="https://geomag.usgs.gov/">geomag.usgs.gov</a>
     </li>
     <li>
       Intermagnet data: <a href="http://www.intermagnet.org">www.intermagnet.org</a>

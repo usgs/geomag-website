@@ -109,7 +109,7 @@ if (!isset($TEMPLATE)) {
   facility established in 1996 through a collaborative effort between the
   USGS Geomagnetism Program and the University of Alaska.  The CIGO is
   managed by the University's
-  <a href='http://www.gi.alaska.edu'>Geophysical Institute</a>.  In 2009,
+  <a href="http://www.gi.alaska.edu">Geophysical Institute</a>.  In 2009,
   the 46-acre site was renamed to the Jack Townshend CIGO, in honor of
   longtime USGS employee Jack Townshend, the visionary and developer
   of the site.
@@ -119,11 +119,11 @@ if (!isset($TEMPLATE)) {
 <ul>
   <li>
     A borehole seismometer for the USGS
-    <a href='http://earthquake.usgs.gov/regional/asl/'>Global Seismic
+    <a href="https://earthquake.usgs.gov/regional/asl/">Global Seismic
     Network</a>
   </li>
   <li>
-    A seismometer for the <a href='http://wcatwc.arh.noaa.gov/'>Alaskan
+    A seismometer for the <a href="https://wcatwc.arh.noaa.gov/">Alaskan
     Tsunami Warning Center</a>
   </li>
   <li>
@@ -131,16 +131,16 @@ if (!isset($TEMPLATE)) {
     the University and the USGS
   </li>
   <li>
-    A magnetometer operated for the <a href='http://magnet.gi.alaska.edu'>
+    A magnetometer operated for the <a href="http://magnet.gi.alaska.edu">
     Geophysical Institute Magnetometer Array</a>
   </li>
   <li>
     An infrasound array operated by the
-    <a href='http://www2.gi.alaska.edu/infrasound/'>Infrasound Research
+    <a href="http://www2.gi.alaska.edu/infrasound/">Infrasound Research
     Group</a> of the UAF/GI
   </li>
   <li>
-    <a href='http://webflash.ess.washington.edu'>World-Wide Lightning
+    <a href="http://webflash.ess.washington.edu">World-Wide Lightning
     Location Network</a> (WWLLN)
   </li>
 </ul>

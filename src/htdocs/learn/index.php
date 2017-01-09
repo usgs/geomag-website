@@ -29,7 +29,7 @@ if (!isset($TEMPLATE)) {
         </a>
       </li>
       <li>
-        <a href="http://www.usgs.gov/faq/?q=taxonomy/term/9782">
+        <a href="https://www.usgs.gov/faq/?q=taxonomy/term/9782">
           <h2>FAQ's</h2>
           <img src="/images/faq.gif" alt=""/>
         </a>

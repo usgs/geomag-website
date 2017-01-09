@@ -95,7 +95,7 @@ if (!isset($TEMPLATE)) {
     <h2>Background</h2>
     <p>
       The Newport observatory was established in 1966.  The site, located in
-      the <a href="http://www.fs.usda.gov/colville">Colville National Forest</a>
+      the <a href="https://www.fs.usda.gov/colville">Colville National Forest</a>
       outside of Newport, supports several geophysical operations, and is
       operated by the USGS under a special use permit with the US Forest
       Service.
@@ -105,15 +105,15 @@ if (!isset($TEMPLATE)) {
     <ul>
       <li>
         A seismometer for the USGS
-        <a href="http://earthquake.usgs.gov/monitoring/operations/station.php?network=US&amp;station=NEW">Advanced
+        <a href="https://earthquake.usgs.gov/monitoring/operations/station.php?network=US&amp;station=NEW">Advanced
             National Seismic System Program</a>
       </li>
       <li>
-        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=183&amp;cHash=d639b7b197">CTBTO
+        <a href="https://www.ctbto.org/verification-regime/station-profiles/?station=183&amp;cHash=d639b7b197">CTBTO
             IMS Auxiliary Seismic Station</a>
       </li>
       <li>
-        <a href="http://www.ctbto.org/verification-regime/station-profiles/?station=272&amp;cHash=9f9ace0e41">CTBTO
+        <a href="https://www.ctbto.org/verification-regime/station-profiles/?station=272&amp;cHash=9f9ace0e41">CTBTO
             IMS Infrasound array</a>
       </li>
     </ul>

@@ -53,7 +53,7 @@ if (!isset($TEMPLATE)) {
   <li>
     Blum, C., Love, J. J., Pedrie, K., Bedrosian, P. A. &amp; Rigler, E. J.,
     2015.
-    <a href="http://pubs.er.usgs.gov/publication/ofr20151185">
+    <a href="https://pubs.er.usgs.gov/publication/ofr20151185">
       A one-dimensional model of solid-earth electrical resistivity beneath
       Florida</a>,
       USGS Open-File Report, 2015-1185, 16 p., doi:10.3133/ofr20151185.
@@ -75,7 +75,7 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     Love, J. J., Finn, C. A., Pedrie, K. L. &amp; Blum, C. C., 2015.
-    <a href="http://pubs.er.usgs.gov/publication/ofr20151125">The Boulder
+    <a href="https://pubs.er.usgs.gov/publication/ofr20151125">The Boulder
       magnetic observatory</a>,
     USGS Open-File Report, 2015-1125, 8 p., doi:10.3133/ofr20151125.
   </li>
@@ -169,7 +169,7 @@ if (!isset($TEMPLATE)) {
     Earth Planet. Sci. Lett., 402, 290-304, doi:10.1016/j.epsl.2013.12.026.
   </li>
   <li>White, T. C., Sauter, E. A. &amp; Stewart, D. C., 2014.
-    <a href="http://dx.doi.org/10.3133/sir20145045">Discovery and analysis of
+    <a href="https://dx.doi.org/10.3133/sir20145045">Discovery and analysis of
       time delay sources in the USGS personal computer data collection platform
       (PCDCP) system</a>,
     USGS Scientific Investigations Report, 2014–5045, 24 p.
@@ -190,7 +190,7 @@ if (!isset($TEMPLATE)) {
     Holmes, R. R., Jones, L. M., Eidenshink, J. C., Godt, J. W., Kirby, S. H.,
     Love, J. J., Neal, C. A., Plant, N. G., Plunkett, M. L., Weaver, C. S.,
     Wein, A. &amp; Perry, S. C., 2013.
-    <a href="http://pubs.usgs.gov/circ/1383f/">U.S. Geological Survey Natural
+    <a href="https://pubs.usgs.gov/circ/1383f/">U.S. Geological Survey Natural
       Hazards Science Strategy -- Promoting the Safety, Security, and Economic
       Well-Being of the Nation</a>,
     USGS Circular, 1383-F, 79 p.
@@ -245,7 +245,7 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     Xu, Z., Gannon, J. L. &amp; Rigler, E. J., 2013.
-    <a href="http://pubs.usgs.gov/of/2013/1166/">Report of geomagnetic
+    <a href="https://pubs.usgs.gov/of/2013/1166/">Report of geomagnetic
       pulsation indices for space weather applications</a>:
     USGS Open-File Report, 2013–1166, 22 p.
   </li>
@@ -348,7 +348,7 @@ if (!isset($TEMPLATE)) {
   <li>
     Gannon, J. L., Love, J. J., Friberg, P. A., Stewart, D. C. &amp; Lisowski,
     S. W., 2011.
-    <a href="http://pubs.usgs.gov/of/2011/1030/">U.S. Geological Survey Near
+    <a href="https://pubs.usgs.gov/of/2011/1030/">U.S. Geological Survey Near
       Real-Time Dst Index</a>,
     USGS Open-File Report, 2011-1030, 10 p.
   </li>
@@ -435,7 +435,7 @@ if (!isset($TEMPLATE)) {
     Berarducci, A. &amp; Woods, A., 2009.
     <a href="/downloads/publications/Proceedings_1-8.pdf">Absolute measurement
       session</a>,
-    <a href="http://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
+    <a href="https://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
     Golden, CO, Love, J. J. (ed.), pp. 1-8.
   </li>
   <li>
@@ -461,7 +461,7 @@ if (!isset($TEMPLATE)) {
   <li>
     Love, J. J., 2009.
     <a href="/downloads/publications/Proceedings_vi-viii.pdf">Preface</a>,
-    <a href="http://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
+    <a href="https://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
     Golden, CO, Love, J. J. (ed.), pp. vi-viii.
   </li>
   <li>
@@ -478,7 +478,7 @@ if (!isset($TEMPLATE)) {
     <a href="/downloads/publications/Proceedings_202-207.pdf">New substorm
       index derived from high-resolution geomagnetic field data at low
       latitude and its comparison with AE and ASY indices</a>,
-    <a href="http://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
+    <a href="https://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
     Golden, CO, Love, J. J. (ed.), pp. 202-207.
   </li>
   <li>
@@ -520,14 +520,14 @@ if (!isset($TEMPLATE)) {
   <li>
     White, T. C., 2009. <a href="/downloads/publications/Proceedings_9-13.pdf">
     Total field sensor comparison</a>,
-    <a href="http://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
+    <a href="https://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
     Golden, CO, Love, J. J. (ed.), pp. 9-13.
   </li>
   <li>
     Worthington, E. W., Sauter, E. A. &amp; Love, J. J., 2009.
     <a href="/downloads/publications/Proceedings_262-266.pdf">Analysis of USGS
     one-second data</a>,
-    <a href="http://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
+    <a href="https://pubs.usgs.gov/of/2009/1226/">Proc. XIII IAGA Workshop</a>,
     Golden, CO, Love, J. J. (ed.), pp. 262-266.
   </li>
 </ul>
@@ -551,7 +551,7 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     Love, J. J., Applegate, D. &amp; Townshend, J .B., 2008.
-    <a href="http://pubs.usgs.gov/fs/2007/3092/">Monitoring the Earth's Dynamic
+    <a href="https://pubs.usgs.gov/fs/2007/3092/">Monitoring the Earth's Dynamic
       Magnetic Field</a>,
     USGS Fact Sheet, 2007-3092.
   </li>
@@ -637,7 +637,7 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     Rukstales, K. S. &amp; Love, J. J., 2007.
-    <a href="http://pubs.usgs.gov/sim/2007/2964/">International Geomagnetic
+    <a href="https://pubs.usgs.gov/sim/2007/2964/">International Geomagnetic
       Reference Field</a>,
     Five Maps showing Declination, Inclination, Total Intensity,
     Horizontal Intensity, Vertical Intensity, USGS Scientific Investigations
@@ -661,7 +661,7 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     Love, J. J., 2006.
-    <a href="http://pubs.usgs.gov/of/2006/1352/">National Geomagnetism
+    <a href="https://pubs.usgs.gov/of/2006/1352/">National Geomagnetism
       Program: Current Status &amp; Five-Year Plan</a>,
     USGS Open-File Report, 2006-1352, Reston, VA.
   </li>
@@ -743,7 +743,7 @@ if (!isset($TEMPLATE)) {
   <li>
     Tauxe, L. &amp; Love, J. J., 2003.
     <a href=
-      "http://www.agu.org/journals/gc/gc0302/2001GC000276/">Paleointensity
+      "https://www.agu.org/journals/gc/gc0302/2001GC000276/">Paleointensity
       in Hawaiian Scientific Drilling Project Hole (HSDP2): Results from
       submarine basaltic glass</a>,
     Geochem. Geophys. Geosyst., 4, doi:10.1029/2001GC000276.
