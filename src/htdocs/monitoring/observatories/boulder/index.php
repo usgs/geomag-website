@@ -105,9 +105,7 @@ if (!isset($TEMPLATE)) {
   observatory is closest to Program headquarters in Golden.
   Therefore, in addition to serving as a site for routine data collection,
   Boulder also functions as the Program&#8217;s test bed for on-going
-  operational developments. Several new buildings have recently been
-  installed on the site and Program staff are currently working to install
-  a coil-calibration facility.
+  operational developments. Several new buildings have recently been upgraded on the site and Program staff are currently planning to install a coil-calibration facility.
 </p>
 <p>
   <a href="BOU History.pdf">Historic description of Boulder Magnetic
