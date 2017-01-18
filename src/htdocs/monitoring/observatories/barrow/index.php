@@ -121,7 +121,7 @@ Weather Conditions</a>
     Barrow Observatory</a>
   </li>
   <li>
-    <a href="https://www.arm.gov/sites/nsa/C1/ ">DOE ARM Program</a>
+    <a href="https://dis.arm.gov/sites/nsa/C1">DOE ARM Program</a>
   </li>
 </ul>
 
