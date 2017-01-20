@@ -105,7 +105,7 @@ if (!isset($TEMPLATE)) {
   Magnetism of the Carnegie Institution.  Collaborative work with the
   University of Alaska began in the 1940's, with the full-fledged College
   observatory commencing operation in 1948.  Today, the College observatory
-  is located on the College International Geophysical Observaotyr (CIGO), a
+  is located on the College International Geophysical Observatory (CIGO), a
   facility established in 1996 through a collaborative effort between the
   USGS Geomagnetism Program and the University of Alaska.  The CIGO is
   managed by the University's
