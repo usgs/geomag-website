@@ -142,6 +142,7 @@ Weather Conditions</a>
   </li>
 </ul>
 
+<!--
   <h2>Photos</h2>
 <figure class="center">
   <img src="https://gallery.usgs.gov/images/04_26_2012/d28Kb54Aau_04_26_2012/medium/Barrow.jpg"
@@ -186,3 +187,5 @@ Weather Conditions</a>
     Photo from Barrow, AK geomagentic observatory.
   </figcaption>
 </figure>
+ -->
+ 
