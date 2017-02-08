@@ -90,7 +90,7 @@ Press Release
 <p>
   FOR MORE INFORMATION:<br/>
   http://www.gi.alaska.edu/admin/operations/CIGO/CIGO.html<br/>
-  http://geomag.usgs.gov/
+  https://geomag.usgs.gov/
 </p>
 <p>
   CONTACT:<br/>

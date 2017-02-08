@@ -28,7 +28,7 @@
           <img src="/images/staff/Love_Jeff.jpg" alt=""
               class="column mobile-one-of-four" />
           <div class="column mobile-three-of-four">
-            <a href="http://profile.usgs.gov/jlove">Jeffrey J. Love</a><br/>
+            <a href="https://www.usgs.gov/staff-profiles/jeffrey-j-love">Jeffrey J. Love</a><br/>
             USGS Advisor for Geomagnetic Research<br/>
             Ph: (303) 273-8540<br/>
             <a href="mailto:jlove@usgs.gov">jlove@usgs.gov</a>
