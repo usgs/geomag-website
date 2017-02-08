@@ -59,7 +59,7 @@ if (!isset($TEMPLATE)) {
 
   <ul>
     <li>
-      USGS Geomagnetic Dst: <a href="geomag.usgs.gov/dst/">
+      USGS Geomagnetic Dst: <a href="https://geomag.usgs.gov/dst/">
       geomag.usgs.gov/dst/</a>
     </li>
     <li>
