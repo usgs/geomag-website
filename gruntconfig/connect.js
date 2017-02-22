@@ -37,10 +37,7 @@ var connect = {
       {
         context: [
           // These are served by "legacy" servers.
-          '/map',
           '/realtime',
-          '/template',
-          '/wwwplots',
           // These are apps.
           '/plots'
         ],

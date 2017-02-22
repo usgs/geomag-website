@@ -52,7 +52,7 @@
         </p>
       </li>
       <li>
-        <a href="/realtime/dst">
+        <a href="/plots/dst.php">
           <h2>Real-Time Dst Display</h2>
           <img src="/images/dst.gif" alt=""/>
         </a>
