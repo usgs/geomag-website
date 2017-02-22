@@ -8,7 +8,7 @@
 
 <p>
   The most important product of the USGS Geomagnetism Program is time series of
-  stable <a href="/map/">magnetometer data</a> having high accuracy and
+  stable <a href="/plots/">magnetometer data</a> having high accuracy and
   resolution. In this section we briefly describe how these data are collected,
   transported, processed, managed, and disseminated -- the primary tasks of
   <a href="/contact.php">Program staff</a>.

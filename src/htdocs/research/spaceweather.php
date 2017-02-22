@@ -24,7 +24,7 @@ if (!isset($TEMPLATE)) {
 </p>
 
 <p>
-  <a href="/realtime/dst/">Real-time Dst</a>
+  <a href="/plots/dst.php">Real-time Dst</a>
 </p>
 
 <h3>Electric Field Estimates</h3>

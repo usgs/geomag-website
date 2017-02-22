@@ -50,8 +50,7 @@ if (!isset($TEMPLATE)) {
   Geophysics Program, National Resources Canada, the NOAA Space Weather
   Prediction Center and NASA-Goddard GIC are building monitoring tools including
   a <a href="/conductivity/">US-wide conductivity model</a>,
-  <a href="/map/">local magnetic field model</a> and regional electric field
-  estimates.
+  local magnetic field model, and regional electric field estimates.
 </p>
 
 <p>

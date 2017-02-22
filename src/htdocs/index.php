@@ -3,8 +3,6 @@
 if (!isset($TEMPLATE)) {
   $TITLE = 'USGS Geomagnetism Program';
   $HEAD = '<link rel="stylesheet" href="index.css"/>';
-  $FOOT = '<script src="/lib/hazdev-webutils.js"></script>' .
-      '<script src="index.js"></script>';
   include 'template.inc.php';
 }
 
@@ -26,7 +24,32 @@ if (!isset($TEMPLATE)) {
 
     <hr />
 
-    <div id="storm-summary">Storm summary goes here.</div>
+    <div id="storm-summary">
+      <h2>Latest Magnetic Disturbance Event</h2>
+
+      <h3>
+        <a href="/storm/storm23.php">Event: 2015-06-23</a>
+      </h3>
+      <h4>Maximum Dst Amplitude -195 <abbr title="Nanotesla">nT</abbr></h4>
+      <p>
+        A “severe” storm occurred on June 21-23, 2015. This storm arose in response
+        to variable solar-wind conditions that the Space Weather Prediction Center
+        of the National Oceanic and Atmospheric Administration (SWPC, NOAA)
+        associated with active region 2371 on the Sun. A series of 3 coronal mass
+        ejections (CMEs) originated from this active region. These were subsequently
+        recorded by NASA’s Advanced Composition Explorer (ACE) satellite, located on
+        the Sun-Earth line at a distance approximately 1% of the distance from the
+        Earth to the Sun, as abrupt enhancements in solar-wind velocity and density.
+        With the arrival of the CMEs at the Earth on about June 21 16:45 UT,
+        June 22 05:45 UT, and June 22 18:30 UT, concomitant increases in solar-wind
+        ram pressure abruptly compressed the Earth’s magnetosphere. These generated
+        eastward-flowing magnetopause electric currents and positive perturbations
+        in the horizontal component of the geomagnetic field recorded at
+        low-latitude magnetic observatories around the world, including at USGS
+        observatories in Guam, Honolulu, and San Juan.
+      </p>
+
+    </div>
     <hr />
 
     <div>
