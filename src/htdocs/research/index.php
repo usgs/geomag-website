@@ -13,7 +13,7 @@ if (!isset($TEMPLATE)) {
       <li>
         <a href="/publications/papers.php">
           <h2>Publications</h2>
-          <img src="/images/publications.jpg" alt=""/>
+          <img src="/images/pubs.gif" width="150" alt=""/>
         </a>
       </li>
       <li>
