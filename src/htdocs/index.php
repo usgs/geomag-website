@@ -99,6 +99,15 @@ if (!isset($TEMPLATE)) {
         </p>
       </li>
       <li>
+        <a href="/publications/papers.php">
+          <h2>Publications</h2>
+          <img src="/images/pubs.gif" width="150" alt=""/>
+        </a>
+        <p>
+          Scientific publications listed by year.
+        </p>
+      </li>
+      <li>
         <a href="/learn/">
           <h2>Learn</h2>
           <img src="/images/Q5_index.jpg" alt=""/>

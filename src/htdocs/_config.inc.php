@@ -8,6 +8,7 @@ $SITE_SITENAV =
   navItem('/monitoring/', 'Monitoring') .
   navItem('/products/', 'Data &amp; Products') .
   navItem('/research/', 'Research') .
+  navItem('/publications/papers.php', 'Publications') .
   navItem('/learn/', 'Learn') .
   navItem('/services.php', 'Services') .
   navItem('/partners.php', 'Partners &amp; Customers');
