@@ -94,10 +94,7 @@ if (!isset($TEMPLATE)) {
 
 <h2>Background</h2>
 <p>
-  The Geomagnetism Program first established an observatory near Tucson in
-  1910, the current site, in the
-  <a href="http://www.nps.gov/sagu/index.htm">Saguaro National Park</a> ,
-  was installed in 1996.
+  The Geomagnetism Program first established an observatory near Tucson in 1910 on what is now Morris K. Udall Regional Park. The current site, in the <a href="http://www.nps.gov/sagu/index.htm">Saguaro National Park</a>, was installed in 1996.
 </p>
 <p>
   For a more complete history of the Tucson observatory.
