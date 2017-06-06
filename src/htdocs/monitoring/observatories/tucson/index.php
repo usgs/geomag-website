@@ -97,9 +97,9 @@ if (!isset($TEMPLATE)) {
   The Geomagnetism Program first established an observatory near Tucson in 1910 on what is now Morris K. Udall Regional Park. The current site, in the <a href="http://www.nps.gov/sagu/index.htm">Saguaro National Park</a>, was installed in 1996.
 </p>
 <p>
-  For a more complete history of the Tucson observatory.
-  <a href="/monitoring/observatories/tucson/downloads/History_of_Tucson_Observatory.pdf">History_of_Tucson_Observatory.pdf</a>
+  <a href="/monitoring/observatories/tucson/downloads/History_of_Tucson_Observatory.pdf"History of the Tucson Observatory</a>
 </p>
+<p><a href="https://pubs.er.usgs.gov/publication/fs20173035">Magnetic monitoring in Saguaro National Park</a> (FS-2017-3035)</p>
 
 <h2>Photos</h2>
 
