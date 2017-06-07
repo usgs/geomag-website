@@ -11,7 +11,7 @@ if (!isset($TEMPLATE)) {
   <div class="one-of-two column">
     <ul class="linklist no-style">
       <li>
-        <a href="images/Statement-USGS-Geomag-Prog-20170606.pdf">
+        <a href="images/Statement-USGS-Geomag-Prog-20170607.pdf">
           <h2>Proposed Elimination of the USGS Geomagnetism Program (PDF)</h2>
         </a>
       </li>
