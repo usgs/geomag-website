@@ -9,16 +9,13 @@ if (!isset($TEMPLATE)) {
 ?>
 <div class="row">
   <div class="one-of-two column">
+<!--
     <ul class="linklist no-style">
       <li>
-        <a href="images/Statement-USGS-Geomag-Prog-20170607.pdf">
-          <h2>Proposed Elimination of the USGS Geomagnetism Program (PDF)</h2>
-        </a>
       </li>
     </ul>
-
-    <hr />
-
+    <hr/>
+-->
     <div id="storm-summary">
       <h2>Latest Magnetic Disturbance Event</h2>
 
