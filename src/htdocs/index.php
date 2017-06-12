@@ -9,13 +9,29 @@ if (!isset($TEMPLATE)) {
 ?>
 <div class="row">
   <div class="one-of-two column">
-<!--
-    <ul class="linklist no-style">
-      <li>
-      </li>
-    </ul>
-    <hr/>
--->
+    <h3>Highlights</h3>
+    <a href="https://www.usgs.gov/news/preparing-nation-intense-space-weather">
+    <p>Preparing the Nation for Intense Space Weather</p>
+    <figure class="left">
+        <img src="images/solarwind-interaction-magnetosphere410.jpg" alt="cartoon of solar wind and magnetosphere"/>
+    </figure>
+      </a>
+      
+    <br style="clear:left;"/>
+
+    <div>
+      <h3>Video - Hazards: Geomagnetic Storms</h3>
+      <p>
+        View <a href="http://www.youtube.com/watch?v=s9YGOUWpH8s">
+            "Hazards: Geomagnetic Storms"</a> - a 7-minute introductory video</a>
+      </p>
+      <div class="iframe-container">
+        <iframe class="iframe" src="//www.youtube.com/embed/s9YGOUWpH8s"
+            allowfullscreen="">
+        </iframe>
+      </div>
+    </div>
+
     <div id="storm-summary">
       <h2>Latest Magnetic Disturbance Event</h2>
 
@@ -42,21 +58,8 @@ if (!isset($TEMPLATE)) {
       </p>
 
     </div>
-    <hr />
-
-    <div>
-      <h3>Video - Hazards: Geomagnetic Storms</h3>
-      <p>
-        View <a href="http://www.youtube.com/watch?v=s9YGOUWpH8s">
-            "Hazards: Geomagnetic Storms"</a> - a 7-minute introductory video
-      </p>
-      <div class="iframe-container">
-        <iframe class="iframe" src="//www.youtube.com/embed/s9YGOUWpH8s"
-            allowfullscreen="">
-        </iframe>
-      </div>
-    </div>
   </div>
+
   <div class="one-of-two column">
     <ul class="linklist">
       <li>
