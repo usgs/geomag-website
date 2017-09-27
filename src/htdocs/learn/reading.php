@@ -127,6 +127,9 @@ if (!isset($TEMPLATE)) {
     , Space Weather, 9, S07001, doi:10.1029/2011SW000684.
   </li>
   <li>
+    Love, J. J., C. A. Finn, Y. C. Gamez Valdez &amp; D. Swann. <a href="https://pubs.er.usgs.gov/publication/fs20173035">Magnetic monitoring in Saguaro National Park</a>, USGS Fact Sheet FS-2017-3035.
+  </li>
+  <li>
     Merrill, R. T. &amp; McFadden, P. L., 1990. Paleomagnetism and the nature of
     the geodynamo, Science, 248, 345-350.
   </li>
