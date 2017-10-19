@@ -17,7 +17,7 @@
   as the range of corresponding layer thickness, was taken from published
   sources. FL-1 was calculated using the geometric mean of upper and lower
   conductivity values, and an average layer thickness of each stratigraphic
-  layer. [Love and Blum, USGS 2014 - in preparation]
+  layer. [Love and Blum, USGS 2014]
 </p>
 
 <h3>1D Resistivity Model for Florida Peninsula Model FL-1</h3>
