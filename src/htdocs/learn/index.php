@@ -29,8 +29,9 @@ if (!isset($TEMPLATE)) {
         </a>
       </li>
       <li>
-        <a href="https://www.usgs.gov/faq/?q=taxonomy/term/9782">
+        <a href="https://www.usgs.gov/faq/geology">
           <h2>FAQ's</h2>
+          <p>Select topic Geomagnetism on webpage.</p>
           <img src="/images/faq.gif" alt=""/>
         </a>
       </li>
