@@ -61,6 +61,18 @@
       </li>
       <li>
         <div class="row">
+          <img src="" alt=""
+              class="column mobile-one-of-four" />
+          <div class="column mobile-three-of-four">
+            Brendan Geels<br/>
+            Systems Engineer, Contractor<br/>
+            Ph: (303) 273-8409<br/>
+            <a href="mailto:bgeels@usgs.gov">bgeels@usgs.gov</a>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="row">
           <img src="/images/staff/Kelbert_Anna.jpg" alt=""
               class="column mobile-one-of-four" />
           <div class="column mobile-three-of-four">
@@ -116,30 +128,6 @@
             Electronics<br/>
             Ph: (303) 273-8471<br/>
             <a href="mailto:esauter@usgs.gov">esauter@usgs.gov</a>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="row">
-          <img src="/images/staff/Duff02.jpg" alt=""
-              class="column mobile-one-of-four" />
-          <div class="column mobile-three-of-four">
-            Duff C. Stewart<br/>
-            Software Development<br/>
-            Ph: (303) 273-8485<br/>
-            <a href="mailto:dcstewart@usgs.gov">dcstewart@usgs.gov</a>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="row">
-          <img src="/images/staff/White_Tim.jpg" alt=""
-              class="column mobile-one-of-four" />
-          <div class="column mobile-three-of-four">
-            Tim C. White<br/>
-            Electronics<br/>
-            Ph: (303) 273-8409<br/>
-            <a href="mailto:ttwhite@usgs.gov">ttwhite@usgs.gov</a>
           </div>
         </div>
       </li>
