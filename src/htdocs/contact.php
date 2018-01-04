@@ -61,7 +61,7 @@
       </li>
       <li>
         <div class="row">
-          <img src="" alt=""
+          <img src="/images/staff/BrendanGeels.jpg" alt=""
               class="column mobile-one-of-four" />
           <div class="column mobile-three-of-four">
             Brendan Geels<br/>
