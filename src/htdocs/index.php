@@ -10,13 +10,23 @@ if (!isset($TEMPLATE)) {
 <div class="row">
   <div class="one-of-two column">
     <h3>Highlights</h3>
+
+    <a href="https://eos.org/editor-highlights/mapping-extreme-value-geoelectric-fields">
+    <p>Mapping Extreme-Value Geoelectric Fields</p>
+    <figure class="left">
+        <img src="images/2017GL076402-Figure-3a-800x600.jpg" alt="Locations in the United States mid-Atlantic region where geoelectric amplitude is exceeded only once per hundred years."/>
+    </figure>
+      </a>
+
+      <br style="clear:left;"/>
+
     <a href="https://www.usgs.gov/news/preparing-nation-intense-space-weather">
     <p>Preparing the Nation for Intense Space Weather</p>
     <figure class="left">
         <img src="images/solarwind-interaction-magnetosphere410.jpg" alt="cartoon of solar wind and magnetosphere"/>
     </figure>
       </a>
-      
+
     <br style="clear:left;"/>
 
     <div>

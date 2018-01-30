@@ -13,8 +13,9 @@
     <ul class="no-style separator">
       <li>
         <div class="row">
-          <img src="/images/staff/finn_a_sm.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/finn_a_sm.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             Carol Finn<br/>
             Geomagnetism Group Leader<br/>
@@ -25,8 +26,9 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/Love_Jeff.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/Love_Jeff.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             <a href="https://www.usgs.gov/staff-profiles/jeffrey-j-love">Jeffrey J. Love</a><br/>
             USGS Advisor for Geomagnetic Research<br/>
@@ -37,8 +39,9 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/Austin_Jason.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/Austin_Jason.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             Jason Austin<br/>
             Operations<br/>
@@ -49,8 +52,9 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/Caldwell_Jill.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/Caldwell_Jill.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             Jill E. Caldwell<br/>
             Data Processing<br/>
@@ -61,8 +65,22 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/BrendanGeels.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/claycomb.png" alt=""/>
+          </div>
+          <div class="column mobile-three-of-four">
+            Abram Claycomb<br/>
+            Data Management/Software Developer<br/>
+            Ph: (303) 273-8485<br/>
+            <a href="mailto:aclaycomb@usgs.gov">aclaycomb@usgs.gov</a>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="row">
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/BrendanGeels.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             Brendan Geels<br/>
             Systems Engineer, Contractor<br/>
@@ -73,8 +91,9 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/Kelbert_Anna.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/Kelbert_Anna.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             Anna Kelbert<br/>
             Research and Development<br/>
@@ -85,8 +104,9 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/Morris_Jake_small.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div   class="column mobile-one-of-four">
+            <img src="/images/staff/Morris_Jake_small.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             Jake R. Morris<br/>
             Operations<br/>
@@ -97,8 +117,9 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/Nelson_Mark.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/Nelson_Mark.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             Mark Nelson<br/>
             Facilities Manager<br/>
@@ -109,8 +130,9 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/Rigler_Josh_small.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/Rigler_Josh_small.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             E. Joshua 'Josh' Rigler<br/>
             Research and Development<br/>
@@ -121,8 +143,9 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/Sauter_Ed.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/Sauter_Ed.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             Edward A. Sauter<br/>
             Electronics<br/>
@@ -133,8 +156,9 @@
       </li>
       <li>
         <div class="row">
-          <img src="/images/staff/bill2_sm.jpg" alt=""
-              class="column mobile-one-of-four" />
+          <div class="column mobile-one-of-four">
+            <img src="/images/staff/bill2_sm.jpg" alt=""/>
+          </div>
           <div class="column mobile-three-of-four">
             E. William 'Bill' Worthington<br/>
             Operations<br/>
