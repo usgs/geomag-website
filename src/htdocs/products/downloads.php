@@ -96,9 +96,9 @@ if (!isset($TEMPLATE)) {
     </h3>
 
     <p>
-      Duff C Stewart<br/>
+      Abram Claycomb<br/>
       Data Management: Software Developer<br/>
-      <a href="mailto:dcstewart@usgs.gov">dcstewart@usgs.gov</a>
+      <a href="mailto:aclaycomb@usgs.gov">aclaycomb@usgs.gov</a>
     </p>
   </div>
 </div>
