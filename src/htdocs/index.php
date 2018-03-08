@@ -9,28 +9,22 @@ if (!isset($TEMPLATE)) {
 ?>
 <div class="row">
   <div class="one-of-two column">
-    <h3>Highlights</h3>
 
-    <a href="https://eos.org/editor-highlights/mapping-extreme-value-geoelectric-fields">
-    <p>Mapping Extreme-Value Geoelectric Fields</p>
-    <figure class="left">
-        <img src="images/2017GL076402-Figure-3a-800x600.jpg" alt="Locations in the United States mid-Atlantic region where geoelectric amplitude is exceeded only once per hundred years."/>
-    </figure>
-      </a>
+    <!--FEATURED RESEARCH-->
+    <h2>Highlights</h2>
+    <!-- Featured Items -->
+    <div class='alert'>
+      <?php
+      include_once '_features.inc.php';
+      echo $GM_FEATURES->toHtml();
+      ?>
 
-      <br style="clear:left;"/>
-
-    <a href="https://www.usgs.gov/news/preparing-nation-intense-space-weather">
-    <p>Preparing the Nation for Intense Space Weather</p>
-    <figure class="left">
-        <img src="images/solarwind-interaction-magnetosphere410.jpg" alt="cartoon of solar wind and magnetosphere"/>
-    </figure>
-      </a>
-
-    <br style="clear:left;"/>
+      <p><a href="highlight-archives.php">View Highlight Archives</a></p>
+      <a href="atom.php"><img style="padding-right:16px;" src="images/rssfeed.gif" alt="ATOM feed">Subscribe to Geomagnetism Program Highlights</a>
+    </div>
 
     <div>
-      <h3>Video - Hazards: Geomagnetic Storms</h3>
+      <h2>Video - Hazards: Geomagnetic Storms</h2>
       <p>
         View <a href="http://www.youtube.com/watch?v=s9YGOUWpH8s">
             "Hazards: Geomagnetic Storms"</a> - a 7-minute introductory video</a>
