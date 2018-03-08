@@ -69,6 +69,17 @@ if (!isset($TEMPLATE)) {
     </ul>
   </div>
   <div class="column three-of-five">
+
+  <div class="alert" style="margin-bottom:16px">
+
+    <a href="featured/">
+      <h3>Science for Everyone</h3>
+      <img src="/images-featured/solarwind-interaction-magnetosphere410.jpg"/>
+    </a>
+    <p>Science briefs about new geomagnetism research written for non-scientists.</p>
+  </div>
+
+  <h2>About Geomagnetism Research</h2>
     <p>
       Research projects within the USGS Geomagnetism Program are targeted for
       societal relevance, especially for space-weather hazard science.
