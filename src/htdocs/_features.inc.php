@@ -11,6 +11,15 @@ $GM_FEATURES->author = 'U.S. Geological Survey';
 $GM_FEATURES->siteUrl = 'https://geomag.usgs.gov/';
 $GM_FEATURES->baseUrl = '';
 
+$GM_FEATURES->items[] = array(
+  'id' => '2018-03-08',
+  'title' => 'New 3D Measurements Improve Understanding of Geomagnetic Storm Hazards',
+  'content' => 'Measurements of the three-dimensional structure of the earth, as opposed to the one-dimensional models typically used, can help scientists more accurately determine which areas of the United States are most vulnerable to blackouts during hazardous geomagnetic storms. (Image courtesy of Joshua Strange, U.S. Air Force)' ,
+  'link' => 'https://www.usgs.gov/news/new-3d-measurements-improve-understanding-geomagnetic-storm-hazards',
+  'modified' => strtotime('2018-03-08'),
+  'thumbnail' => 'https://geomag.usgs.gov/images-featured/NASA_Aurora.jpg',
+  'image' => 'https://geomag.usgs.gov/images-featured/NASA_Aurora.jpg'
+);
 
 $GM_FEATURES->items[] = array(
   'id' => '2018-03-08',
