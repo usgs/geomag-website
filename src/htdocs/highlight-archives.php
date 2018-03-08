@@ -11,5 +11,5 @@
 
 <?php
 include_once '_features.inc.php';
-echo $LS_FEATURES->toHtml(-1);
+echo $GM_FEATURES->toHtml(-1);
 ?>
