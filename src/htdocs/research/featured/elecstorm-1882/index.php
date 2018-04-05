@@ -65,5 +65,5 @@
 </figure>
 
 <p>
-  Jeffrey J. Love has been a research geophysicist since 2001 where he analyzes geomagnetic hazards of concern to the electric-power grid industry.  Jeffrey is also interested in art, history, and home repair.
+  <a href="https://www.usgs.gov/staff-profiles/jeffrey-j-love">Jeffrey J. Love</a> has been a research geophysicist since 2001 where he analyzes geomagnetic hazards of concern to the electric-power grid industry.  Jeffrey is also interested in art, history, and home repair.
 </p>
