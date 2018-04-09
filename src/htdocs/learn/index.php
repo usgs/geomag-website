@@ -38,6 +38,17 @@ if (!isset($TEMPLATE)) {
     </ul>
   </div>
   <div class="column three-of-five">
+
+    <div class="alert" style="margin-bottom:16px">
+
+      <a href="featured/">
+        <h3>Science for Everyone</h3>
+        <img src="/images-featured/solarwind-interaction-magnetosphere410.jpg"/>
+      </a>
+      <p>Science briefs about new geomagnetism research written for non-scientists.</p>
+    </div>
+
+    <h2>Learn About Geomagnetism</h2>
     <p>
       For centuries, navigators of the world's oceans have been familiar
       with an effect of Earth's magnetic field: It imparts a directional
