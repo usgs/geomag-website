@@ -8,6 +8,8 @@ echo navGroup(navItem('/research/index.php', 'Research'),
   navItem('/research/spaceweather.php', 'Space Weather Applications') .
   navItem('/research/spaceclimatology.php', 'Space Climatology') .
   navItem('/research/geomagnetism-earthquakes.php', 'Earthquake Prediction') .
-  navItem('/publications/movies/', 'Magnetic Disturbance Movies')
+  navItem('/publications/movies/', 'Magnetic Disturbance Movies') .
+  navItem('/research/featured/', 'Science for Everyone')
+
 );
  ?>
