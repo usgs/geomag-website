@@ -12,8 +12,6 @@
   }
 ?>
 
-<p>Check back soon for new research summaries.</p>
-
 <h3>2018</h3>
 <!-- Featured Items -->
   <?php
