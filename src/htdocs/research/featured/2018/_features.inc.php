@@ -1,6 +1,6 @@
 <?php
 
-include_once '../lib/Features.class.php';
+include_once $_SERVER['DOCUMENT_ROOT'] . '/../lib/Features.class.php';
 
 date_default_timezone_set('UTC');
 
@@ -11,15 +11,12 @@ $GM_FEATURES->author = 'U.S. Geological Survey';
 $GM_FEATURES->siteUrl = 'https://geomag.usgs.gov/';
 $GM_FEATURES->baseUrl = '';
 
-/*
  $GM_FEATURES->items[] = array(
-    'id' => '2018-03-08',
-    'title' => 'Mapping Extreme-Value Geoelectric Fields',
-    'content' => 'To help mitigate magnetic storm interference on electric power grid operations, extreme-value geoelectric fields have been mapped across the mid-Atlantic United States. (EOS article)' ,
-    'link' => 'https://eos.org/editor-highlights/mapping-extreme-value-geoelectric-fields',
-    'modified' => strtotime('2018-03-08'),
-    'thumbnail' => 'https://geomag.usgs.gov/images-featured/2017GL076402-Figure-3a-800x600.jpg',
-    'image' => 'https://geomag.usgs.gov/images-featured/2017GL076402-Figure-3a-800x600.jpg'
+    'id' => '2018-04-09',
+    'title' => 'The Electric Storm of November 1882',
+    'content' => 'Strange things started happening on November 17, 1882, and no one knew quite what to make of it.(image from Baranyi et al., 2016)',
+    'link' => 'https://gemoag.usgs.gov/research/featured/elecstorm-1882/',
+    'modified' => strtotime('2018-04-09'),
+    'thumbnail' => 'https://geomag.usgs.gov/images-featured/sun.jpg',
+    'image' => 'https://geomag.usgs.gov/images-featured/sun.jpg'
   );
-
- */

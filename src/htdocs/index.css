@@ -59,3 +59,7 @@
 .info-text {
   margin-bottom: 1em;
 }
+
+img.feature-image {
+  width: 150px;
+}
