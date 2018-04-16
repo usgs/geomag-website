@@ -54,7 +54,7 @@
   <li>
     <a href="https://geomag.usgs.gov/learn/introtogeomag.php">Introduction to Geomagnetism</a>
   </li>
-  <li>Love, J. J. (2018). <a href="https://doi.org/10.1002/2017SW001795">The electric storm of November 1882</a>. Space Weather, 16, 37–46.
+  <li>Love, J. J. (2018). <a href="/downloads/publications/Love-2018-Space_Weather.pdf">The electric storm of November 1882</a>. Space Weather, 16, 37–46.
   </li>
 </ul>
 
