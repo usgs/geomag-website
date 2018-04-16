@@ -10,6 +10,7 @@ if (!isset($TEMPLATE)) {
 <h3>Quick Links</h3>
 
 <div class="jumplist">
+  <a href="#2017">2017</a>
   <a href="#2015">2015</a>
   <a href="#2014">2014</a>
   <a href="#2013">2013</a>
@@ -29,6 +30,18 @@ if (!isset($TEMPLATE)) {
   <a href="#1999">1999</a>
   <a href="#1998">1998</a>
 </div>
+
+
+<a id="2018"><h3>2018</h3></a>
+<ul class="referencelist">
+  <li>
+    Love, J. J., 2018.
+    <a href=
+      "/downloads/publications/Love-2018-Space_Weather.pdf">
+       The electric storm of November 1882</a>. Space Weather, 16. https://doi.org/10.1002/2017SW001795.
+    </li>
+</ul>
+
 
 <a id="2016"><h3>2016</h3></a>
 <ul class="referencelist">
