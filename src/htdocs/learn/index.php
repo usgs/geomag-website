@@ -41,7 +41,7 @@ if (!isset($TEMPLATE)) {
 
     <div class="alert" style="margin-bottom:16px">
 
-      <a href="featured/">
+      <a href="/research/featured/">
         <h3>Science for Everyone</h3>
         <img src="/images-featured/solarwind-interaction-magnetosphere410.jpg"/>
       </a>
