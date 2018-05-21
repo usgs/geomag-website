@@ -69,7 +69,7 @@ if (!isset($TEMPLATE)) {
     <h2>Available Videos</h2>
     <ul>
       <li><a href="index.php?type=declination&amp;format=<?php print $movie_format; ?>">Declination</a></li>
-      <li><a href="index.php?type=inclination&amp;format=<?php print $movie_format; ?>">Inclincation</a></li>
+      <li><a href="index.php?type=inclination&amp;format=<?php print $movie_format; ?>">Inclination</a></li>
       <li><a href="index.php?type=horizontal&amp;format=<?php print $movie_format; ?>">Horizontal Intensity</a></li>
       <li><a href="index.php?type=vertical&amp;format=<?php print $movie_format; ?>">Vertical Intensity</a></li>
       <li><a href="index.php?type=tintensity&amp;format=<?php print $movie_format; ?>">Total Intensity</a></li>
