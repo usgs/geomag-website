@@ -8,6 +8,12 @@
   }
 ?>
 
+<p>
+  <a href="1882elect-storm.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <figure class='right'>
 <img src="images/sun-earth-fs2007-3092.jpg" alt=""/>
 <figcaption>
