@@ -23,18 +23,18 @@ if (!isset($TEMPLATE)) {
       <li>
         Download model:
         <a target="_blank"
-          href="ftp://ftpext.usgs.gov/pub/cr/co/golden/jlove/models/5807-4SH">
+          href="ftp://hazards.cr.usgs.gov/Geomag/data/Dst/hrDst_definitive/5807-4SH">
           5807-4SH</a> (1 hour Dst)
       </li>
       <li>
         Download model:
         <a target="_blank"
-          href="ftp://hazards.cr.usgs.gov/minDst_definitive">8507-4SM</a>
+          href="ftp://hazards.cr.usgs.gov/Geomag/data/Dst/minDst_definitive/">8507-4SM</a>
           (1 minute USGS Dst)
       </li>
       <li>
         Download model:
-        <a target="_blank" href="ftp://hazards.cr.usgs.gov/minDst">Near
+        <a target="_blank" href="ftp://hazards.cr.usgs.gov/Geomag/data/Dst/minDst_realtime/">Near
           real-time Dst</a>
       </li>
       <li>
