@@ -10,7 +10,9 @@ if (!isset($TEMPLATE)) {
 <h3>Quick Links</h3>
 
 <div class="jumplist">
+  <a href="#2018">2018</a>
   <a href="#2017">2017</a>
+  <a href="#2016">2016</a>
   <a href="#2015">2015</a>
   <a href="#2014">2014</a>
   <a href="#2013">2013</a>
@@ -35,13 +37,128 @@ if (!isset($TEMPLATE)) {
 <a id="2018"><h3>2018</h3></a>
 <ul class="referencelist">
   <li>
+    Cuttler, S. W., Love, J. J. &amp; Swidinsky, A., 2018. 
+    <a href="https://doi.org/10.1186/s40623-018-0807-7">
+      Geoelectric hazard assessment: the differences of geoelectric responses 
+      during magnetic storms within common physiographic zones</a>, 
+    Earth Planets Space, 70, 35, doi:10.1186/s40623-018-0807-7.
+  </li>
+  <li>
     Love, J. J., 2018.
     <a href=
       "/downloads/publications/Love-2018-Space_Weather.pdf">
-       The electric storm of November 1882</a>. Space Weather, 16. https://doi.org/10.1002/2017SW001795.
-    </li>
+       The electric storm of November 1882</a>,
+    Space Weather, 16(1), 37-46, doi:10.1002/2017SW001795.
+  </li>
+  <li>
+    Love, J. J., Lucas, G. M., Kelbert, A. &amp; Bedrosian, P. A., 2018.  
+    <a href="https://doi.org/10.1002/2017GL076042">
+      Geoelectric hazard maps for the Mid-Atlantic United States: 100 year 
+      extreme values and the 1989 magnetic storm</a>, 
+    Geophys. Res. Lett., 45(1), 5-15,  doi:10.1002/2017GL076042. 
+  </li>
+  <li>
+    Love, J. J. &amp; Bedrosian, P. A., 2018.  Extreme-event geoelectric
+    hazard maps, in Extreme Space Weather: Origins, Predictability, and
+    Consequences (Ed. N. Buzulukov), Chapter 9, 209-230, Elsevier, Amsterdam,
+    The Netherlands.
+  </li>
+  <li>
+    Lucas, G. M., Love, J. J. &amp; Kelbert, A., 2018.  
+    <a href="https://doi.org/10.1002/2017SW001779">
+      Calculation of voltages in electric power transmission lines during 
+      historic geomagnetic storms: An investigation using realistic Earth 
+      impedances</a>, 
+    Space Weather, 16(2), 185-195, doi:10.1002/2017SW001779. 
+  </li>
 </ul>
 
+<a id="2017"><h3>2017</h3></a>
+<ul class="referencelist">
+  <li>
+    Blum, C. C., White, T. C., Sauter, E. A., Stewart, D. C., Bedrosian, P. A. 
+    &amp; Love, J. J., 2017.  
+    <a href="https://doi.org/10.5194/gi-6-447-2017">
+      Geoelectric monitoring at the Boulder magnetic observatory</a>, 
+    Geosci. Instrum. Method. Data Syst., 6, 447-452, doi:10.5194/gi-6-447-2017.
+  </li>
+  <li>
+    Egbert, G. D., Meqbel, N. &amp; Kelbert, A., 2017.  
+    <a href="/downloads/publications/Gary_Egbert_ModEM.pdf">
+      Some results from ModEM3DMT, the freely available OSU 3D MT inversion 
+      code</a>, 
+    Proceedings of 6th International Symposium on Three-Dimensional 
+    Electromagnetics (3DEM-6), Berkeley, CA, USA, 28&ndash;30 March 2017.
+  </li>
+  <li>
+    Kelbert, A., Balch, C. C., Pulkkinen, A., Egbert, G. D., Love, J. J., 
+    Rigler, E. J. &amp; Fujii, I., 2017. 
+    <a href=
+      "/downloads/publications/Kelbert_et_al-2017-Methodology_Space_Weather.pdf"
+    >
+      Methodology for time-domain estimation of storm time geoelectric fields
+      using the 3-D magnetotelluric response tensors</a>, 
+    Space Weather, 15(7), 874-894, doi:10.1002/2017SW001594.
+  </li>
+  <li>
+    Love, J. J., Finn, C. A., Gamez Valdez, Y. C. &amp; Swann, D., 2017.  
+    <a href="https://pubs.er.usgs.gov/publication/fs20173035">
+      Magnetic monitoring in Saguaro National Park</a>, 
+    USGS Fact Sheet, 2017-3035, doi:10.3133/fs20173035.
+  </li>
+  <li>
+    Love, J. J., Bedrosian, P. A. &amp; Schultz, A., 2017.
+    <a href="/downloads/publications/Love_et_al-2017-Down-to-Earth-Space_Weather.pdf">
+      Down to Earth with an electric hazard from space</a>, 
+    Space Weather, 15(5), 658-662, doi:10.1002/2017SW001622.
+  </li>
+  <li>
+    Love, J. J. &amp; Finn, C. A., 2017.  
+    <a href="https://doi.org/10.1002/2017SW001665">
+      Real-time geomagnetic monitoring for 
+      space-weather related applicaitons: Opportunities and challenges</a>, 
+    Space Weather, 15(7), 820-827, doi:10.1002/2017SW001665.
+  </li>
+  <li>
+    Pulkkinen, A., Bernabeu, E., Thomson, A., Viljanen, A., Pirjola, R., 
+    Boteler, D., Eichner, J., Cilliers, P. J., Welling, D., Savani, N. P., 
+    Weigel, R. S., Love, J. J., Balch, C., Ngwira, C. M., Crowley, G., 
+    Schultz, A., Kataoka, R., Anderson, B., Fugate, D., Simpson, J. J. &amp; 
+    MacAlester M., 2017. 
+    <a href="/downloads/publications/Pulkkinen_et_al-2017-Space_Weather.pdf">
+      Geomagnetically induced currents: Science, engineering and applications 
+      readiness</a>, 
+    Space Weather, 15(7), 828-856, doi:10.1002/2016SW001501.
+  </li>
+  <li>
+    Riley, P. &amp; Love, J. J., 2017.  
+     <a href="https://doi.org/10.1002/2016SW001470">
+       Extreme geomagnetic storms: Probabilistic forecasts and their 
+       uncertainties</a>, 
+     Space Weather, 15(1), 53-64, doi:10.1002/2016SW001470.
+  </li>
+  <li>
+    Rigler, E. J., 2017.  
+    <a href="https://pubs.er.usgs.gov/publication/ofr20171037">
+      Time-causal decomposition of geomagnetic time series into secular 
+      variation, solar quiet, and disturbance signals</a>, 
+    USGS Open-File Report, 2017-1037, doi:10.3133/ofr20171037.
+  </li>
+  <li>
+    Wiltberger, M., Rigler, E. J., Merkin, V. &amp; Lyon, J. G., 2017.  
+    <a href="https://doi.org/10.1007/s11214-016-0271-2">
+      Structure of High Latitude Currents in Magnetosphere-Ionosphere 
+      Models</a>, Space Science Reviews, 206(1-4), 575-598, 
+    doi:10.1007/s11214-016-0271-2.
+  </li>
+  <li>
+    Worthington, E. W. &amp; Matzka, J., 2017.  
+    <a href="https://doi.org/10.5194/gi-6-419-2017">
+      U.S. Geological Survey experience with the residual absolutes method</a>, 
+    Geosci. Instrum. Method. Data Syst., 6, 419-427, 
+    doi:10.5194/gi-6-419-2017.
+  </li>
+</ul>
 
 <a id="2016"><h3>2016</h3></a>
 <ul class="referencelist">
@@ -50,7 +167,43 @@ if (!isset($TEMPLATE)) {
     <a href=
       "/downloads/publications/Earth-Mag-SW-Comment-Love-Feb-2016.pdf">
       Weathering a perfect storm from space</a>, Earth, 51(2), 8-9.
-    </li>
+  </li>
+  <li>
+    Love, J. J., Coisson, P. &amp; Pulkkinen, A., 2016.
+    <a href=
+      "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2016GL068664">
+      Global statistical maps of extreme-event magnetic observatory 1 min first 
+      differences in horizontal intensity</a>, 
+    Geophys. Res. Lett., 43, 4126-4135, doi:10.1002/2016GL068664.
+  </li>
+  <li>
+    Love, J. J., Pulkkinen A, Bedrosian, P. A, Jonas, S., Kelbert, A., Rigler, 
+    E. J., Finn, C. A., Balch, C. C., Rutledge, R., Waggel, R. M., Sabata, 
+    A. T., Kozyra, J. U. &amp; Black, C. E., 2016.
+    <a href="https://doi.org/10.1002/2016GL070469">
+      Geoelectric hazard maps for the continental United States</a>, 
+    Geophys. Res. Lett., 43, doi:10.1002/2016GL070469.
+  </li>
+  <li>
+    Love, J. J. &amp; Co&iuml;sson, P., 2016. 
+    <a href="https://doi.org/10.1029/2016EO59319">
+      The geomagnetic blitz of September 1941</a>, 
+    Eos, 97, doi:10.1029/2016EO059319.
+  </li>
+  <li>
+    McCollough, J. P., Young, S. L., Rigler, E. J. &amp; Simpson, H. A., 2015.
+    <a href="/downloads/publications/Dst_Predictor_validation_distro_A.pdf">
+      Real-time validation of the Dst Predictor Model</a>, 
+    Air Force Research Laboratory Tech. Rep., AFRL-RV-PS-TR-2015-0073.
+  </li>
+  <li>
+    Peckham, S. D., Kelbert, A., Hill, M. C., &amp; Hutton, E. W., 2016.
+    <a href=
+      "/downloads/publications/Peckham-Kelbert-2016-Computers-Geosciences.pdf">
+      Towards uncertainty quantification and parameter estimation for Earth 
+      system models in a component-based modeling framework</a>,  
+    Comput. Geosciences, 90, 152-161.
+  </li>
 </ul>
 
 <a id="2015"><h3>2015</h3></a>
@@ -58,9 +211,9 @@ if (!isset($TEMPLATE)) {
   <li>
     Bedrosian, P. A. &amp; Love, J. J., 2015.
     <a href=
-    "/downloads/publications/Bedrosian_et_al-Geophysical_Research_Letters.pdf">
-    Mapping geoelectric fields during magnetic storms:
-    Synthetic analysis of empirical United States impedances</a>,
+      "/downloads/publications/Bedrosian_et_al-Geophysical_Research_Letters.pdf">
+      Mapping geoelectric fields during magnetic storms:
+      Synthetic analysis of empirical United States impedances</a>, 
     Geophys. Res. Lett., 42, 10,160-10,170, doi:10.1002/2015GL066636.
   </li>
   <li>
@@ -74,9 +227,9 @@ if (!isset($TEMPLATE)) {
   <li>
     Love, J. J., Rigler, E. J., Pulkkinen, A. &amp; Riley, P., 2015.
     <a href=
-      "/downloads/publications/Love_et_al-2015-Geophysical_Research_Letters.pdf">
+     "/downloads/publications/Love_et_al-2015-Geophysical_Research_Letters.pdf">
       On the lognormality of historical magnetic storm intensity statistics:
-      Implications for extreme-event probabilities</a>,
+      Implications for extreme-event probabilities</a>, 
     Geophys. Res. Lett., 42, 6544-6553, doi:10.1002/2015GL064842.
   </li>
   <li>
@@ -102,7 +255,8 @@ if (!isset($TEMPLATE)) {
   <li>
     Sun, J., Kelbert, A. &amp; Egbert, G. D., 2015.
     <a href=
-    "/downloads/publications/Sun_et_al-2015-Journal_of_Geophysical_Research__Solid_Earth.pdf">
+"/downloads/publications/Sun_et_al-2015-Journal_of_Geophysical_Research_Solid_Earth.pdf"
+    >
     Ionospheric current source modeling and global geomagnetic induction using
     ground geomagnetic observatory data</a>,
     J. Geophys. Res. Solid Earth, 120, 6771-6796, doi:10.1002/2015JB012063.
@@ -131,22 +285,23 @@ if (!isset($TEMPLATE)) {
     Kelbert, A., 2014.
     <a href=
       "/downloads/publications/Kelbert_2014_EarthCube_EOS.pdf">
-      Science and Cyberinfrastructure: The chicken and the egg problem</a>,
-      EOS, Trans. AGU, 95(49), 458-459, doi:10.1002/2014EO490006.
+      Science and Cyberinfrastructure: The chicken and egg problem</a>, 
+    EOS, Trans. AGU, 95(49), 458-459, doi:10.1002/2014EO490006.
   </li>
   <li>
     Kelbert, A., Kuvshinov, A., Velimsky, J., Koyama, T., Ribaudo, J., Sun, J.,
     Martinec Z. &amp; Weiss, C. J., 2014.
     <a href=
-      "/downloads/publications/Geophys. J. Int.-2014-Kelbert-785-814.pdf">Global
-      3-D electromagnetic forward modeling: a benchmark study</a>,
+      "/downloads/publications/Geophys. J. Int.-2014-Kelbert-785-814.pdf">
+      Global 3-D electromagnetic forward modeling: a benchmark study</a>, 
     Geophys. J. Int., 197, 785-814, doi:10.1093/gji/ggu028.
   </li>
   <li>
     Kelbert, A., Meqbel, N., Egbert, G. D. &amp; Tandon, K., 2014.
-    <a href="/downloads/publications/1-s2.0-S0098300414000211-main.pdf">ModEM:
-      A modular system for inversion of electromagnetic geophysical data</a>,
-    Computers &amp; Geosciences, 66, 40-53, doi:10.1016/j.cageo.2014.01.010.
+    <a href="/downloads/publications/1-s2.0-S0098300414000211-main.pdf">
+      ModEM: A modular system for inversion of electromagnetic geophysical
+      data</a>, 
+    Comput. Geosciences, 66, 40-53, doi:10.1016/j.cageo.2014.01.010.
   </li>
   <li>
     Love, J. J., 2014.
@@ -195,72 +350,73 @@ if (!isset($TEMPLATE)) {
   <li>
     Buchanan, A., Finn, C. A., Love, J. J., Worthington, E. W., Lawson, F.,
     Maus, S., Okewunmi, S. &amp; Poedjono, B., 2013.
-    <a href="/downloads/publications/3_geomagnetic.pdf">Geomagnetic
-      referencing -- The real-time compass for directional drillers</a>,
-    Oilfield Rev., 25(3), 32-47.
+    <a href="/downloads/publications/3_geomagnetic.pdf">
+      Geomagnetic referencing -- The real-time compass for directional 
+      drillers</a>, Oilfield Rev., 25(3), 32-47.
   </li>
   <li>
     Holmes, R. R., Jones, L. M., Eidenshink, J. C., Godt, J. W., Kirby, S. H.,
     Love, J. J., Neal, C. A., Plant, N. G., Plunkett, M. L., Weaver, C. S.,
     Wein, A. &amp; Perry, S. C., 2013.
-    <a href="https://pubs.usgs.gov/circ/1383f/">U.S. Geological Survey Natural
-      Hazards Science Strategy -- Promoting the Safety, Security, and Economic
-      Well-Being of the Nation</a>,
+    <a href="https://pubs.usgs.gov/circ/1383f/">
+      U.S. Geological Survey Natural Hazards Science Strategy -- Promoting the 
+      Safety, Security, and Economic Well-Being of the Nation</a>, 
     USGS Circular, 1383-F, 79 p.
   </li>
   <li>
     Love, J. J., 2013.
-    <a href="/downloads/publications/grl50846.pdf">On the insignificance of
-      Herschel's sunspot correlation</a>,
+    <a href="/downloads/publications/grl50846.pdf">
+      On the insignificance of Herschel's sunspot correlation</a>, 
     Geophys. Res. Lett., 40, 4171-4176, doi:10.1002/grl.50846.
   </li>
   <li>
     Love, J. J. &amp; Chulliat, A., 2013.
-    <a href="/downloads/publications/eost2013EO420001.pdf">An international
-      network of magnetic observatories</a>,
+    <a href="/downloads/publications/eost2013EO420001.pdf">
+      An international network of magnetic observatories</a>, 
     EOS, Trans. AGU, 94(42), 373-374, doi:10.1002/2013EO420001.
   </li>
   <li>
     Love, J. J. &amp; Thomas, J. N., 2013.
-    <a href="/downloads/publications/grl50211.pdf">Insignificant
-      solar-terrestrial triggering of earthquakes</a>,
+    <a href="/downloads/publications/grl50211.pdf">
+      Insignificant solar-terrestrial triggering of earthquakes</a>, 
     Geophys. Res. Lett., 40, 1165-1170, doi:10.1002/grl.50211.
   </li>
   <li>
     Poedjono, B., Beck, N., Buchanan, A., Borri, L., Maus, S., Finn, C. A.,
     Worthington, E. W. &amp; White, T., 2013.
     <a href="/downloads/publications/SPE166850_GRS_Arctic_ENGLISH.pdf">
-      Improved geomagnetic referencing in the Arctic environment</a>,
-      SPE-166850-MS, SPE Arctic and Extreme Environments Technical Conference
-      and Exhibition, 15-17 Oct. 2013, Moscow, Russia, doi:10.2118/166850-MS.
+      Improved geomagnetic referencing in the Arctic environment</a>, 
+    SPE-166850-MS, SPE Arctic and Extreme Environments Technical 
+    Conference and Exhibition, 15-17 Oct. 2013, Moscow, Russia, 
+    doi:10.2118/166850-MS.
   </li>
   <li>
     Rastätter, L., Kuznetsova, M. M., Glocer, A., Welling, D., Meng, X.,
     Raeder, J., Wiltberger, M., Jordanova, V. K., Yu, Y., Zaharia, S., Weigel,
     R. S., Sazykin, S., Boynton, R., Wei, H., Eccles, V., Horton, W., Mays,
     M. L. &amp; Gannon, J., 2013.
-    <a href="/downloads/publications/swe.20036.pdf">Geospace environment
-      modeling 2008-2009 challenge: Dst index</a>,
+    <a href="/downloads/publications/swe.20036.pdf">
+      Geospace environment modeling 2008-2009 challenge: Dst index</a>, 
     Space Weather, 11, 187-205, doi:10.1002/swe.20036.
   </li>
   <li>
     Tobiska, W. K., Knipp, D., Burke, W. J., Bouwer, D., Bailey, J., Odstrcil,
     D., Hagan, M. P., Gannon, J. &amp; Bowman, B. R., 2013.
-    <a href="/downloads/publications/swe20094.pdf">The Anemomilos prediction
-      methodology for Dst</a>,
+    <a href="/downloads/publications/swe20094.pdf">
+      The Anemomilos prediction methodology for Dst</a>, 
     Space Weather, 11, 490–508, doi:10.1002/swe.20094.
   </li>
   <li>
     Wei, L. H., Homeier, N. &amp;  Gannon, J. L., 2013.
-    <a href="/downloads/publications/swe20073.pdf">Surface electric fields for
-      North America during historical geomagnetic storms</a>,
-    Space Weather, 11, 451–462, doi:10.1002/swe.20073.
+    <a href="/downloads/publications/swe20073.pdf">
+      Surface electric fields for North America during historical geomagnetic 
+      storms</a>, Space Weather, 11, 451–462, doi:10.1002/swe.20073.
   </li>
   <li>
     Xu, Z., Gannon, J. L. &amp; Rigler, E. J., 2013.
-    <a href="https://pubs.usgs.gov/of/2013/1166/">Report of geomagnetic
-      pulsation indices for space weather applications</a>:
-    USGS Open-File Report, 2013–1166, 22 p.
+    <a href="https://pubs.usgs.gov/of/2013/1166/">
+      Report of geomagnetic pulsation indices for space weather 
+      applications</a>, USGS Open-File Report, 2013–1166, 22 p.
   </li>
 </ul>
 
@@ -270,82 +426,89 @@ if (!isset($TEMPLATE)) {
   <li>
     Egbert, G. D. &amp; Kelbert, A., 2012.
     <a href=
-      "/downloads/publications/Geophys. J. Int.-2012-Egbert-251-67.pdf">Computational
-      recipes for electromagnetic inverse problems</a>,
-    Geophys. J. Int., 189, 251-267, doi:10.1111/j.1365-246X.2011.05347.x.
+      "/downloads/publications/Geophys. J. Int.-2012-Egbert-251-67.pdf">
+      Computational recipes for electromagnetic inverse problems</a>, Geophys. 
+      J. Int., 189, 251-267, doi:10.1111/j.1365-246X.2011.05347.x.
   </li>
   <li>
     Gannon, J. L., 2012.
-    <a href="/downloads/publications/2011SW000731.pdf">Assessing the validity
+    <a href="/downloads/publications/2011SW000731.pdf">
+      Assessing the validity
       of station location assumptions made in the calculation of the
-      Geomagnetic Disturbance Index, Dst</a>,
+      Geomagnetic Disturbance Index, Dst</a>, 
     Space Weather, 10, S02002, doi:10.1029/2011SW000731.
   </li>
   <li>
     Gannon, J. L., Elkington, S. R. &amp; Onsager, T. G., 2012,
-    <a href="/downloads/publications/2012JA017543.pdf">Uncovering the
-      nonadiabatic response of geosynchronous electrons to geomagnetic
-      disturbance</a>,
-    J. Geophys. Res., 117, A10215, doi:10.1029/2012JA017543.
+    <a href="/downloads/publications/2012JA017543.pdf">
+      Uncovering the nonadiabatic response of geosynchronous electrons to 
+      geomagnetic disturbance</a>, J. Geophys. Res., 117, A10215, 
+    doi:10.1029/2012JA017543.
+  </li>
+  <li>
+    Heilig, B., Csontos, A., Pajunp&auml;&auml;, K., Gouws, D., White, T., 
+    St-Louis, B. &amp; Calp, D., 2012,
+    <a href="/downloads/publications/Heilig-et-al-IAGA-Proceedings-2012.pdf">
+      Measuring the orthogonality error of coil systems</a>, Proc. XV IAGA 
+    Workshop, Boletin ROA, No. 03/13, 42-45.
   </li>
   <li>
     Kelbert, A., Egbert, G. D. &amp; de Groot-Hedlin, C., 2012.
-    <a href="/downloads/publications/Kelbert_et_al_2012_Geology.pdf">Crust and
-      upper mantle electrical conductivity beneath the Yellowstone Hotspot
-      Track</a>,
-    Geology, 40(5), 447-450, doi:10.1130/G32655.1.
+    <a href="/downloads/publications/Kelbert_et_al_2012_Geology.pdf">
+      Crust and upper mantle electrical conductivity beneath the Yellowstone 
+      Hotspot Track</a>, Geology, 40(5), 447-450, doi:10.1130/G32655.1.
   </li>
   <li>
     Love, J. J., 2012.
-    <a href="/downloads/publications/2012GL051431.pdf">Credible occurrence
-      probabilities for extreme geophysical events: Earthquakes,
-      volcanic eruptions, magnetic storms</a>,
-    Geophys. Res. Lett., 39, L10301, doi:10.1029/2012GL051431.
+    <a href="/downloads/publications/2012GL051431.pdf">
+      Credible occurrence probabilities for extreme geophysical events: 
+      Earthquakes, volcanic eruptions, magnetic storms</a>, Geophys. Res. Lett.,
+    39, L10301, doi:10.1029/2012GL051431.
   </li>
   <li>
     Love, J. J. &amp; Chulliat, A., 2012.
-    <a href="/downloads/publications/epos_2012_12_dec-1.pdf">INTERMAGNET and
-      magnetic observatories</a>,
+    <a href="/downloads/publications/epos_2012_12_dec-1.pdf">
+      INTERMAGNET and magnetic observatories</a>, 
     European Plate Observing System Newsletter, 12.
   </li>
   <li>
     Love, J. J. &amp; Finn, C. A., 2012.
-    <a href="/downloads/publications/2012EO500005_obi.pdf">John B. "Jack"
-      Townshend (1927-2012)</a>,
+    <a href="/downloads/publications/2012EO500005_obi.pdf">
+      John B. "Jack" Townshend (1927-2012)</a>, 
     EOS, Trans. AGU, 93(50), 524-525, doi: 10.1029/2012EO500005.
   </li>
   <li>
     Love, J. J. &amp; Rigler, E. J., 2012.
-    <a href="/downloads/publications/2012GL051818.pdf">Sunspot random walk and
-      22-year variation</a>,
+    <a href="/downloads/publications/2012GL051818.pdf">
+      Sunspot random walk and 22-year variation</a>, 
     Geophys.  Res. Lett., 39, L10103, doi:10.1029/2012GL051818.
   </li>
   <li>
     Love, J. J., Rigler, E. J. &amp; Gibson, S. E., 2012.
-    <a href="/downloads/publications/2011GL050702.pdf">Geomagnetic detection
-      of the sectorial solar magnetic field and the historical peculiarity of
-      minimum 23-24</a>,
-    Geophys. Res. Lett., 39, L04102, doi:10.1029/2012GL051022.
+    <a href="/downloads/publications/2011GL050702.pdf">
+      Geomagnetic detection of the sectorial solar magnetic field and the 
+      historical peculiarity of minimum 23-24</a>, Geophys. Res. Lett., 39, 
+    L04102, doi:10.1029/2012GL051022.
   </li>
   <li>
     Rigler, E. J., Hill, S. M., Reinard, A. A. &amp; Steenburgh, R. A., 2012.
-    <a href="/downloads/publications/2012SW000780.pdf">Solar thematic maps for
-      space weather operations</a>,
-    Space Weather, 10, S08009, doi:10.1029/2012SW000780.
+    <a href="/downloads/publications/2012SW000780.pdf">
+      Solar thematic maps for space weather operations</a>, Space Weather, 10, 
+    S08009, doi:10.1029/2012SW000780.
   </li>
   <li>
     Siscoe, G. L., Love, J. J. &amp; Gannon, J. L., 2012.
-    <a href="/downloads/publications/2012JA017879.pdf">Problem of the
-      Love-Gannon relation between the asymmetric disturbance field and
-      Dst</a>,
-    J. Geophys. Res., 117, A09216, doi:10.1029/2012JA017879.
+    <a href="/downloads/publications/2012JA017879.pdf">
+      Problem of the Love-Gannon relation between the asymmetric disturbance 
+      field and Dst</a>, J. Geophys. Res., 117, A09216, 
+    doi:10.1029/2012JA017879.
   </li>
   <li>
     Thomas, J. N., Love, J. J., Komjathy, A., Verkhoglyadova, O. P., Butala,
     M. &amp; Rivera, N., 2012.
-    <a href="/downloads/publications/2012GL051022.pdf">On the reported
-      ionospheric precursor of the 1999 Hector Mine, California earthquake</a>,
-    Geophys. Res. Lett., 39, L06302, doi:10.1029/2012L051022.
+    <a href="/downloads/publications/2012GL051022.pdf">
+      On the reported ionospheric precursor of the 1999 Hector Mine, California 
+      earthquake</a>, Geophys. Res. Lett., 39, L06302, doi:10.1029/2012L051022.
   </li>
 </ul>
 
@@ -354,62 +517,61 @@ if (!isset($TEMPLATE)) {
 <ul class="referencelist">
   <li>
     Gannon, J. L. &amp; Love, J. J., 2011.
-    <a href="/downloads/publications/LoveGannon1-minDst2011.pdf">USGS 1-min
-      Dst index</a>,
-    J. Atmos. Solar-Terr. Phys., 73, 323-334.
+    <a href="/downloads/publications/LoveGannon1-minDst2011.pdf">
+      USGS 1-min Dst index</a>, J. Atmos. Solar-Terr. Phys., 73, 323-334.
   </li>
   <li>
     Gannon, J. L., Love, J. J., Friberg, P. A., Stewart, D. C. &amp; Lisowski,
     S. W., 2011.
-    <a href="https://pubs.usgs.gov/of/2011/1030/">U.S. Geological Survey Near
-      Real-Time Dst Index</a>,
-    USGS Open-File Report, 2011-1030, 10 p.
+    <a href="https://pubs.usgs.gov/of/2011/1030/">
+      U.S. Geological Survey Near Real-Time Dst Index</a>, USGS Open-File 
+    Report, 2011-1030, 10 p.
   </li>
   <li>
     Love, J. J., 2011.
     <a href=
       "/downloads/publications/Magnetic-Observatory-McGraw-Hill-Encyclopedia.pdf">
-      Magnetic observatory</a>,
-    McGraw-Hill Encyclopedia of Science &amp; Technology, 10, 307-310.
+      Magnetic observatory</a>, McGraw-Hill Encyclopedia of Science &amp; 
+    Technology, 10, 307-310.
   </li>
   <li>
     Love, J. J., 2011.
-    <a href="/downloads/publications/angeo-29-251-2011.pdf">Secular trends in
-      storm-level geomagnetic activity</a>,
-    Ann. Geophys., 29, 251-262.
+    <a href="/downloads/publications/angeo-29-251-2011.pdf">
+      Secular trends in storm-level geomagnetic activity</a>, Ann. Geophys., 
+    29, 251-262.
   </li>
   <li>
     Love J. J., 2011.
-    <a href="/downloads/publications/angeo-29-1365-2011.pdf">Long-term biases
-      in geomagnetic K and aa indices</a>,
-    Ann. Geophys., 29, 1365-1375.
+    <a href="/downloads/publications/angeo-29-1365-2011.pdf">
+      Long-term biases in geomagnetic K and aa indices</a>, Ann. Geophys., 29, 
+    1365-1375.
   </li>
   <li>
     Love, J. J. &amp; Finn, C. A., 2011.
-    <a href="/downloads/publications/2011SW000684.pdf">The USGS Geomagnetism
-      Program and its role in space weather monitoring</a>,
-    Space Weather, 9, S07001, doi:10.1029/2011SW000684.
+    <a href="/downloads/publications/2011SW000684.pdf">
+      The USGS Geomagnetism Program and its role in space weather 
+      monitoring</a>, Space Weather, 9, S07001, doi:10.1029/2011SW000684.
   </li>
   <li>
     Love, J. J., Mursula, K., Tsai, V. C. &amp; Perkins, D. M., 2011.
-    <a href="/downloads/publications/2011GL049380.pdf">Are secular
-      correlations between sunspots, geomagnetic activity, and global
-      temperature significant?</a>,
-    Geophys. Res. Lett., 38, L21703, doi:10.1029/2011GL049380.
+    <a href="/downloads/publications/2011GL049380.pdf">
+      Are secular correlations between sunspots, geomagnetic activity, and 
+      global temperature significant?</a>, Geophys. Res. Lett., 38, L21703, 
+    doi:10.1029/2011GL049380.
   </li>
   <li>
     Mursula, K., Tanskanen, E. &amp; Love, J. J., 2011.
-    <a href="/downloads/publications/2011GL046751.pdf">Spring-fall asymmetry
-      of sub-storm strength, geomagnetic activity and solar wind: Implications
-      for semiannual variation and solar hemispheric asymmetry</a>,
-    Geophys. Res. Lett., 38, L06104, doi:10.1029/2011GL046751.
+    <a href="/downloads/publications/2011GL046751.pdf">
+      Spring-fall asymmetry of sub-storm strength, geomagnetic activity and 
+      solar wind: Implications for semiannual variation and solar hemispheric 
+      asymmetry</a>, Geophys. Res. Lett., 38, L06104, doi:10.1029/2011GL046751.
   </li>
   <li>
     Poedjono, B., Beck, N., Buchanan, A., Brink, J., Longo, J., Finn, C. A.
     &amp; Worthington, E. W., 2011.
-    <a href="/downloads/publications/SPE-149629_Final.pdf">Geomagnetic
-      Referencing in the Arctic environment</a>,
-    SPE-149629-PP, SPE Arctic and Extreme Environments Conference &amp;
+    <a href="/downloads/publications/SPE-149629_Final.pdf">
+      Geomagnetic Referencing in the Arctic environment</a>, SPE-149629-PP, 
+    SPE Arctic and Extreme Environments Conference &amp;
     Exhibition, Moscow, Russia, 18-20 Oct. 2011, doi:10.2118/149629-MS.
   </li>
   <li>
@@ -419,7 +581,7 @@ if (!isset($TEMPLATE)) {
   </li>
   <li>
     Rigler, E. J. &amp; Hill, S., 2011.
-    GOES-R SUVI thermatic maps algorithm theoretical basis document,
+    GOES-R SUVI thematic maps algorithm theoretical basis document,
     NOAA/NESDIS/STAR technical report.
   </li>
 </ul>
@@ -456,8 +618,7 @@ if (!isset($TEMPLATE)) {
     <a href=
       "/downloads/publications/Nature, August 20, 2009, Vol. 460 - Kelbert, Schultz, Egbert.pdf">
       Global electromagnetic induction constraints on transition-zone water
-      content variations</a>,
-    Nature, 460, 1003-1006, doi:10.1038/nature08257.
+      content variations</a>, Nature, 460, 1003-1006, doi:10.1038/nature08257.
   </li>
   <li>
     Love, J. J. &amp; Gannon, J. L., 2009.
@@ -853,7 +1014,7 @@ if (!isset($TEMPLATE)) {
     Love, J. J., 2000.
     <!--<a href="/downloads/publications/jonkers_book_review.pdf">-->
     Book review of Paleomagnetic Principles and Practice<!--</a>-->,
-    by L. Tauxe, AGU EOS, 81, 172.
+    by L. Tauxe, EOS, Trans. AGU, 81, 172.
   </li>
   <li>
     Macmillan, S. &amp; Quinn, J. M., 2000.
