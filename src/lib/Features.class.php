@@ -106,10 +106,10 @@ class Features {
    * @param $maxFeatures {Integer}
    *        number of features to output.
    *        output all if $maxFeatures is less than zero.
-   *        default 2.
+   *        default 3.
    * @return {String} html.
    */
-  public function toHtml($maxFeatures=2) {
+  public function toHtml($maxFeatures=3) {
     $items = $this->getItems();
     $len = count($items);
 
