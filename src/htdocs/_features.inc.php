@@ -11,6 +11,17 @@ $GM_FEATURES->author = 'U.S. Geological Survey';
 $GM_FEATURES->siteUrl = 'https://geomag.usgs.gov/';
 $GM_FEATURES->baseUrl = '';
 
+
+$GM_FEATURES->items[] = array(
+   'id' => '2018-06-13',
+   'title' => 'Rocks Under I-95 Present Odd, and Scary, Threat to Power Grid',
+   'content' => 'A soon-to-be-published USGS publication points out geomagnetic hazards in the Eastern U.S. (Bloomberg News Story)',
+   'link' => 'https://www.bloomberg.com/news/articles/2018-06-13/rocks-under-i-95-present-odd-and-scary-threat-to-power-grid',
+   'modified' => strtotime('2018-06-13'),
+   'thumbnail' => '/images-featured/powerlines-wikimedia.jpg',
+   'image' => '/images-featured/powerlines-wikimedia.jpg'
+ );
+
 $GM_FEATURES->items[] = array(
    'id' => '2018-04-09',
    'title' => 'The Electric Storm of November 1882',
