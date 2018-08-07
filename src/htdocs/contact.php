@@ -37,32 +37,21 @@
           </div>
         </div>
       </li>
+
       <li>
         <div class="row">
           <div class="column mobile-one-of-four">
-            <img src="/images/staff/Austin_Jason.jpg" alt=""/>
+            <img src="/images/staff/???" alt=""/>
           </div>
           <div class="column mobile-three-of-four">
-            Jason Austin<br/>
+            John Spritzer<br/>
             Operations<br/>
-            Ph: (303) 273-8590<br/>
-            <a href="mailto:jcaldwell@usgs.gov">joaustin@usgs.gov</a>
+            Ph: (303) 273-xxxx<br/>
+            <a href="mailto:jspritzer@usgs.gov">jspritzer@usgs.gov</a>
           </div>
         </div>
       </li>
-      <li>
-        <div class="row">
-          <div class="column mobile-one-of-four">
-            <img src="/images/staff/Caldwell_Jill.jpg" alt=""/>
-          </div>
-          <div class="column mobile-three-of-four">
-            Jill E. Caldwell<br/>
-            Data Processing<br/>
-            Ph: (303) 273-8486<br/>
-            <a href="mailto:jcaldwell@usgs.gov">jcaldwell@usgs.gov</a>
-          </div>
-        </div>
-      </li>
+
       <li>
         <div class="row">
           <div class="column mobile-one-of-four">
