@@ -17,9 +17,16 @@ if (!isset($TEMPLATE)) {
       </tr>
     </thead>
     <tbody>
+
+      <tr>
+        <th>2018-08-25 00:00:00Z  to  2018-08-28 00:00:00Z</th>
+        <th><a href="/storm/storm23.php">2018-08-25</a></th>
+        <th>174</th>
+      </tr>
+
       <tr>
         <th>2015-06-21 16:45:00Z  to  2015-06-22 18:30:00Z</th>
-        <th><a href="/storm/storm23.php">Event: 2015-06-23</a></th>
+        <th><a href="/storm/storm23.php">2015-06-23</a></th>
         <th>-195</th>
       </tr>
 
