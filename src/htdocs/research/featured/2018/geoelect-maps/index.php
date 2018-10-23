@@ -123,7 +123,7 @@
 </figure>
 
 <p>
-  <strong><a href="https://www.usgs.gov/staff-profiles/paul-a-bedrosian">Paul A. Bedrosian</a></strong> is a research geophysicist at the USGS since 2005. His toolbox includes a range of ground and airborne techniques, which he applies to problems ranging from framework tectonics to groundwater resources to volcanic hazards. In his spare time he enjoys cooking, gardening, hiking, and skiing as well as visiting the many fine brew pubs that Colorado has to offer.
+  <strong><a href="https://www.usgs.gov/staff-profiles/paul-a-bedrosian">Paul A. Bedrosian</a></strong> has been a research geophysicist at the USGS since 2005. His toolbox includes a range of ground and airborne techniques, which he applies to problems ranging from framework tectonics to groundwater resources to volcanic hazards. In his spare time he enjoys cooking, gardening, hiking, and skiing as well as visiting the many fine brew pubs that Colorado has to offer.
 </p>
 
 <br style="clear:left;"/>
