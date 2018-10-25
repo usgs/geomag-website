@@ -9,13 +9,11 @@
   }
 ?>
 
-<!--
 <p>
   <a href="geoelect-maps.pdf">
     <i class="material-icons">save_alt</i> Download PDF
   </a>
 </p>
--->
 
 <figure class='right'>
 <img src="images/dnb_united_states_lrg.jpg" alt="US at night from space showing lights"/>
