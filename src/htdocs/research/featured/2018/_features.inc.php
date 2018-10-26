@@ -17,6 +17,6 @@ $GM_FEATURES->baseUrl = '';
     'content' => 'Strange things started happening on November 17, 1882, and no one knew quite what to make of it.(image from Baranyi et al., 2016)',
     'link' => 'https://geomag.usgs.gov/research/featured/2018/elecstorm-1882/',
     'modified' => strtotime('2018-04-09'),
-    'thumbnail' => 'https://geomag.usgs.gov/research/featured/2018/electstorm-1882/images/sun.jpg',
-    'image' => 'https://geomag.usgs.gov/research/featured/2018/electstorm-1882/images/sun.jpg'
+    'thumbnail' => 'https://geomag.usgs.gov/research/featured/2018/elecstorm-1882/images/sun.jpg',
+    'image' => 'https://geomag.usgs.gov/research/featured/2018/elecstorm-1882/images/sun.jpg'
   );
