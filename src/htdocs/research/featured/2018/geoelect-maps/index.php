@@ -63,7 +63,7 @@
   An important ongoing project of the USGS and the National Oceanic and Atmospheric Administration is real-time mapping of geoelectric fields across the continental United States. To accomplish this, real-time maps of the geomagnetic field, created using data from magnetic observatories, are combined with magnetotelluric survey measurements to estimate the time-varying geoelectric field. These geoelectric field maps will assist utility companies with their real-time operations – enabling the assessment of geoelectric hazards as they evolve over the course of a magnetic storm and helping power-grid managers to make decisions that may minimize the impact to their systems.
 </p>
 
-<p>- written by Lisa Wald and Jeffrey Love, USGS, October 2018</p>
+<p>- written by Lisa Wald and Jeffrey J. Love, USGS, October 2018</p>
 
 <h2>For More Information</h2>
 <ul>
