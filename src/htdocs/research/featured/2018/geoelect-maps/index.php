@@ -16,7 +16,7 @@
 </p>
 
 <figure class='right'>
-<img src="images/dnb_united_states_lrg.jpg" alt="US at night from space showing lights"/>
+<img src="images/US-lights-night.jpg" alt="US at night from space showing lights"/>
 <figcaption>
 </figcaption>
 </figure>
