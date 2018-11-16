@@ -20,7 +20,7 @@ if (!isset($TEMPLATE)) {
 
       <tr>
         <th>2018-08-25 00:00:00Z  to  2018-08-28 00:00:00Z</th>
-        <th><a href="/storm/storm23.php">2018-08-25</a></th>
+        <th><a href="/storm/storm24.php">2018-08-25</a></th>
         <th>174</th>
       </tr>
 
