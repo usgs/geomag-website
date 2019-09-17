@@ -5,20 +5,19 @@ $SITE_URL = 'geomag.usgs.gov';
 
 // navigation above search, below section navigation
 $SITE_SITENAV =
-  navItem('/monitoring/', 'Monitoring') .
-  navItem('/products/', 'Data &amp; Products') .
-  navItem('/research/', 'Research') .
-  navItem('/publications/papers.php', 'Publications') .
-  navItem('/learn/', 'Learn') .
-  navItem('/services.php', 'Services') .
-  navItem('/partners.php', 'Partners &amp; Customers');
+  navItem('/https://cms.usgs.gov/natural-hazards/geomagnetism/monitoring', 'Monitoring') .
+  navItem('https://cms.usgs.gov/natural-hazards/geomagnetism/data-tools', 'Data &amp; Products') .
+  navItem('https://cms.usgs.gov/natural-hazards/geomagnetism/science', 'Research') .
+  navItem('https://cms.usgs.gov/natural-hazards/geomagnetism/publications', 'Publications') .
+  navItem('/https://cms.usgs.gov/natural-hazards/geomagnetism/education', 'Learn') .
+  navItem('https://cms.usgs.gov/natural-hazards/geomagnetism/partners', 'Partners &amp; Customers');
 
 // at bottom of page
 $SITE_COMMONNAV =
   navItem('/', 'Home') .
-  navItem('/about.php', 'About Us') .
-  navItem('/contact.php', 'Contacts') .
-  navItem('/legal.php', 'Legal');
+  navItem('https://cms.usgs.gov/natural-hazards/geomagnetism/about', 'About Us') .
+  navItem('https://cms.usgs.gov/natural-hazards/geomagnetism/connect', 'Contacts') .
+  navItem('https://cms.usgs.gov/policies-and-notices', 'Legal');
 
 $HEAD =
 // site theme, should use a site root-relative URL
